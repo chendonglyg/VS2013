@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Pay_Slip">
+</Property><Property Name="解决方案文件" Value="D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip.sln">
+</Property><Property Name="用户选项文件" Value="D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip.suo">
+</Property><Property Name="Date" Value="2012年1月17日">
+</Property><Property Name="Time" Value="10:34">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Pay_Slip.sln" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Pay_Slip.suo" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip.suo">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\Pay_Slip.vbproj" Description="项目文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\Pay_Slip.vbproj">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\Form1.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\Form1.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\My Project\AssemblyInfo.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\My Project\Application.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\My Project\Resources.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\My Project\Settings.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\Form2.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\Form2.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\Form2.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\Form2.vb">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\SendMessages.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\SendMessages.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\SendMessages.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\SendMessages.vb">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\TEL_EDIT.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\TEL_EDIT.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\TEL_EDIT.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\TEL_EDIT.vb">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\My Project\Application.myapp" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\My Project\Settings.settings" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\Resources\office图标下载2.ico" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\Resources\office图标下载2.ico">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\Resources\128_咖啡.ico" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\Resources\128_咖啡.ico">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\Resources\2222.ico" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\Resources\2222.ico">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\Resources\6552.ico" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\Resources\6552.ico">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\Form1.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\My Project\Resources.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\Form2.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\Form2.resx">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\SendMessages.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\SendMessages.resx">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\TEL_EDIT.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Backup\Pay_Slip\TEL_EDIT.resx">
+</Event><Event ErrorLevel="1" Project="Pay_Slip" Source="Pay_Slip\Pay_Slip.vbproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\Pay_Slip.vbproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Pay_Slip" Source="Pay_Slip\Pay_Slip.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Pay_Slip.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Pay_Slip.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Pay_Slip" Source="Pay_Slip\Pay_Slip.vbproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

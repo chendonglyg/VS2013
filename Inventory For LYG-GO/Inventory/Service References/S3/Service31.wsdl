@@ -1,0 +1,1775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="validate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="username" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="validateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="validateResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="addpinming">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ssgq" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="addpinmingResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="addpinmingResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="addcanshu">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="gqbh" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="addcanshuResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="addcanshuResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="delygbh">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="gqbh" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="delygbhResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="delygbhResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="addkcload">
+        <s:complexType />
+      </s:element>
+      <s:element name="addkcloadResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="addkcloadResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="addkcwz">
+        <s:complexType />
+      </s:element>
+      <s:element name="addkcwzResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="addkcwzResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="adddw">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="kc" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="adddwResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="adddwResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="addguige">
+        <s:complexType />
+      </s:element>
+      <s:element name="addguigeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="addguigeResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mohuscan">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="inputsel" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="mohuscanResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mohuscanResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="wlxx">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="inputsel" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="wlxxResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="wlxxResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertkcpd">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="wlbm" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="wlms" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="kc" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="dw" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="gg" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="danwei" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tsk" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="js" type="s:float" />
+            <s:element minOccurs="0" maxOccurs="1" name="pdry" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="jpry" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="bz" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="zl" type="s:float" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertkcpdResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="insertkcpdResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="analyze">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="gg" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="analyzeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="analyzeResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="addfl_wlms">
+        <s:complexType />
+      </s:element>
+      <s:element name="addfl_wlmsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="addfl_wlmsResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="addfl_kcd">
+        <s:complexType />
+      </s:element>
+      <s:element name="addfl_kcdResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="addfl_kcdResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="addfl_wlh">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="wlms" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="addfl_wlhResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="addfl_wlhResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertflpd">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="wlbm" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pz" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="kc" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="gg" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="gc" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="bz" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="username" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertflpdResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="insertflpdResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ddwl">
+        <s:complexType />
+      </s:element>
+      <s:element name="ddwlResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ddwlResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ddwlh">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="wlms" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ddwlhResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ddwlhResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertddkcpd">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="wlbm" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="wlms" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ch" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="h1" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="h2" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="h3" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="h4" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="h5" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="h6" type="s:float" />
+            <s:element minOccurs="0" maxOccurs="1" name="pdry" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="jpry" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="bz" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertddkcpdResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="insertddkcpdResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="adddd_cdcg">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ch" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="adddd_cdcgResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="adddd_cdcgResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertxbz">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pinming" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="dw" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="kcd" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cangqu" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="huowei" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pdry" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="jpry" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="spsl" type="s:float" />
+            <s:element minOccurs="0" maxOccurs="1" name="bz" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ph" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertxbzResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="insertxbzResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="findwlbm">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="wlms" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="findwlbmResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="findwlbmResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="adddp_wlms">
+        <s:complexType />
+      </s:element>
+      <s:element name="adddp_wlmsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="adddp_wlmsResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="adddp_wlbm">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="wlms" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="adddp_wlbmResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="adddp_wlbmResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertdp">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="wlbm" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="wlms" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="gg" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ch" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="dc1" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="dc2" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="dc3" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="dc4" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="dc5" type="s:float" />
+            <s:element minOccurs="1" maxOccurs="1" name="dc6" type="s:float" />
+            <s:element minOccurs="0" maxOccurs="1" name="bz" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pdry" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="jpry" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertdpResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="insertdpResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="xbz_cangqu">
+        <s:complexType />
+      </s:element>
+      <s:element name="xbz_cangquResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="xbz_cangquResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="xbz_kuwei">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cangqu" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="xbz_kuweiResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="xbz_kuweiResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="xbz_huoming">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="mohu" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="xbz_huomingResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="xbz_huomingResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="xbz_panduan">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pinming" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cangqu" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="huowei" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="xbz_panduanResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="xbz_panduanResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="updatexbz">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pinming" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="dw" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="kcd" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cangqu" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="huowei" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pdry" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="jpry" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="spsl" type="s:float" />
+            <s:element minOccurs="0" maxOccurs="1" name="bz" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ph" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="updatexbzResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="updatexbzResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="for_sh_OK">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="forid" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="forusername" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="forstation" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="for_sh_OKResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="for_sh_OKResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="for_sh_read">
+        <s:complexType />
+      </s:element>
+      <s:element name="for_sh_readResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="for_sh_readResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="for_sh_login">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="forusername" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="forpassword" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="for_sh_loginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="for_sh_loginResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="for_xbzsh_OK">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="forid" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="forusername" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="forstation" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="for_xbzsh_OKResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="for_xbzsh_OKResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="for_xbzsh_read">
+        <s:complexType />
+      </s:element>
+      <s:element name="for_xbzsh_readResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="for_xbzsh_readResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="for_xbzsh_login">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="forusername" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="forpassword" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="for_xbzsh_loginResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="for_xbzsh_loginResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="validateSoapIn">
+    <wsdl:part name="parameters" element="tns:validate" />
+  </wsdl:message>
+  <wsdl:message name="validateSoapOut">
+    <wsdl:part name="parameters" element="tns:validateResponse" />
+  </wsdl:message>
+  <wsdl:message name="addpinmingSoapIn">
+    <wsdl:part name="parameters" element="tns:addpinming" />
+  </wsdl:message>
+  <wsdl:message name="addpinmingSoapOut">
+    <wsdl:part name="parameters" element="tns:addpinmingResponse" />
+  </wsdl:message>
+  <wsdl:message name="addcanshuSoapIn">
+    <wsdl:part name="parameters" element="tns:addcanshu" />
+  </wsdl:message>
+  <wsdl:message name="addcanshuSoapOut">
+    <wsdl:part name="parameters" element="tns:addcanshuResponse" />
+  </wsdl:message>
+  <wsdl:message name="delygbhSoapIn">
+    <wsdl:part name="parameters" element="tns:delygbh" />
+  </wsdl:message>
+  <wsdl:message name="delygbhSoapOut">
+    <wsdl:part name="parameters" element="tns:delygbhResponse" />
+  </wsdl:message>
+  <wsdl:message name="addkcloadSoapIn">
+    <wsdl:part name="parameters" element="tns:addkcload" />
+  </wsdl:message>
+  <wsdl:message name="addkcloadSoapOut">
+    <wsdl:part name="parameters" element="tns:addkcloadResponse" />
+  </wsdl:message>
+  <wsdl:message name="addkcwzSoapIn">
+    <wsdl:part name="parameters" element="tns:addkcwz" />
+  </wsdl:message>
+  <wsdl:message name="addkcwzSoapOut">
+    <wsdl:part name="parameters" element="tns:addkcwzResponse" />
+  </wsdl:message>
+  <wsdl:message name="adddwSoapIn">
+    <wsdl:part name="parameters" element="tns:adddw" />
+  </wsdl:message>
+  <wsdl:message name="adddwSoapOut">
+    <wsdl:part name="parameters" element="tns:adddwResponse" />
+  </wsdl:message>
+  <wsdl:message name="addguigeSoapIn">
+    <wsdl:part name="parameters" element="tns:addguige" />
+  </wsdl:message>
+  <wsdl:message name="addguigeSoapOut">
+    <wsdl:part name="parameters" element="tns:addguigeResponse" />
+  </wsdl:message>
+  <wsdl:message name="mohuscanSoapIn">
+    <wsdl:part name="parameters" element="tns:mohuscan" />
+  </wsdl:message>
+  <wsdl:message name="mohuscanSoapOut">
+    <wsdl:part name="parameters" element="tns:mohuscanResponse" />
+  </wsdl:message>
+  <wsdl:message name="wlxxSoapIn">
+    <wsdl:part name="parameters" element="tns:wlxx" />
+  </wsdl:message>
+  <wsdl:message name="wlxxSoapOut">
+    <wsdl:part name="parameters" element="tns:wlxxResponse" />
+  </wsdl:message>
+  <wsdl:message name="insertkcpdSoapIn">
+    <wsdl:part name="parameters" element="tns:insertkcpd" />
+  </wsdl:message>
+  <wsdl:message name="insertkcpdSoapOut">
+    <wsdl:part name="parameters" element="tns:insertkcpdResponse" />
+  </wsdl:message>
+  <wsdl:message name="analyzeSoapIn">
+    <wsdl:part name="parameters" element="tns:analyze" />
+  </wsdl:message>
+  <wsdl:message name="analyzeSoapOut">
+    <wsdl:part name="parameters" element="tns:analyzeResponse" />
+  </wsdl:message>
+  <wsdl:message name="addfl_wlmsSoapIn">
+    <wsdl:part name="parameters" element="tns:addfl_wlms" />
+  </wsdl:message>
+  <wsdl:message name="addfl_wlmsSoapOut">
+    <wsdl:part name="parameters" element="tns:addfl_wlmsResponse" />
+  </wsdl:message>
+  <wsdl:message name="addfl_kcdSoapIn">
+    <wsdl:part name="parameters" element="tns:addfl_kcd" />
+  </wsdl:message>
+  <wsdl:message name="addfl_kcdSoapOut">
+    <wsdl:part name="parameters" element="tns:addfl_kcdResponse" />
+  </wsdl:message>
+  <wsdl:message name="addfl_wlhSoapIn">
+    <wsdl:part name="parameters" element="tns:addfl_wlh" />
+  </wsdl:message>
+  <wsdl:message name="addfl_wlhSoapOut">
+    <wsdl:part name="parameters" element="tns:addfl_wlhResponse" />
+  </wsdl:message>
+  <wsdl:message name="insertflpdSoapIn">
+    <wsdl:part name="parameters" element="tns:insertflpd" />
+  </wsdl:message>
+  <wsdl:message name="insertflpdSoapOut">
+    <wsdl:part name="parameters" element="tns:insertflpdResponse" />
+  </wsdl:message>
+  <wsdl:message name="ddwlSoapIn">
+    <wsdl:part name="parameters" element="tns:ddwl" />
+  </wsdl:message>
+  <wsdl:message name="ddwlSoapOut">
+    <wsdl:part name="parameters" element="tns:ddwlResponse" />
+  </wsdl:message>
+  <wsdl:message name="ddwlhSoapIn">
+    <wsdl:part name="parameters" element="tns:ddwlh" />
+  </wsdl:message>
+  <wsdl:message name="ddwlhSoapOut">
+    <wsdl:part name="parameters" element="tns:ddwlhResponse" />
+  </wsdl:message>
+  <wsdl:message name="insertddkcpdSoapIn">
+    <wsdl:part name="parameters" element="tns:insertddkcpd" />
+  </wsdl:message>
+  <wsdl:message name="insertddkcpdSoapOut">
+    <wsdl:part name="parameters" element="tns:insertddkcpdResponse" />
+  </wsdl:message>
+  <wsdl:message name="adddd_cdcgSoapIn">
+    <wsdl:part name="parameters" element="tns:adddd_cdcg" />
+  </wsdl:message>
+  <wsdl:message name="adddd_cdcgSoapOut">
+    <wsdl:part name="parameters" element="tns:adddd_cdcgResponse" />
+  </wsdl:message>
+  <wsdl:message name="insertxbzSoapIn">
+    <wsdl:part name="parameters" element="tns:insertxbz" />
+  </wsdl:message>
+  <wsdl:message name="insertxbzSoapOut">
+    <wsdl:part name="parameters" element="tns:insertxbzResponse" />
+  </wsdl:message>
+  <wsdl:message name="findwlbmSoapIn">
+    <wsdl:part name="parameters" element="tns:findwlbm" />
+  </wsdl:message>
+  <wsdl:message name="findwlbmSoapOut">
+    <wsdl:part name="parameters" element="tns:findwlbmResponse" />
+  </wsdl:message>
+  <wsdl:message name="adddp_wlmsSoapIn">
+    <wsdl:part name="parameters" element="tns:adddp_wlms" />
+  </wsdl:message>
+  <wsdl:message name="adddp_wlmsSoapOut">
+    <wsdl:part name="parameters" element="tns:adddp_wlmsResponse" />
+  </wsdl:message>
+  <wsdl:message name="adddp_wlbmSoapIn">
+    <wsdl:part name="parameters" element="tns:adddp_wlbm" />
+  </wsdl:message>
+  <wsdl:message name="adddp_wlbmSoapOut">
+    <wsdl:part name="parameters" element="tns:adddp_wlbmResponse" />
+  </wsdl:message>
+  <wsdl:message name="insertdpSoapIn">
+    <wsdl:part name="parameters" element="tns:insertdp" />
+  </wsdl:message>
+  <wsdl:message name="insertdpSoapOut">
+    <wsdl:part name="parameters" element="tns:insertdpResponse" />
+  </wsdl:message>
+  <wsdl:message name="xbz_cangquSoapIn">
+    <wsdl:part name="parameters" element="tns:xbz_cangqu" />
+  </wsdl:message>
+  <wsdl:message name="xbz_cangquSoapOut">
+    <wsdl:part name="parameters" element="tns:xbz_cangquResponse" />
+  </wsdl:message>
+  <wsdl:message name="xbz_kuweiSoapIn">
+    <wsdl:part name="parameters" element="tns:xbz_kuwei" />
+  </wsdl:message>
+  <wsdl:message name="xbz_kuweiSoapOut">
+    <wsdl:part name="parameters" element="tns:xbz_kuweiResponse" />
+  </wsdl:message>
+  <wsdl:message name="xbz_huomingSoapIn">
+    <wsdl:part name="parameters" element="tns:xbz_huoming" />
+  </wsdl:message>
+  <wsdl:message name="xbz_huomingSoapOut">
+    <wsdl:part name="parameters" element="tns:xbz_huomingResponse" />
+  </wsdl:message>
+  <wsdl:message name="xbz_panduanSoapIn">
+    <wsdl:part name="parameters" element="tns:xbz_panduan" />
+  </wsdl:message>
+  <wsdl:message name="xbz_panduanSoapOut">
+    <wsdl:part name="parameters" element="tns:xbz_panduanResponse" />
+  </wsdl:message>
+  <wsdl:message name="updatexbzSoapIn">
+    <wsdl:part name="parameters" element="tns:updatexbz" />
+  </wsdl:message>
+  <wsdl:message name="updatexbzSoapOut">
+    <wsdl:part name="parameters" element="tns:updatexbzResponse" />
+  </wsdl:message>
+  <wsdl:message name="for_sh_OKSoapIn">
+    <wsdl:part name="parameters" element="tns:for_sh_OK" />
+  </wsdl:message>
+  <wsdl:message name="for_sh_OKSoapOut">
+    <wsdl:part name="parameters" element="tns:for_sh_OKResponse" />
+  </wsdl:message>
+  <wsdl:message name="for_sh_readSoapIn">
+    <wsdl:part name="parameters" element="tns:for_sh_read" />
+  </wsdl:message>
+  <wsdl:message name="for_sh_readSoapOut">
+    <wsdl:part name="parameters" element="tns:for_sh_readResponse" />
+  </wsdl:message>
+  <wsdl:message name="for_sh_loginSoapIn">
+    <wsdl:part name="parameters" element="tns:for_sh_login" />
+  </wsdl:message>
+  <wsdl:message name="for_sh_loginSoapOut">
+    <wsdl:part name="parameters" element="tns:for_sh_loginResponse" />
+  </wsdl:message>
+  <wsdl:message name="for_xbzsh_OKSoapIn">
+    <wsdl:part name="parameters" element="tns:for_xbzsh_OK" />
+  </wsdl:message>
+  <wsdl:message name="for_xbzsh_OKSoapOut">
+    <wsdl:part name="parameters" element="tns:for_xbzsh_OKResponse" />
+  </wsdl:message>
+  <wsdl:message name="for_xbzsh_readSoapIn">
+    <wsdl:part name="parameters" element="tns:for_xbzsh_read" />
+  </wsdl:message>
+  <wsdl:message name="for_xbzsh_readSoapOut">
+    <wsdl:part name="parameters" element="tns:for_xbzsh_readResponse" />
+  </wsdl:message>
+  <wsdl:message name="for_xbzsh_loginSoapIn">
+    <wsdl:part name="parameters" element="tns:for_xbzsh_login" />
+  </wsdl:message>
+  <wsdl:message name="for_xbzsh_loginSoapOut">
+    <wsdl:part name="parameters" element="tns:for_xbzsh_loginResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Service3Soap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="validate">
+      <wsdl:input message="tns:validateSoapIn" />
+      <wsdl:output message="tns:validateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="addpinming">
+      <wsdl:input message="tns:addpinmingSoapIn" />
+      <wsdl:output message="tns:addpinmingSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="addcanshu">
+      <wsdl:input message="tns:addcanshuSoapIn" />
+      <wsdl:output message="tns:addcanshuSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="delygbh">
+      <wsdl:input message="tns:delygbhSoapIn" />
+      <wsdl:output message="tns:delygbhSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="addkcload">
+      <wsdl:input message="tns:addkcloadSoapIn" />
+      <wsdl:output message="tns:addkcloadSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="addkcwz">
+      <wsdl:input message="tns:addkcwzSoapIn" />
+      <wsdl:output message="tns:addkcwzSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="adddw">
+      <wsdl:input message="tns:adddwSoapIn" />
+      <wsdl:output message="tns:adddwSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="addguige">
+      <wsdl:input message="tns:addguigeSoapIn" />
+      <wsdl:output message="tns:addguigeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="mohuscan">
+      <wsdl:input message="tns:mohuscanSoapIn" />
+      <wsdl:output message="tns:mohuscanSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="wlxx">
+      <wsdl:input message="tns:wlxxSoapIn" />
+      <wsdl:output message="tns:wlxxSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="insertkcpd">
+      <wsdl:input message="tns:insertkcpdSoapIn" />
+      <wsdl:output message="tns:insertkcpdSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="analyze">
+      <wsdl:input message="tns:analyzeSoapIn" />
+      <wsdl:output message="tns:analyzeSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="addfl_wlms">
+      <wsdl:input message="tns:addfl_wlmsSoapIn" />
+      <wsdl:output message="tns:addfl_wlmsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="addfl_kcd">
+      <wsdl:input message="tns:addfl_kcdSoapIn" />
+      <wsdl:output message="tns:addfl_kcdSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="addfl_wlh">
+      <wsdl:input message="tns:addfl_wlhSoapIn" />
+      <wsdl:output message="tns:addfl_wlhSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="insertflpd">
+      <wsdl:input message="tns:insertflpdSoapIn" />
+      <wsdl:output message="tns:insertflpdSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ddwl">
+      <wsdl:input message="tns:ddwlSoapIn" />
+      <wsdl:output message="tns:ddwlSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ddwlh">
+      <wsdl:input message="tns:ddwlhSoapIn" />
+      <wsdl:output message="tns:ddwlhSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="insertddkcpd">
+      <wsdl:input message="tns:insertddkcpdSoapIn" />
+      <wsdl:output message="tns:insertddkcpdSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="adddd_cdcg">
+      <wsdl:input message="tns:adddd_cdcgSoapIn" />
+      <wsdl:output message="tns:adddd_cdcgSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="insertxbz">
+      <wsdl:input message="tns:insertxbzSoapIn" />
+      <wsdl:output message="tns:insertxbzSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="findwlbm">
+      <wsdl:input message="tns:findwlbmSoapIn" />
+      <wsdl:output message="tns:findwlbmSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="adddp_wlms">
+      <wsdl:input message="tns:adddp_wlmsSoapIn" />
+      <wsdl:output message="tns:adddp_wlmsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="adddp_wlbm">
+      <wsdl:input message="tns:adddp_wlbmSoapIn" />
+      <wsdl:output message="tns:adddp_wlbmSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="insertdp">
+      <wsdl:input message="tns:insertdpSoapIn" />
+      <wsdl:output message="tns:insertdpSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="xbz_cangqu">
+      <wsdl:input message="tns:xbz_cangquSoapIn" />
+      <wsdl:output message="tns:xbz_cangquSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="xbz_kuwei">
+      <wsdl:input message="tns:xbz_kuweiSoapIn" />
+      <wsdl:output message="tns:xbz_kuweiSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="xbz_huoming">
+      <wsdl:input message="tns:xbz_huomingSoapIn" />
+      <wsdl:output message="tns:xbz_huomingSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="xbz_panduan">
+      <wsdl:input message="tns:xbz_panduanSoapIn" />
+      <wsdl:output message="tns:xbz_panduanSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="updatexbz">
+      <wsdl:input message="tns:updatexbzSoapIn" />
+      <wsdl:output message="tns:updatexbzSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="for_sh_OK">
+      <wsdl:input message="tns:for_sh_OKSoapIn" />
+      <wsdl:output message="tns:for_sh_OKSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="for_sh_read">
+      <wsdl:input message="tns:for_sh_readSoapIn" />
+      <wsdl:output message="tns:for_sh_readSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="for_sh_login">
+      <wsdl:input message="tns:for_sh_loginSoapIn" />
+      <wsdl:output message="tns:for_sh_loginSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="for_xbzsh_OK">
+      <wsdl:input message="tns:for_xbzsh_OKSoapIn" />
+      <wsdl:output message="tns:for_xbzsh_OKSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="for_xbzsh_read">
+      <wsdl:input message="tns:for_xbzsh_readSoapIn" />
+      <wsdl:output message="tns:for_xbzsh_readSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="for_xbzsh_login">
+      <wsdl:input message="tns:for_xbzsh_loginSoapIn" />
+      <wsdl:output message="tns:for_xbzsh_loginSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Service3Soap" type="tns:Service3Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="validate">
+      <soap:operation soapAction="http://tempuri.org/validate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addpinming">
+      <soap:operation soapAction="http://tempuri.org/addpinming" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addcanshu">
+      <soap:operation soapAction="http://tempuri.org/addcanshu" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="delygbh">
+      <soap:operation soapAction="http://tempuri.org/delygbh" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addkcload">
+      <soap:operation soapAction="http://tempuri.org/addkcload" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addkcwz">
+      <soap:operation soapAction="http://tempuri.org/addkcwz" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="adddw">
+      <soap:operation soapAction="http://tempuri.org/adddw" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addguige">
+      <soap:operation soapAction="http://tempuri.org/addguige" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mohuscan">
+      <soap:operation soapAction="http://tempuri.org/mohuscan" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="wlxx">
+      <soap:operation soapAction="http://tempuri.org/wlxx" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertkcpd">
+      <soap:operation soapAction="http://tempuri.org/insertkcpd" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="analyze">
+      <soap:operation soapAction="http://tempuri.org/analyze" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addfl_wlms">
+      <soap:operation soapAction="http://tempuri.org/addfl_wlms" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addfl_kcd">
+      <soap:operation soapAction="http://tempuri.org/addfl_kcd" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addfl_wlh">
+      <soap:operation soapAction="http://tempuri.org/addfl_wlh" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertflpd">
+      <soap:operation soapAction="http://tempuri.org/insertflpd" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ddwl">
+      <soap:operation soapAction="http://tempuri.org/ddwl" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ddwlh">
+      <soap:operation soapAction="http://tempuri.org/ddwlh" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertddkcpd">
+      <soap:operation soapAction="http://tempuri.org/insertddkcpd" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="adddd_cdcg">
+      <soap:operation soapAction="http://tempuri.org/adddd_cdcg" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertxbz">
+      <soap:operation soapAction="http://tempuri.org/insertxbz" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="findwlbm">
+      <soap:operation soapAction="http://tempuri.org/findwlbm" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="adddp_wlms">
+      <soap:operation soapAction="http://tempuri.org/adddp_wlms" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="adddp_wlbm">
+      <soap:operation soapAction="http://tempuri.org/adddp_wlbm" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertdp">
+      <soap:operation soapAction="http://tempuri.org/insertdp" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="xbz_cangqu">
+      <soap:operation soapAction="http://tempuri.org/xbz_cangqu" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="xbz_kuwei">
+      <soap:operation soapAction="http://tempuri.org/xbz_kuwei" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="xbz_huoming">
+      <soap:operation soapAction="http://tempuri.org/xbz_huoming" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="xbz_panduan">
+      <soap:operation soapAction="http://tempuri.org/xbz_panduan" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updatexbz">
+      <soap:operation soapAction="http://tempuri.org/updatexbz" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="for_sh_OK">
+      <soap:operation soapAction="http://tempuri.org/for_sh_OK" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="for_sh_read">
+      <soap:operation soapAction="http://tempuri.org/for_sh_read" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="for_sh_login">
+      <soap:operation soapAction="http://tempuri.org/for_sh_login" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="for_xbzsh_OK">
+      <soap:operation soapAction="http://tempuri.org/for_xbzsh_OK" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="for_xbzsh_read">
+      <soap:operation soapAction="http://tempuri.org/for_xbzsh_read" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="for_xbzsh_login">
+      <soap:operation soapAction="http://tempuri.org/for_xbzsh_login" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="Service3Soap12" type="tns:Service3Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="validate">
+      <soap12:operation soapAction="http://tempuri.org/validate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addpinming">
+      <soap12:operation soapAction="http://tempuri.org/addpinming" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addcanshu">
+      <soap12:operation soapAction="http://tempuri.org/addcanshu" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="delygbh">
+      <soap12:operation soapAction="http://tempuri.org/delygbh" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addkcload">
+      <soap12:operation soapAction="http://tempuri.org/addkcload" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addkcwz">
+      <soap12:operation soapAction="http://tempuri.org/addkcwz" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="adddw">
+      <soap12:operation soapAction="http://tempuri.org/adddw" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addguige">
+      <soap12:operation soapAction="http://tempuri.org/addguige" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="mohuscan">
+      <soap12:operation soapAction="http://tempuri.org/mohuscan" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="wlxx">
+      <soap12:operation soapAction="http://tempuri.org/wlxx" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertkcpd">
+      <soap12:operation soapAction="http://tempuri.org/insertkcpd" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="analyze">
+      <soap12:operation soapAction="http://tempuri.org/analyze" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addfl_wlms">
+      <soap12:operation soapAction="http://tempuri.org/addfl_wlms" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addfl_kcd">
+      <soap12:operation soapAction="http://tempuri.org/addfl_kcd" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="addfl_wlh">
+      <soap12:operation soapAction="http://tempuri.org/addfl_wlh" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertflpd">
+      <soap12:operation soapAction="http://tempuri.org/insertflpd" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ddwl">
+      <soap12:operation soapAction="http://tempuri.org/ddwl" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ddwlh">
+      <soap12:operation soapAction="http://tempuri.org/ddwlh" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertddkcpd">
+      <soap12:operation soapAction="http://tempuri.org/insertddkcpd" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="adddd_cdcg">
+      <soap12:operation soapAction="http://tempuri.org/adddd_cdcg" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertxbz">
+      <soap12:operation soapAction="http://tempuri.org/insertxbz" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="findwlbm">
+      <soap12:operation soapAction="http://tempuri.org/findwlbm" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="adddp_wlms">
+      <soap12:operation soapAction="http://tempuri.org/adddp_wlms" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="adddp_wlbm">
+      <soap12:operation soapAction="http://tempuri.org/adddp_wlbm" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertdp">
+      <soap12:operation soapAction="http://tempuri.org/insertdp" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="xbz_cangqu">
+      <soap12:operation soapAction="http://tempuri.org/xbz_cangqu" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="xbz_kuwei">
+      <soap12:operation soapAction="http://tempuri.org/xbz_kuwei" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="xbz_huoming">
+      <soap12:operation soapAction="http://tempuri.org/xbz_huoming" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="xbz_panduan">
+      <soap12:operation soapAction="http://tempuri.org/xbz_panduan" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updatexbz">
+      <soap12:operation soapAction="http://tempuri.org/updatexbz" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="for_sh_OK">
+      <soap12:operation soapAction="http://tempuri.org/for_sh_OK" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="for_sh_read">
+      <soap12:operation soapAction="http://tempuri.org/for_sh_read" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="for_sh_login">
+      <soap12:operation soapAction="http://tempuri.org/for_sh_login" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="for_xbzsh_OK">
+      <soap12:operation soapAction="http://tempuri.org/for_xbzsh_OK" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="for_xbzsh_read">
+      <soap12:operation soapAction="http://tempuri.org/for_xbzsh_read" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="for_xbzsh_login">
+      <soap12:operation soapAction="http://tempuri.org/for_xbzsh_login" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service3">
+    <wsdl:port name="Service3Soap" binding="tns:Service3Soap">
+      <soap:address location="http://222.189.4.146:20822/Service3.asmx" />
+    </wsdl:port>
+    <wsdl:port name="Service3Soap12" binding="tns:Service3Soap12">
+      <soap12:address location="http://222.189.4.146:20822/Service3.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

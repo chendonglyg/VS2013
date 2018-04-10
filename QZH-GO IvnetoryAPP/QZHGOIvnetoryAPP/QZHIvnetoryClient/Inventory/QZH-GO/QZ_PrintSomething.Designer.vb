@@ -1,0 +1,431 @@
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+Partial Class QZ_PrintSomething
+    Inherits System.Windows.Forms.Form
+
+    'Form 重写 Dispose，以清理组件列表。
+    <System.Diagnostics.DebuggerNonUserCode()> _
+    Protected Overrides Sub Dispose(ByVal disposing As Boolean)
+        Try
+            If disposing AndAlso components IsNot Nothing Then
+                components.Dispose()
+            End If
+        Finally
+            MyBase.Dispose(disposing)
+        End Try
+    End Sub
+
+    'Windows 窗体设计器所必需的
+    Private components As System.ComponentModel.IContainer
+
+    '注意: 以下过程是 Windows 窗体设计器所必需的
+    '可以使用 Windows 窗体设计器修改它。
+    '不要使用代码编辑器修改它。
+    <System.Diagnostics.DebuggerStepThrough()> _
+    Private Sub InitializeComponent()
+        Me.jilushu = New System.Windows.Forms.Label()
+        Me.dgv = New System.Windows.Forms.DataGridView()
+        Me.Button3 = New System.Windows.Forms.Button()
+        Me.Button2 = New System.Windows.Forms.Button()
+        Me.Button1 = New System.Windows.Forms.Button()
+        Me.xbzck3 = New System.Windows.Forms.RadioButton()
+        Me.xbzck2 = New System.Windows.Forms.RadioButton()
+        Me.flsj = New System.Windows.Forms.Label()
+        Me.flpd = New System.Windows.Forms.RadioButton()
+        Me.Label8 = New System.Windows.Forms.Label()
+        Me.yxgq = New System.Windows.Forms.RadioButton()
+        Me.Label6 = New System.Windows.Forms.Label()
+        Me.xbzck = New System.Windows.Forms.RadioButton()
+        Me.Label7 = New System.Windows.Forms.Label()
+        Me.gckdp = New System.Windows.Forms.RadioButton()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.ddtc = New System.Windows.Forms.RadioButton()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.dptc = New System.Windows.Forms.RadioButton()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.gq = New System.Windows.Forms.RadioButton()
+        Me.seldel = New System.Windows.Forms.CheckBox()
+        Me.GroupBox1 = New System.Windows.Forms.GroupBox()
+        Me.Label3 = New System.Windows.Forms.Label()
+        Me.dt12 = New System.Windows.Forms.DateTimePicker()
+        Me.dt11 = New System.Windows.Forms.DateTimePicker()
+        Me.Label1 = New System.Windows.Forms.Label()
+        CType(Me.dgv, System.ComponentModel.ISupportInitialize).BeginInit()
+        Me.GroupBox1.SuspendLayout()
+        Me.SuspendLayout()
+        '
+        'jilushu
+        '
+        Me.jilushu.AutoSize = True
+        Me.jilushu.Font = New System.Drawing.Font("宋体", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(134, Byte))
+        Me.jilushu.ForeColor = System.Drawing.Color.Blue
+        Me.jilushu.Location = New System.Drawing.Point(865, 501)
+        Me.jilushu.Name = "jilushu"
+        Me.jilushu.Size = New System.Drawing.Size(53, 12)
+        Me.jilushu.TabIndex = 315
+        Me.jilushu.Text = "记录数："
+        '
+        'dgv
+        '
+        Me.dgv.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
+        Me.dgv.Location = New System.Drawing.Point(21, 296)
+        Me.dgv.Name = "dgv"
+        Me.dgv.Size = New System.Drawing.Size(1019, 202)
+        Me.dgv.TabIndex = 313
+        '
+        'Button3
+        '
+        Me.Button3.Location = New System.Drawing.Point(21, 246)
+        Me.Button3.Name = "Button3"
+        Me.Button3.Size = New System.Drawing.Size(332, 44)
+        Me.Button3.TabIndex = 312
+        Me.Button3.Text = "查询"
+        Me.Button3.UseVisualStyleBackColor = True
+        '
+        'Button2
+        '
+        Me.Button2.Location = New System.Drawing.Point(679, 246)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(361, 44)
+        Me.Button2.TabIndex = 311
+        Me.Button2.Text = "退出"
+        Me.Button2.UseVisualStyleBackColor = True
+        '
+        'Button1
+        '
+        Me.Button1.Location = New System.Drawing.Point(359, 246)
+        Me.Button1.Name = "Button1"
+        Me.Button1.Size = New System.Drawing.Size(314, 44)
+        Me.Button1.TabIndex = 310
+        Me.Button1.Text = "打印"
+        Me.Button1.UseVisualStyleBackColor = True
+        '
+        'xbzck3
+        '
+        Me.xbzck3.AutoSize = True
+        Me.xbzck3.Enabled = False
+        Me.xbzck3.Location = New System.Drawing.Point(806, 80)
+        Me.xbzck3.Name = "xbzck3"
+        Me.xbzck3.Size = New System.Drawing.Size(107, 16)
+        Me.xbzck3.TabIndex = 309
+        Me.xbzck3.TabStop = True
+        Me.xbzck3.Text = "按盘点人员分组"
+        Me.xbzck3.UseVisualStyleBackColor = True
+        '
+        'xbzck2
+        '
+        Me.xbzck2.AutoSize = True
+        Me.xbzck2.Enabled = False
+        Me.xbzck2.Location = New System.Drawing.Point(806, 58)
+        Me.xbzck2.Name = "xbzck2"
+        Me.xbzck2.Size = New System.Drawing.Size(155, 16)
+        Me.xbzck2.TabIndex = 308
+        Me.xbzck2.TabStop = True
+        Me.xbzck2.Text = "按货物种类打印简要小计"
+        Me.xbzck2.UseVisualStyleBackColor = True
+        '
+        'flsj
+        '
+        Me.flsj.AutoSize = True
+        Me.flsj.Enabled = False
+        Me.flsj.Font = New System.Drawing.Font("Bookman Old Style", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.flsj.ForeColor = System.Drawing.Color.Red
+        Me.flsj.Location = New System.Drawing.Point(196, 78)
+        Me.flsj.Name = "flsj"
+        Me.flsj.Size = New System.Drawing.Size(76, 18)
+        Me.flsj.TabIndex = 307
+        Me.flsj.Text = "辅料数据"
+        Me.flsj.TextAlign = System.Drawing.ContentAlignment.TopCenter
+        '
+        'flpd
+        '
+        Me.flpd.AutoSize = True
+        Me.flpd.Enabled = False
+        Me.flpd.Location = New System.Drawing.Point(197, 95)
+        Me.flpd.Name = "flpd"
+        Me.flpd.Size = New System.Drawing.Size(203, 16)
+        Me.flpd.TabIndex = 306
+        Me.flpd.TabStop = True
+        Me.flpd.Text = "按指定时间内对散粕筒仓盘点打印"
+        Me.flpd.UseVisualStyleBackColor = True
+        '
+        'Label8
+        '
+        Me.Label8.AutoSize = True
+        Me.Label8.Enabled = False
+        Me.Label8.Font = New System.Drawing.Font("Bookman Old Style", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label8.ForeColor = System.Drawing.Color.Red
+        Me.Label8.Location = New System.Drawing.Point(11, 78)
+        Me.Label8.Name = "Label8"
+        Me.Label8.Size = New System.Drawing.Size(76, 18)
+        Me.Label8.TabIndex = 305
+        Me.Label8.Text = "营销罐区"
+        Me.Label8.TextAlign = System.Drawing.ContentAlignment.TopCenter
+        '
+        'yxgq
+        '
+        Me.yxgq.AutoSize = True
+        Me.yxgq.Enabled = False
+        Me.yxgq.Location = New System.Drawing.Point(12, 95)
+        Me.yxgq.Name = "yxgq"
+        Me.yxgq.Size = New System.Drawing.Size(179, 16)
+        Me.yxgq.TabIndex = 304
+        Me.yxgq.TabStop = True
+        Me.yxgq.Text = "按指定时间内对罐区盘点打印"
+        Me.yxgq.UseVisualStyleBackColor = True
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Enabled = False
+        Me.Label6.Font = New System.Drawing.Font("Bookman Old Style", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label6.ForeColor = System.Drawing.Color.Red
+        Me.Label6.Location = New System.Drawing.Point(805, 18)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(93, 18)
+        Me.Label6.TabIndex = 303
+        Me.Label6.Text = "小包装仓库"
+        Me.Label6.TextAlign = System.Drawing.ContentAlignment.TopCenter
+        '
+        'xbzck
+        '
+        Me.xbzck.AutoSize = True
+        Me.xbzck.Enabled = False
+        Me.xbzck.Location = New System.Drawing.Point(806, 36)
+        Me.xbzck.Name = "xbzck"
+        Me.xbzck.Size = New System.Drawing.Size(155, 16)
+        Me.xbzck.TabIndex = 302
+        Me.xbzck.TabStop = True
+        Me.xbzck.Text = "按货物种类打印明细小计"
+        Me.xbzck.UseVisualStyleBackColor = True
+        '
+        'Label7
+        '
+        Me.Label7.AutoSize = True
+        Me.Label7.Enabled = False
+        Me.Label7.Font = New System.Drawing.Font("Bookman Old Style", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label7.ForeColor = System.Drawing.Color.Red
+        Me.Label7.Location = New System.Drawing.Point(592, 18)
+        Me.Label7.Name = "Label7"
+        Me.Label7.Size = New System.Drawing.Size(93, 18)
+        Me.Label7.TabIndex = 301
+        Me.Label7.Text = "工厂库豆粕"
+        Me.Label7.TextAlign = System.Drawing.ContentAlignment.TopCenter
+        '
+        'gckdp
+        '
+        Me.gckdp.AutoSize = True
+        Me.gckdp.Enabled = False
+        Me.gckdp.Location = New System.Drawing.Point(593, 36)
+        Me.gckdp.Name = "gckdp"
+        Me.gckdp.Size = New System.Drawing.Size(203, 16)
+        Me.gckdp.TabIndex = 300
+        Me.gckdp.TabStop = True
+        Me.gckdp.Text = "对指定时间内工厂库豆粕盘点打印"
+        Me.gckdp.UseVisualStyleBackColor = True
+        '
+        'Label5
+        '
+        Me.Label5.AutoSize = True
+        Me.Label5.Enabled = False
+        Me.Label5.Font = New System.Drawing.Font("Bookman Old Style", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label5.ForeColor = System.Drawing.Color.Red
+        Me.Label5.Location = New System.Drawing.Point(401, 18)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(76, 18)
+        Me.Label5.TabIndex = 295
+        Me.Label5.Text = "大豆筒仓"
+        Me.Label5.TextAlign = System.Drawing.ContentAlignment.TopCenter
+        '
+        'ddtc
+        '
+        Me.ddtc.AutoSize = True
+        Me.ddtc.Enabled = False
+        Me.ddtc.Location = New System.Drawing.Point(402, 36)
+        Me.ddtc.Name = "ddtc"
+        Me.ddtc.Size = New System.Drawing.Size(191, 16)
+        Me.ddtc.TabIndex = 294
+        Me.ddtc.TabStop = True
+        Me.ddtc.Text = "按指定时间内大豆筒仓盘点打印"
+        Me.ddtc.UseVisualStyleBackColor = True
+        '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Enabled = False
+        Me.Label4.Font = New System.Drawing.Font("Bookman Old Style", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label4.ForeColor = System.Drawing.Color.Red
+        Me.Label4.Location = New System.Drawing.Point(196, 18)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(76, 18)
+        Me.Label4.TabIndex = 292
+        Me.Label4.Text = "散粕筒仓"
+        Me.Label4.TextAlign = System.Drawing.ContentAlignment.TopCenter
+        '
+        'dptc
+        '
+        Me.dptc.AutoSize = True
+        Me.dptc.Enabled = False
+        Me.dptc.Location = New System.Drawing.Point(197, 36)
+        Me.dptc.Name = "dptc"
+        Me.dptc.Size = New System.Drawing.Size(203, 16)
+        Me.dptc.TabIndex = 291
+        Me.dptc.TabStop = True
+        Me.dptc.Text = "按指定时间内对散粕筒仓盘点打印"
+        Me.dptc.UseVisualStyleBackColor = True
+        '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Enabled = False
+        Me.Label2.Font = New System.Drawing.Font("Bookman Old Style", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label2.ForeColor = System.Drawing.Color.Red
+        Me.Label2.Location = New System.Drawing.Point(11, 18)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(76, 18)
+        Me.Label2.TabIndex = 290
+        Me.Label2.Text = "粮油罐区"
+        Me.Label2.TextAlign = System.Drawing.ContentAlignment.TopCenter
+        '
+        'gq
+        '
+        Me.gq.AutoSize = True
+        Me.gq.Enabled = False
+        Me.gq.Location = New System.Drawing.Point(12, 36)
+        Me.gq.Name = "gq"
+        Me.gq.Size = New System.Drawing.Size(179, 16)
+        Me.gq.TabIndex = 289
+        Me.gq.TabStop = True
+        Me.gq.Text = "按指定时间内对罐区盘点打印"
+        Me.gq.UseVisualStyleBackColor = True
+        '
+        'seldel
+        '
+        Me.seldel.AutoSize = True
+        Me.seldel.Location = New System.Drawing.Point(434, 57)
+        Me.seldel.Name = "seldel"
+        Me.seldel.Size = New System.Drawing.Size(180, 16)
+        Me.seldel.TabIndex = 314
+        Me.seldel.Text = "打印包含删除标志的所有记录"
+        Me.seldel.UseVisualStyleBackColor = True
+        '
+        'GroupBox1
+        '
+        Me.GroupBox1.Controls.Add(Me.xbzck3)
+        Me.GroupBox1.Controls.Add(Me.xbzck2)
+        Me.GroupBox1.Controls.Add(Me.flsj)
+        Me.GroupBox1.Controls.Add(Me.flpd)
+        Me.GroupBox1.Controls.Add(Me.Label8)
+        Me.GroupBox1.Controls.Add(Me.yxgq)
+        Me.GroupBox1.Controls.Add(Me.Label6)
+        Me.GroupBox1.Controls.Add(Me.xbzck)
+        Me.GroupBox1.Controls.Add(Me.Label7)
+        Me.GroupBox1.Controls.Add(Me.gckdp)
+        Me.GroupBox1.Controls.Add(Me.Label5)
+        Me.GroupBox1.Controls.Add(Me.ddtc)
+        Me.GroupBox1.Controls.Add(Me.Label4)
+        Me.GroupBox1.Controls.Add(Me.dptc)
+        Me.GroupBox1.Controls.Add(Me.Label2)
+        Me.GroupBox1.Controls.Add(Me.gq)
+        Me.GroupBox1.Location = New System.Drawing.Point(21, 116)
+        Me.GroupBox1.Name = "GroupBox1"
+        Me.GroupBox1.Size = New System.Drawing.Size(1019, 125)
+        Me.GroupBox1.TabIndex = 309
+        Me.GroupBox1.TabStop = False
+        Me.GroupBox1.Text = "区域选择"
+        '
+        'Label3
+        '
+        Me.Label3.AutoSize = True
+        Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label3.ForeColor = System.Drawing.Color.Red
+        Me.Label3.Location = New System.Drawing.Point(515, 82)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(26, 20)
+        Me.Label3.TabIndex = 308
+        Me.Label3.Text = "至"
+        Me.Label3.TextAlign = System.Drawing.ContentAlignment.TopCenter
+        '
+        'dt12
+        '
+        Me.dt12.CustomFormat = "yyyy-MM-dd HH:mm:ss"
+        Me.dt12.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.dt12.Format = System.Windows.Forms.DateTimePickerFormat.Custom
+        Me.dt12.Location = New System.Drawing.Point(547, 82)
+        Me.dt12.Name = "dt12"
+        Me.dt12.Size = New System.Drawing.Size(141, 21)
+        Me.dt12.TabIndex = 307
+        '
+        'dt11
+        '
+        Me.dt11.CustomFormat = "yyyy-MM-dd HH:mm:ss"
+        Me.dt11.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.dt11.Format = System.Windows.Forms.DateTimePickerFormat.Custom
+        Me.dt11.Location = New System.Drawing.Point(368, 82)
+        Me.dt11.Name = "dt11"
+        Me.dt11.Size = New System.Drawing.Size(141, 21)
+        Me.dt11.TabIndex = 306
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Font = New System.Drawing.Font("Verdana", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.Location = New System.Drawing.Point(418, 16)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(215, 38)
+        Me.Label1.TabIndex = 305
+        Me.Label1.Text = "盘点报表打印"
+        '
+        'QZ_PrintSomething
+        '
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 12.0!)
+        Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.ClientSize = New System.Drawing.Size(1060, 528)
+        Me.Controls.Add(Me.jilushu)
+        Me.Controls.Add(Me.dgv)
+        Me.Controls.Add(Me.Button3)
+        Me.Controls.Add(Me.Button2)
+        Me.Controls.Add(Me.Button1)
+        Me.Controls.Add(Me.seldel)
+        Me.Controls.Add(Me.GroupBox1)
+        Me.Controls.Add(Me.Label3)
+        Me.Controls.Add(Me.dt12)
+        Me.Controls.Add(Me.dt11)
+        Me.Controls.Add(Me.Label1)
+        Me.Name = "QZ_PrintSomething"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
+        Me.Text = "泉州福海粮油工业有限公司"
+        CType(Me.dgv, System.ComponentModel.ISupportInitialize).EndInit()
+        Me.GroupBox1.ResumeLayout(False)
+        Me.GroupBox1.PerformLayout()
+        Me.ResumeLayout(False)
+        Me.PerformLayout()
+
+    End Sub
+    Friend WithEvents jilushu As System.Windows.Forms.Label
+    Friend WithEvents dgv As System.Windows.Forms.DataGridView
+    Friend WithEvents Button3 As System.Windows.Forms.Button
+    Friend WithEvents Button2 As System.Windows.Forms.Button
+    Friend WithEvents Button1 As System.Windows.Forms.Button
+    Friend WithEvents xbzck3 As System.Windows.Forms.RadioButton
+    Friend WithEvents xbzck2 As System.Windows.Forms.RadioButton
+    Friend WithEvents flsj As System.Windows.Forms.Label
+    Friend WithEvents flpd As System.Windows.Forms.RadioButton
+    Friend WithEvents Label8 As System.Windows.Forms.Label
+    Friend WithEvents yxgq As System.Windows.Forms.RadioButton
+    Friend WithEvents Label6 As System.Windows.Forms.Label
+    Friend WithEvents xbzck As System.Windows.Forms.RadioButton
+    Friend WithEvents Label7 As System.Windows.Forms.Label
+    Friend WithEvents gckdp As System.Windows.Forms.RadioButton
+    Friend WithEvents Label5 As System.Windows.Forms.Label
+    Friend WithEvents ddtc As System.Windows.Forms.RadioButton
+    Friend WithEvents Label4 As System.Windows.Forms.Label
+    Friend WithEvents dptc As System.Windows.Forms.RadioButton
+    Friend WithEvents Label2 As System.Windows.Forms.Label
+    Friend WithEvents gq As System.Windows.Forms.RadioButton
+    Friend WithEvents seldel As System.Windows.Forms.CheckBox
+    Friend WithEvents GroupBox1 As System.Windows.Forms.GroupBox
+    Friend WithEvents Label3 As System.Windows.Forms.Label
+    Friend WithEvents dt12 As System.Windows.Forms.DateTimePicker
+    Friend WithEvents dt11 As System.Windows.Forms.DateTimePicker
+    Friend WithEvents Label1 As System.Windows.Forms.Label
+End Class

@@ -1,0 +1,50 @@
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZHInventoryClient.vbprojResolveAssemblyReference.cache
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZHInventoryClient.vbproj.GenerateResource.Cache
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\bin\Debug\QZInventorySystem.exe.config
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.CalculateSimulator.resources
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.QZ_Mission.resources
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.QZ_Inventory.resources
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.LoginForm1.resources
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.MDIMain.resources
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.Resources.resources
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.QZ_PrintSomethingDisplay.resources
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.QZ_PrintSomething.resources
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.QZ_Users.resources
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.SA.resources
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\bin\Debug\QZInventorySystem.exe.manifest
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\bin\Debug\QZInventorySystem.application
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\bin\Debug\QZInventorySystem.exe
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\bin\Debug\QZInventorySystem.pdb
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\bin\Debug\QZInventorySystem.xml
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.TrustInfo.xml
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.exe.manifest
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.application
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.exe
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.xml
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.pdb
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.QZ_Silo.resources
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\bin\Debug\QZInventorySystem.exe.config
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.exe
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.xml
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.pdb
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZHInventoryClient.vbprojResolveAssemblyReference.cache
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.CalculateSimulator.resources
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.QZ_Mission.resources
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.QZ_Inventory.resources
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.LoginForm1.resources
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.MDIMain.resources
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.Resources.resources
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.QZ_PrintSomethingDisplay.resources
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.QZ_PrintSomething.resources
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.QZ_Silo.resources
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.QZ_Users.resources
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.SA.resources
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZHInventoryClient.vbproj.GenerateResource.Cache
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\bin\Debug\QZInventorySystem.exe.manifest
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\bin\Debug\QZInventorySystem.application
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\bin\Debug\QZInventorySystem.exe
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\bin\Debug\QZInventorySystem.pdb
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\bin\Debug\QZInventorySystem.xml
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.TrustInfo.xml
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.exe.manifest
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\QZInventorySystem.application

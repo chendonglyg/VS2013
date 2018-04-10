@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet2" targetNamespace="http://tempuri.org/DataSet2.xsd" xmlns:mstns="http://tempuri.org/DataSet2.xsd" xmlns="http://tempuri.org/DataSet2.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="JustForSelfPrint" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="JustForSelfPrint (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SelfHelpSystem.My.MySettings.GlobalReference.Default.JustForSelfPrint" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TRUCK_QUEUETableAdapter" GeneratorDataComponentClassName="TRUCK_QUEUETableAdapter" Name="TRUCK_QUEUE" UserDataComponentName="TRUCK_QUEUETableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="JustForSelfPrint (MySettings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT   TRUCK_QUEUE.*, TRUCK_QUEUE_IMAGE.*
+FROM      TRUCK_QUEUE INNER JOIN
+                TRUCK_QUEUE_IMAGE ON TRUCK_QUEUE.id = TRUCK_QUEUE_IMAGE.id</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="id" DataSetColumn="id" />
+              <Mapping SourceColumn="客户名称" DataSetColumn="客户名称" />
+              <Mapping SourceColumn="货物名称" DataSetColumn="货物名称" />
+              <Mapping SourceColumn="提单号" DataSetColumn="提单号" />
+              <Mapping SourceColumn="提单创建日期" DataSetColumn="提单创建日期" />
+              <Mapping SourceColumn="提单数量" DataSetColumn="提单数量" />
+              <Mapping SourceColumn="车号" DataSetColumn="车号" />
+              <Mapping SourceColumn="电话号码" DataSetColumn="电话号码" />
+              <Mapping SourceColumn="可登记" DataSetColumn="可登记" />
+              <Mapping SourceColumn="已登记" DataSetColumn="已登记" />
+              <Mapping SourceColumn="可进厂" DataSetColumn="可进厂" />
+              <Mapping SourceColumn="已完成" DataSetColumn="已完成" />
+              <Mapping SourceColumn="已退回" DataSetColumn="已退回" />
+              <Mapping SourceColumn="推送时间" DataSetColumn="推送时间" />
+              <Mapping SourceColumn="登记时间" DataSetColumn="登记时间" />
+              <Mapping SourceColumn="进厂时间" DataSetColumn="进厂时间" />
+              <Mapping SourceColumn="完成时间" DataSetColumn="完成时间" />
+              <Mapping SourceColumn="备注" DataSetColumn="备注" />
+              <Mapping SourceColumn="退回时间" DataSetColumn="退回时间" />
+              <Mapping SourceColumn="自派车" DataSetColumn="自派车" />
+              <Mapping SourceColumn="对应订单号" DataSetColumn="对应订单号" />
+              <Mapping SourceColumn="到站" DataSetColumn="到站" />
+              <Mapping SourceColumn="导入批次" DataSetColumn="导入批次" />
+              <Mapping SourceColumn="车辆信息更改" DataSetColumn="车辆信息更改" />
+              <Mapping SourceColumn="车辆信息更改时间" DataSetColumn="车辆信息更改时间" />
+              <Mapping SourceColumn="装车耗时" DataSetColumn="装车耗时" />
+              <Mapping SourceColumn="是否卸车" DataSetColumn="是否卸车" />
+              <Mapping SourceColumn="删除时间" DataSetColumn="删除时间" />
+              <Mapping SourceColumn="粕类" DataSetColumn="粕类" />
+              <Mapping SourceColumn="油脂" DataSetColumn="油脂" />
+              <Mapping SourceColumn="化工" DataSetColumn="化工" />
+              <Mapping SourceColumn="客户物料号" DataSetColumn="客户物料号" />
+              <Mapping SourceColumn="isReserved" DataSetColumn="isReserved" />
+              <Mapping SourceColumn="Reserveredtime1" DataSetColumn="Reserveredtime1" />
+              <Mapping SourceColumn="Reserveredtime2" DataSetColumn="Reserveredtime2" />
+              <Mapping SourceColumn="Billtime" DataSetColumn="Billtime" />
+              <Mapping SourceColumn="Billwho" DataSetColumn="Billwho" />
+              <Mapping SourceColumn="Billflag" DataSetColumn="Billflag" />
+              <Mapping SourceColumn="Overtimeflag" DataSetColumn="Overtimeflag" />
+              <Mapping SourceColumn="ExistBill" DataSetColumn="ExistBill" />
+              <Mapping SourceColumn="司机姓名" DataSetColumn="司机姓名" />
+              <Mapping SourceColumn="司机二代证" DataSetColumn="司机二代证" />
+              <Mapping SourceColumn="件数" DataSetColumn="件数" />
+              <Mapping SourceColumn="id1" DataSetColumn="id1" />
+              <Mapping SourceColumn="提单号1" DataSetColumn="提单号1" />
+              <Mapping SourceColumn="车号1" DataSetColumn="车号1" />
+              <Mapping SourceColumn="入场日期" DataSetColumn="入场日期" />
+              <Mapping SourceColumn="图像1" DataSetColumn="图像1" />
+              <Mapping SourceColumn="图像2" DataSetColumn="图像2" />
+              <Mapping SourceColumn="图1大小" DataSetColumn="图1大小" />
+              <Mapping SourceColumn="图2大小" DataSetColumn="图2大小" />
+              <Mapping SourceColumn="司机二代证1" DataSetColumn="司机二代证1" />
+              <Mapping SourceColumn="图像二代证" DataSetColumn="图像二代证" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet2" msprop:Generator_UserDSName="DataSet2">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TRUCK_QUEUE" msprop:Generator_TableClassName="TRUCK_QUEUEDataTable" msprop:Generator_TableVarName="tableTRUCK_QUEUE" msprop:Generator_TablePropName="TRUCK_QUEUE" msprop:Generator_RowDeletingName="TRUCK_QUEUERowDeleting" msprop:Generator_RowChangingName="TRUCK_QUEUERowChanging" msprop:Generator_RowEvHandlerName="TRUCK_QUEUERowChangeEventHandler" msprop:Generator_RowDeletedName="TRUCK_QUEUERowDeleted" msprop:Generator_UserTableName="TRUCK_QUEUE" msprop:Generator_RowChangedName="TRUCK_QUEUERowChanged" msprop:Generator_RowEvArgName="TRUCK_QUEUERowChangeEvent" msprop:Generator_RowClassName="TRUCK_QUEUERow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="客户名称" msprop:Generator_ColumnVarNameInTable="column客户名称" msprop:Generator_ColumnPropNameInRow="客户名称" msprop:Generator_ColumnPropNameInTable="客户名称Column" msprop:Generator_UserColumnName="客户名称" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="货物名称" msprop:Generator_ColumnVarNameInTable="column货物名称" msprop:Generator_ColumnPropNameInRow="货物名称" msprop:Generator_ColumnPropNameInTable="货物名称Column" msprop:Generator_UserColumnName="货物名称" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="提单号" msprop:Generator_ColumnVarNameInTable="column提单号" msprop:Generator_ColumnPropNameInRow="提单号" msprop:Generator_ColumnPropNameInTable="提单号Column" msprop:Generator_UserColumnName="提单号" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="提单创建日期" msprop:Generator_ColumnVarNameInTable="column提单创建日期" msprop:Generator_ColumnPropNameInRow="提单创建日期" msprop:Generator_ColumnPropNameInTable="提单创建日期Column" msprop:Generator_UserColumnName="提单创建日期" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="提单数量" msprop:Generator_ColumnVarNameInTable="column提单数量" msprop:Generator_ColumnPropNameInRow="提单数量" msprop:Generator_ColumnPropNameInTable="提单数量Column" msprop:Generator_UserColumnName="提单数量" type="xs:float" minOccurs="0" />
+              <xs:element name="车号" msprop:Generator_ColumnVarNameInTable="column车号" msprop:Generator_ColumnPropNameInRow="车号" msprop:Generator_ColumnPropNameInTable="车号Column" msprop:Generator_UserColumnName="车号" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="电话号码" msprop:Generator_ColumnVarNameInTable="column电话号码" msprop:Generator_ColumnPropNameInRow="电话号码" msprop:Generator_ColumnPropNameInTable="电话号码Column" msprop:Generator_UserColumnName="电话号码" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="12" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="可登记" msprop:Generator_ColumnVarNameInTable="column可登记" msprop:Generator_ColumnPropNameInRow="可登记" msprop:Generator_ColumnPropNameInTable="可登记Column" msprop:Generator_UserColumnName="可登记" type="xs:boolean" minOccurs="0" />
+              <xs:element name="已登记" msprop:Generator_ColumnVarNameInTable="column已登记" msprop:Generator_ColumnPropNameInRow="已登记" msprop:Generator_ColumnPropNameInTable="已登记Column" msprop:Generator_UserColumnName="已登记" type="xs:boolean" minOccurs="0" />
+              <xs:element name="可进厂" msprop:Generator_ColumnVarNameInTable="column可进厂" msprop:Generator_ColumnPropNameInRow="可进厂" msprop:Generator_ColumnPropNameInTable="可进厂Column" msprop:Generator_UserColumnName="可进厂" type="xs:boolean" minOccurs="0" />
+              <xs:element name="已完成" msprop:Generator_ColumnVarNameInTable="column已完成" msprop:Generator_ColumnPropNameInRow="已完成" msprop:Generator_ColumnPropNameInTable="已完成Column" msprop:Generator_UserColumnName="已完成" type="xs:boolean" minOccurs="0" />
+              <xs:element name="已退回" msprop:Generator_ColumnVarNameInTable="column已退回" msprop:Generator_ColumnPropNameInRow="已退回" msprop:Generator_ColumnPropNameInTable="已退回Column" msprop:Generator_UserColumnName="已退回" type="xs:boolean" minOccurs="0" />
+              <xs:element name="推送时间" msprop:Generator_ColumnVarNameInTable="column推送时间" msprop:Generator_ColumnPropNameInRow="推送时间" msprop:Generator_ColumnPropNameInTable="推送时间Column" msprop:Generator_UserColumnName="推送时间" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="登记时间" msprop:Generator_ColumnVarNameInTable="column登记时间" msprop:Generator_ColumnPropNameInRow="登记时间" msprop:Generator_ColumnPropNameInTable="登记时间Column" msprop:Generator_UserColumnName="登记时间" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="进厂时间" msprop:Generator_ColumnVarNameInTable="column进厂时间" msprop:Generator_ColumnPropNameInRow="进厂时间" msprop:Generator_ColumnPropNameInTable="进厂时间Column" msprop:Generator_UserColumnName="进厂时间" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="完成时间" msprop:Generator_ColumnVarNameInTable="column完成时间" msprop:Generator_ColumnPropNameInRow="完成时间" msprop:Generator_ColumnPropNameInTable="完成时间Column" msprop:Generator_UserColumnName="完成时间" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="备注" msprop:Generator_ColumnVarNameInTable="column备注" msprop:Generator_ColumnPropNameInRow="备注" msprop:Generator_ColumnPropNameInTable="备注Column" msprop:Generator_UserColumnName="备注" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="退回时间" msprop:Generator_ColumnVarNameInTable="column退回时间" msprop:Generator_ColumnPropNameInRow="退回时间" msprop:Generator_ColumnPropNameInTable="退回时间Column" msprop:Generator_UserColumnName="退回时间" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="自派车" msprop:Generator_ColumnVarNameInTable="column自派车" msprop:Generator_ColumnPropNameInRow="自派车" msprop:Generator_ColumnPropNameInTable="自派车Column" msprop:Generator_UserColumnName="自派车" type="xs:boolean" minOccurs="0" />
+              <xs:element name="对应订单号" msprop:Generator_ColumnVarNameInTable="column对应订单号" msprop:Generator_ColumnPropNameInRow="对应订单号" msprop:Generator_ColumnPropNameInTable="对应订单号Column" msprop:Generator_UserColumnName="对应订单号" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="12" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="到站" msprop:Generator_ColumnVarNameInTable="column到站" msprop:Generator_ColumnPropNameInRow="到站" msprop:Generator_ColumnPropNameInTable="到站Column" msprop:Generator_UserColumnName="到站" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="导入批次" msprop:Generator_ColumnVarNameInTable="column导入批次" msprop:Generator_ColumnPropNameInRow="导入批次" msprop:Generator_ColumnPropNameInTable="导入批次Column" msprop:Generator_UserColumnName="导入批次" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="14" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="车辆信息更改" msprop:Generator_ColumnVarNameInTable="column车辆信息更改" msprop:Generator_ColumnPropNameInRow="车辆信息更改" msprop:Generator_ColumnPropNameInTable="车辆信息更改Column" msprop:Generator_UserColumnName="车辆信息更改" type="xs:boolean" minOccurs="0" />
+              <xs:element name="车辆信息更改时间" msprop:Generator_ColumnVarNameInTable="column车辆信息更改时间" msprop:Generator_ColumnPropNameInRow="车辆信息更改时间" msprop:Generator_ColumnPropNameInTable="车辆信息更改时间Column" msprop:Generator_UserColumnName="车辆信息更改时间" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="装车耗时" msprop:Generator_ColumnVarNameInTable="column装车耗时" msprop:Generator_ColumnPropNameInRow="装车耗时" msprop:Generator_ColumnPropNameInTable="装车耗时Column" msprop:Generator_UserColumnName="装车耗时" type="xs:int" minOccurs="0" />
+              <xs:element name="是否卸车" msprop:Generator_ColumnVarNameInTable="column是否卸车" msprop:Generator_ColumnPropNameInRow="是否卸车" msprop:Generator_ColumnPropNameInTable="是否卸车Column" msprop:Generator_UserColumnName="是否卸车" type="xs:boolean" minOccurs="0" />
+              <xs:element name="删除时间" msprop:Generator_ColumnVarNameInTable="column删除时间" msprop:Generator_ColumnPropNameInRow="删除时间" msprop:Generator_ColumnPropNameInTable="删除时间Column" msprop:Generator_UserColumnName="删除时间" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="粕类" msprop:Generator_ColumnVarNameInTable="column粕类" msprop:Generator_ColumnPropNameInRow="粕类" msprop:Generator_ColumnPropNameInTable="粕类Column" msprop:Generator_UserColumnName="粕类" type="xs:boolean" minOccurs="0" />
+              <xs:element name="油脂" msprop:Generator_ColumnVarNameInTable="column油脂" msprop:Generator_ColumnPropNameInRow="油脂" msprop:Generator_ColumnPropNameInTable="油脂Column" msprop:Generator_UserColumnName="油脂" type="xs:boolean" minOccurs="0" />
+              <xs:element name="化工" msprop:Generator_ColumnVarNameInTable="column化工" msprop:Generator_ColumnPropNameInRow="化工" msprop:Generator_ColumnPropNameInTable="化工Column" msprop:Generator_UserColumnName="化工" type="xs:boolean" minOccurs="0" />
+              <xs:element name="客户物料号" msprop:Generator_ColumnVarNameInTable="column客户物料号" msprop:Generator_ColumnPropNameInRow="客户物料号" msprop:Generator_ColumnPropNameInTable="客户物料号Column" msprop:Generator_UserColumnName="客户物料号" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="isReserved" msprop:Generator_ColumnVarNameInTable="columnisReserved" msprop:Generator_ColumnPropNameInRow="isReserved" msprop:Generator_ColumnPropNameInTable="isReservedColumn" msprop:Generator_UserColumnName="isReserved" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Reserveredtime1" msprop:Generator_ColumnVarNameInTable="columnReserveredtime1" msprop:Generator_ColumnPropNameInRow="Reserveredtime1" msprop:Generator_ColumnPropNameInTable="Reserveredtime1Column" msprop:Generator_UserColumnName="Reserveredtime1" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Reserveredtime2" msprop:Generator_ColumnVarNameInTable="columnReserveredtime2" msprop:Generator_ColumnPropNameInRow="Reserveredtime2" msprop:Generator_ColumnPropNameInTable="Reserveredtime2Column" msprop:Generator_UserColumnName="Reserveredtime2" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Billtime" msprop:Generator_ColumnVarNameInTable="columnBilltime" msprop:Generator_ColumnPropNameInRow="Billtime" msprop:Generator_ColumnPropNameInTable="BilltimeColumn" msprop:Generator_UserColumnName="Billtime" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Billwho" msprop:Generator_ColumnVarNameInTable="columnBillwho" msprop:Generator_ColumnPropNameInRow="Billwho" msprop:Generator_ColumnPropNameInTable="BillwhoColumn" msprop:Generator_UserColumnName="Billwho" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Billflag" msprop:Generator_ColumnVarNameInTable="columnBillflag" msprop:Generator_ColumnPropNameInRow="Billflag" msprop:Generator_ColumnPropNameInTable="BillflagColumn" msprop:Generator_UserColumnName="Billflag" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Overtimeflag" msprop:Generator_ColumnVarNameInTable="columnOvertimeflag" msprop:Generator_ColumnPropNameInRow="Overtimeflag" msprop:Generator_ColumnPropNameInTable="OvertimeflagColumn" msprop:Generator_UserColumnName="Overtimeflag" type="xs:boolean" minOccurs="0" />
+              <xs:element name="ExistBill" msprop:Generator_ColumnVarNameInTable="columnExistBill" msprop:Generator_ColumnPropNameInRow="ExistBill" msprop:Generator_ColumnPropNameInTable="ExistBillColumn" msprop:Generator_UserColumnName="ExistBill" type="xs:boolean" minOccurs="0" />
+              <xs:element name="司机姓名" msprop:Generator_ColumnVarNameInTable="column司机姓名" msprop:Generator_ColumnPropNameInRow="司机姓名" msprop:Generator_ColumnPropNameInTable="司机姓名Column" msprop:Generator_UserColumnName="司机姓名" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="司机二代证" msprop:Generator_ColumnVarNameInTable="column司机二代证" msprop:Generator_ColumnPropNameInRow="司机二代证" msprop:Generator_ColumnPropNameInTable="司机二代证Column" msprop:Generator_UserColumnName="司机二代证" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="18" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="件数" msprop:Generator_ColumnVarNameInTable="column件数" msprop:Generator_ColumnPropNameInRow="件数" msprop:Generator_ColumnPropNameInTable="件数Column" msprop:Generator_UserColumnName="件数" type="xs:float" minOccurs="0" />
+              <xs:element name="id1" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid1" msprop:Generator_ColumnPropNameInRow="id1" msprop:Generator_ColumnPropNameInTable="id1Column" msprop:Generator_UserColumnName="id1" type="xs:int" />
+              <xs:element name="提单号1" msprop:Generator_ColumnVarNameInTable="column提单号1" msprop:Generator_ColumnPropNameInRow="提单号1" msprop:Generator_ColumnPropNameInTable="提单号1Column" msprop:Generator_UserColumnName="提单号1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="16" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="车号1" msprop:Generator_ColumnVarNameInTable="column车号1" msprop:Generator_ColumnPropNameInRow="车号1" msprop:Generator_ColumnPropNameInTable="车号1Column" msprop:Generator_UserColumnName="车号1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="入场日期" msprop:Generator_ColumnVarNameInTable="column入场日期" msprop:Generator_ColumnPropNameInRow="入场日期" msprop:Generator_ColumnPropNameInTable="入场日期Column" msprop:Generator_UserColumnName="入场日期" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="图像1" msprop:Generator_ColumnVarNameInTable="column图像1" msprop:Generator_ColumnPropNameInRow="图像1" msprop:Generator_ColumnPropNameInTable="图像1Column" msprop:Generator_UserColumnName="图像1" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="图像2" msprop:Generator_ColumnVarNameInTable="column图像2" msprop:Generator_ColumnPropNameInRow="图像2" msprop:Generator_ColumnPropNameInTable="图像2Column" msprop:Generator_UserColumnName="图像2" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="图1大小" msprop:Generator_ColumnVarNameInTable="column图1大小" msprop:Generator_ColumnPropNameInRow="图1大小" msprop:Generator_ColumnPropNameInTable="图1大小Column" msprop:Generator_UserColumnName="图1大小" type="xs:int" minOccurs="0" />
+              <xs:element name="图2大小" msprop:Generator_ColumnVarNameInTable="column图2大小" msprop:Generator_ColumnPropNameInRow="图2大小" msprop:Generator_ColumnPropNameInTable="图2大小Column" msprop:Generator_UserColumnName="图2大小" type="xs:int" minOccurs="0" />
+              <xs:element name="司机二代证1" msprop:Generator_ColumnVarNameInTable="column司机二代证1" msprop:Generator_ColumnPropNameInRow="司机二代证1" msprop:Generator_ColumnPropNameInTable="司机二代证1Column" msprop:Generator_UserColumnName="司机二代证1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="18" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="图像二代证" msprop:Generator_ColumnVarNameInTable="column图像二代证" msprop:Generator_ColumnPropNameInRow="图像二代证" msprop:Generator_ColumnPropNameInTable="图像二代证Column" msprop:Generator_UserColumnName="图像二代证" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TRUCK_QUEUE" />
+      <xs:field xpath="mstns:id" />
+      <xs:field xpath="mstns:id1" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

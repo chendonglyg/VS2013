@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{18780B81-7A92-4186-B880-1AE2AD335E4A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>_Somesoft.My.MyApplication</StartupObject>
+    <RootNamespace>_Somesoft</RootNamespace>
+    <AssemblyName>小包装库场管理系统</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <ManifestCertificateThumbprint>5D942B78D56C248653E0317DEAA021D95B098A93</ManifestCertificateThumbprint>
+    <ManifestKeyFile>20090430_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>D:\Desktop\ALL OUTPUT FILES\20090525\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>19</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>小包装库场管理系统.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>小包装库场管理系统.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport3.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport4.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport5.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport5.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport6.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport6.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ForCharlie.Designer.vb">
+      <DependentUpon>ForCharlie.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ForCharlie.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForPrintA.Designer.vb">
+      <DependentUpon>ForPrintA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ForPrintA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0公里排队\A.Designer.vb">
+      <DependentUpon>A.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\A.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0公里排队\B.Designer.vb">
+      <DependentUpon>B.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\B.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDI.Designer.vb">
+      <DependentUpon>MDI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="PACKAGE.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PACKAGE.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PACKAGE.vb">
+      <DependentUpon>PACKAGE.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PRINT.Designer.vb">
+      <DependentUpon>PRINT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PRINT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rukudan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rukudan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XBZPD_HUICANG.Designer.vb">
+      <DependentUpon>XBZPD_HUICANG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="XBZPD_HUICANG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XBZPD_WULIUGONGSI.Designer.vb">
+      <DependentUpon>XBZPD_WULIUGONGSI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="XBZPD_WULIUGONGSI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XBZPD_ZONE.Designer.vb">
+      <DependentUpon>XBZPD_ZONE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="XBZPD_ZONE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="XBZPD_DIAOBODAN.Designer.vb">
+      <DependentUpon>XBZPD_DIAOBODAN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="XBZPD_DIAOBODAN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XBZPD_RUKUDAN.Designer.vb">
+      <DependentUpon>XBZPD_RUKUDAN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="XBZPD_RUKUDAN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XBZPD_LIHUODAN.Designer.vb">
+      <DependentUpon>XBZPD_LIHUODAN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="XBZPD_LIHUODAN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XBZPD_WULIAOKU.Designer.vb">
+      <DependentUpon>XBZPD_WULIAOKU.vb</DependentUpon>
+    </Compile>
+    <Compile Include="XBZPD_WULIAOKU.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport3.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport4.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport4.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport5.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport5.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport6.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport6.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForCharlie.resx">
+      <DependentUpon>ForCharlie.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForPrintA.resx">
+      <DependentUpon>ForPrintA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\A.resx">
+      <DependentUpon>A.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\B.resx">
+      <DependentUpon>B.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDI.resx">
+      <DependentUpon>MDI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PRINT.resx">
+      <DependentUpon>PRINT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rukudan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rukudan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XBZPD_HUICANG.resx">
+      <DependentUpon>XBZPD_HUICANG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XBZPD_WULIUGONGSI.resx">
+      <DependentUpon>XBZPD_WULIUGONGSI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XBZPD_ZONE.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>XBZPD_ZONE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XBZPD_DIAOBODAN.resx">
+      <DependentUpon>XBZPD_DIAOBODAN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XBZPD_RUKUDAN.resx">
+      <DependentUpon>XBZPD_RUKUDAN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XBZPD_LIHUODAN.resx">
+      <DependentUpon>XBZPD_LIHUODAN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XBZPD_WULIAOKU.resx">
+      <DependentUpon>XBZPD_WULIAOKU.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="PACKAGE.xsc">
+      <DependentUpon>PACKAGE.xsd</DependentUpon>
+    </None>
+    <None Include="PACKAGE.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PACKAGE.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="PACKAGE.xss">
+      <DependentUpon>PACKAGE.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\siol3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siol2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siol1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siol4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siol5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siol6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\方向标.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\常用系统电脑图标下载24.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\128_咖啡.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\系统工具桌面图标下载10.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\车辆.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\轿车.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\128_咖啡1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chinaz21.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chinaz14.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\常用系统电脑图标下载9.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3924545A-F8E2-475A-B1A4-05175BC41E50}" />
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kobra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Osx42.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein28.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\DataSources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\仓区.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\货物图片.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

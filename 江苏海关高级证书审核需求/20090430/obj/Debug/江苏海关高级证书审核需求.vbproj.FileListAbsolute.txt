@@ -1,0 +1,86 @@
+d:\Desktop\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.exe.config
+d:\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.vbprojResolveAssemblyReference.cache
+d:\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Production.resources
+d:\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Trade.resources
+d:\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.Bonded.resources
+d:\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Import.resources
+d:\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.LoginForm1.resources
+d:\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.Mdi.resources
+d:\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.PRINT.resources
+d:\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Unload.resources
+d:\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.Resources.resources
+d:\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Purchase.resources
+d:\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Receipt.resources
+d:\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.vbproj.GenerateResource.Cache
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.exe.config
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.vbprojResolveAssemblyReference.cache
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Production.resources
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Trade.resources
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.Bonded.resources
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Import.resources
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.LoginForm1.resources
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.Mdi.resources
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.PRINT.resources
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Unload.resources
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.Resources.resources
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Purchase.resources
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Receipt.resources
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.vbproj.GenerateResource.Cache
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.exe.manifest
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.application
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.exe
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.pdb
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.xml
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.exe.manifest
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.application
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.exe
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.xml
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.pdb
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_View.resources
+C:\Users\CHEN DONG\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.SENDSOMETHING.resources
+E:\DESKTOP\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.exe.config
+E:\DESKTOP\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.exe
+E:\DESKTOP\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.xml
+E:\DESKTOP\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.pdb
+d:\DESKTOP\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.exe
+d:\DESKTOP\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.xml
+d:\DESKTOP\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.pdb
+d:\DESKTOP\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_View.resources
+d:\DESKTOP\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.SENDSOMETHING.resources
+d:\DESKTOP\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.exe.manifest
+d:\DESKTOP\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.application
+d:\DESKTOP\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.exe
+d:\DESKTOP\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.pdb
+d:\DESKTOP\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.xml
+d:\DESKTOP\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.exe.manifest
+d:\DESKTOP\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.application
+C:\Users\CHEN DONG\Desktop\Project\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.exe.config
+C:\Users\CHEN DONG\Desktop\Project\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.exe
+C:\Users\CHEN DONG\Desktop\Project\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.xml
+C:\Users\CHEN DONG\Desktop\Project\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.pdb
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.vbprojResolveAssemblyReference.cache
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Production.resources
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Trade.resources
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_View.resources
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.Bonded.resources
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Import.resources
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.LoginForm1.resources
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.Mdi.resources
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.PRINT.resources
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Unload.resources
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.Resources.resources
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Purchase.resources
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.CIQ_Receipt.resources
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\_Somesoft.SENDSOMETHING.resources
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.vbproj.GenerateResource.Cache
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.exe
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.xml
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.pdb
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.exe.config
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.exe.manifest
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.application
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.exe
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.pdb
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.xml
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.exe.manifest
+D:\DESKTOP\Project\江苏海关高级证书审核需求\20090430\obj\Debug\江苏海关高级证书审核需求.application

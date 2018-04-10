@@ -1,0 +1,48 @@
+d:\DESKTOP\SelfHelpSystem\AFCE\bin\Debug\SelfHelpSystem.exe.config
+d:\DESKTOP\SelfHelpSystem\AFCE\bin\Debug\SelfHelpSystem.exe
+d:\DESKTOP\SelfHelpSystem\AFCE\bin\Debug\SelfHelpSystem.pdb
+d:\DESKTOP\SelfHelpSystem\AFCE\bin\Debug\SelfHelpSystem.xml
+d:\DESKTOP\SelfHelpSystem\AFCE\obj\Debug\Interop.QuartzTypeLib.dll
+d:\DESKTOP\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.vbproj.ResolveComReference.cache
+d:\DESKTOP\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.vbproj.GenerateResource.Cache
+d:\DESKTOP\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.exe
+d:\DESKTOP\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.xml
+d:\DESKTOP\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.pdb
+d:\DESKTOP\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.RunGif.resources
+d:\DESKTOP\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.Resources.resources
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\bin\Debug\SelfHelpSystem.exe.config
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\Interop.QuartzTypeLib.dll
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.vbproj.ResolveComReference.cache
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.exe
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.xml
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.pdb
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.vbprojResolveAssemblyReference.cache
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\bin\Debug\SelfHelpSystem.exe
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\bin\Debug\SelfHelpSystem.pdb
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\bin\Debug\SelfHelpSystem.xml
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.RunGif.resources
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.Seal_A.resources
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.Seal_B.resources
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.Maintenance_bm.resources
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.OutSourcing_A.resources
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.TEMP1.resources
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.TEMP.resources
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.MDIParent1.resources
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.CVR100.resources
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.LoginForm1.resources
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.Resources.resources
+C:\Users\CHEN DONG\Desktop\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.vbproj.GenerateResource.Cache
+d:\DESKTOP\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.Print.resources
+d:\DESKTOP\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.MainWork.resources
+d:\DESKTOP\SelfHelpSystem\AFCE\bin\Debug\SelfHelpSystem.exe.manifest
+d:\DESKTOP\SelfHelpSystem\AFCE\bin\Debug\SelfHelpSystem.application
+d:\DESKTOP\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.exe.manifest
+d:\DESKTOP\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.application
+d:\DESKTOP\SelfHelpSystem\AFCE\bin\Debug\Interop.QuartzTypeLib.dll
+d:\DESKTOP\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.vbprojResolveAssemblyReference.cache
+d:\DESKTOP\SelfHelpSystemForOut\SelfHelpSystem\AFCE\bin\Debug\SelfHelpSystem.exe.config
+d:\DESKTOP\SelfHelpSystemForOut\SelfHelpSystem\AFCE\obj\Debug\Interop.QuartzTypeLib.dll
+d:\DESKTOP\SelfHelpSystemForOut\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.vbproj.ResolveComReference.cache
+d:\DESKTOP\SelfHelpSystemForOut\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.exe
+d:\DESKTOP\SelfHelpSystemForOut\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.xml
+d:\DESKTOP\SelfHelpSystemForOut\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.pdb

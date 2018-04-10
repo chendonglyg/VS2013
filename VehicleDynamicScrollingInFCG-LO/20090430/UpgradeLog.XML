@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="20090430">
+</Property><Property Name="解决方案文件" Value="D:\Documents\Visual Studio 2005\Projects\20090430\20090430\20090430.sln">
+</Property><Property Name="用户选项文件" Value="D:\Documents\Visual Studio 2005\Projects\20090430\20090430\20090430.suo">
+</Property><Property Name="Date" Value="Friday, February 17, 2012">
+</Property><Property Name="Time" Value="10:19 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="20090430.sln" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430.sln">
+</Event><Event ErrorLevel="0" Project="" Source="20090430.suo" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430.suo">
+</Event><Event ErrorLevel="4" Project="Small_Software" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="警告: 此项目需要 Visual Studio 中不再包括的 Crystal Reports。请单击此处获取详细信息。">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Small_Software.vbproj" Description="项目文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Small_Software.vbproj">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Small_Software.vbproj.user" Description="项目用户文件成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Small_Software.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Can_input.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Can_input.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Can_input.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Can_input.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Can_view.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Can_view.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Can_view.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Can_view.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Car1.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Car1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Car1.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Car1.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Car2.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Car2.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Car2.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Car2.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Car3.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Car3.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Car3.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Car3.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\CrystalReport1.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\CrystalReport1.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\CrystalReport3.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\CrystalReport3.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\DataSet1.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\DataSet1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Find.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Find.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Find.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Find.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Module1.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Module1.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\packageDataSet.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\packageDataSet.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Person.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Person.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Person.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Person.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Input.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Input.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Input.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Input.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\MDIParent1.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\MDIParent1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\MDIParent1.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\MDIParent1.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\My Project\AssemblyInfo.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\My Project\Application.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\My Project\Resources.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\My Project\Settings.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Car4.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Car4.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Car4.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Car4.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\TestFrom.Designer.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\TestFrom.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\TestFrom.vb" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\TestFrom.vb">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\20090430_TemporaryKey.pfx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\20090430_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\app.config" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\app.config">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\My Project\Application.myapp" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\My Project\Settings.settings" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\packageDataSet.xsc" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\packageDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\packageDataSet.xsd" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\packageDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\packageDataSet.xss" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\packageDataSet.xss">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\siol3.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\siol3.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\siol2.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\siol2.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\siol1.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\siol1.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\siol4.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\siol4.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\siol5.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\siol5.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\siol6.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\siol6.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\s12.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\s12.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\s7.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\s7.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\s8.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\s8.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\s9.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\s9.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\s10.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\s10.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\s11.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\s11.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\方向标.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\方向标.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\常用系统电脑图标下载24.ico" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\常用系统电脑图标下载24.ico">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\128_咖啡.ico" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\128_咖啡.ico">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\1.ico" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\1.ico">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\系统工具桌面图标下载10.ico" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\系统工具桌面图标下载10.ico">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\车辆.gif" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\车辆.gif">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\3.ico" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\3.ico">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\轿车.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\轿车.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\128_咖啡1.ico" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\128_咖啡1.ico">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\chinaz21.ico" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\chinaz21.ico">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\chinaz14.ico" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\chinaz14.ico">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\DataSet1.xsc" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\DataSet1.xsc">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\DataSet1.xsd" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\DataSet1.xsd">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\DataSet1.xss" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\DataSet1.xss">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\常用系统电脑图标下载9.ico" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\常用系统电脑图标下载9.ico">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\Kobra.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\Kobra.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\Osx42.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\Osx42.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Resources\Hein28.jpg" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Resources\Hein28.jpg">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Can_input.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Can_input.resx">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Can_view.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Can_view.resx">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Car1.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Car1.resx">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Car2.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Car2.resx">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Car3.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Car3.resx">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\CrystalReport1.rpt" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\CrystalReport1.rpt">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\CrystalReport3.rpt" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\CrystalReport3.rpt">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Find.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Find.resx">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\MDIParent1.zh-CHS.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\MDIParent1.zh-CHS.resx">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Person.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Person.resx">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Input.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Input.resx">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\MDIParent1.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\MDIParent1.resx">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\My Project\Resources.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Car4.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\Car4.resx">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\TestFrom.resx" Description="文件已成功备份为 D:\Documents\Visual Studio 2005\Projects\20090430\20090430\Backup\20090430\TestFrom.resx">
+</Event><Event ErrorLevel="1" Project="Small_Software" Source="20090430\Small_Software.vbproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Small_Software.vbproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Small_Software" Source="20090430\Small_Software.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="20090430.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="20090430.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Small_Software" Source="20090430\Small_Software.vbproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

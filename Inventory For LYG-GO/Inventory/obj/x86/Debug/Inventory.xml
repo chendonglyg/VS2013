@@ -1,0 +1,312 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Inventory
+</name>
+</assembly>
+<members>
+<member name="T:Inventory.DataSet1.GQPDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Inventory.DataSet1.DDTCPDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Inventory.DataSet1.KCPDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Inventory.DataSet1.DPTCPDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Inventory.DataSet1.XBZCKDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Inventory.DataSet1.FLPDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Inventory.DataSet1.GQPDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Inventory.DataSet1.DDTCPDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Inventory.DataSet1.KCPDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Inventory.DataSet1.DPTCPDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Inventory.DataSet1.XBZCKRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Inventory.DataSet1.FLPDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Inventory.DataSet1.GQPDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Inventory.DataSet1.DDTCPDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Inventory.DataSet1.KCPDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Inventory.DataSet1.DPTCPDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Inventory.DataSet1.XBZCKRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Inventory.DataSet1.FLPDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Inventory.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Inventory.DataSet1TableAdapters.GQPDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Inventory.DataSet1TableAdapters.DDTCPDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Inventory.DataSet1TableAdapters.KCPDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Inventory.DataSet1TableAdapters.DPTCPDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Inventory.DataSet1TableAdapters.XBZCKTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Inventory.DataSet1TableAdapters.FLPDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Inventory.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Inventory.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Inventory.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Inventory.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Inventory.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Inventory.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Inventory.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Inventory.DataSet1TableAdapters.TableAdapterManager.UpdateAll(Inventory.DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Inventory.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Inventory.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Inventory.DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.ResourceManager">
+	<summary>
+  返回此类使用的缓存的 ResourceManager 实例。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Culture">
+	<summary>
+  使用此强类型资源类，为所有资源查找
+  重写当前线程的 CurrentUICulture 属性。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources._3D_GEARS_GEAR7">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources._6498319_094623725148_2">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.bq_040">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.find">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.HDK4_B_3CWIZR6MJZ__CWST">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Hein004">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Hein015">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Hein016">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Hein029">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Hein15">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Hein16">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Hein22">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Hein28">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Hein29">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.HeinH14">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.HeinH15">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Kobra">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.MiXthepiX_Favorites_logo">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Osx42">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.psb">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Slayman3">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.smooth_metal_png_work_group">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Snap3">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Toolbar11">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Woa13">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.Woaf31">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.大豆筒仓容重维护">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.库场参数维护">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.库场跺位导入">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.开发区仓库品种导入">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.油品密度维护">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.油品更改提醒">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.物料编码">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.物料编码导入">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.用户管理设置">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.罐区任务导入">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.罐区任务导入格式说明图">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.罐区错误数据校正">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="P:Inventory.My.Resources.Resources.辅料代码维护">
+	<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member><member name="T:Inventory.My.Resources.Resources">
+	<summary>
+  一个强类型的资源类，用于查找本地化的字符串等。
+</summary>
+</member>
+</members>
+</doc>

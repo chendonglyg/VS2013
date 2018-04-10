@@ -1,0 +1,9 @@
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\WEBSERVICE\bin\QZH_Inventory.dll.config
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\WEBSERVICE\bin\QZH_Inventory.dll
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\WEBSERVICE\bin\QZH_Inventory.pdb
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\WEBSERVICE\bin\QZH_Inventory.xml
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\WEBSERVICE\obj\Debug\QZH_Inventory.Resources.resources
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\WEBSERVICE\obj\Debug\QZHInventoryWebServices.vbproj.GenerateResource.Cache
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\WEBSERVICE\obj\Debug\QZH_Inventory.dll
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\WEBSERVICE\obj\Debug\QZH_Inventory.xml
+d:\DESKTOP\Project\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\WEBSERVICE\obj\Debug\QZH_Inventory.pdb

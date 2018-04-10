@@ -1,0 +1,153 @@
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\bin\Debug\Inventory for guangzhou.exe.config
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\bin\Debug\Inventory for guangzhou.exe
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\bin\Debug\Inventory for guangzhou.pdb
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\bin\Debug\Inventory for guangzhou.xml
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.canshu_xiaobaozhuang.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD_rongzhong.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.FLPD.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.FLPD_CODE.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD_L.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Importcan.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.JUSTCODE.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.midu.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.midu_import.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Para.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.DPTCPD.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.ImportKCDW.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.KCPD.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.LoginForm1.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.MDIMain.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Resources.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.WLBM.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Mission_EDIT.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Print.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.PrintSomething.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.SA.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Users.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Mission.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.XBZCK.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.XBZ_ZONE.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for guangzhou.vbproj.GenerateResource.Cache
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for guangzhou.exe
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for guangzhou.xml
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for guangzhou.pdb
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.OFFLINE.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Calculate.resources
+D:\软件项目\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for guangzhou.vbprojResolveAssemblyReference.cache
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\bin\Debug\Inventory for guangzhou.exe.config
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for guangzhou.exe
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for guangzhou.xml
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for guangzhou.pdb
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\bin\Debug\Inventory for guangzhou.exe
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\bin\Debug\Inventory for guangzhou.pdb
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\bin\Debug\Inventory for guangzhou.xml
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.OFFLINE.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Calculate.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.canshu_xiaobaozhuang.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD_rongzhong.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.FLPD.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.FLPD_CODE.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD_L.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Importcan.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.JUSTCODE.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.midu.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.midu_import.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Para.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.DPTCPD.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.ImportKCDW.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.KCPD.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.LoginForm1.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.MDIMain.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Resources.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.WLBM.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Mission_EDIT.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Print.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.PrintSomething.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.SA.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Users.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Mission.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.XBZCK.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.XBZ_ZONE.resources
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\ResGen.read.1.tlog
+D:\软件项目 in Alienware\Inventory For Guangzhou\Inventory\Inventory\Inventory\obj\x86\Debug\ResGen.write.1.tlog
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\bin\Debug\Inventory for guangzhou.exe.config
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for guangzhou.exe
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for guangzhou.xml
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for guangzhou.pdb
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\bin\Debug\Inventory for guangzhou.exe
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\bin\Debug\Inventory for guangzhou.pdb
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\bin\Debug\Inventory for guangzhou.xml
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for guangzhou.vbprojResolveAssemblyReference.cache
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.OFFLINE.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Calculate.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.canshu_xiaobaozhuang.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD_rongzhong.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.FLPD.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.FLPD_CODE.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD_L.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Importcan.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.JUSTCODE.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.midu.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.midu_import.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Para.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.DPTCPD.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.ImportKCDW.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.KCPD.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.LoginForm1.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.MDIMain.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Resources.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.WLBM.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Mission_EDIT.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Print.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.PrintSomething.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.SA.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Users.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Mission.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.XBZCK.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.XBZ_ZONE.resources
+D:\软件项目 in Alienware\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for guangzhou.vbproj.GenerateResource.Cache
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for guangzhou.vbprojResolveAssemblyReference.cache
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.OFFLINE.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Calculate.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.canshu_xiaobaozhuang.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD_rongzhong.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.FLPD.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.FLPD_CODE.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD_L.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Importcan.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.JUSTCODE.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.midu.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.midu_import.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Para.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.DPTCPD.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.ImportKCDW.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.KCPD.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.LoginForm1.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.MDIMain.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Resources.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.WLBM.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Print.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.PrintSomething.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.SA.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Users.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Mission.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.XBZCK.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.XBZ_ZONE.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for guangzhou.vbproj.GenerateResource.Cache
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory.Mission_import.resources
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\bin\Debug\Inventory for ZJG.exe.config
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\bin\Debug\Inventory for ZJG.exe
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\bin\Debug\Inventory for ZJG.pdb
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\bin\Debug\Inventory for ZJG.xml
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for ZJG.exe
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for ZJG.xml
+D:\Project\Inventory For ZJG\Inventory\Inventory\Inventory\obj\x86\Debug\Inventory for ZJG.pdb

@@ -1,0 +1,54 @@
+d:\Desktop\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.exe
+d:\Desktop\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.pdb
+d:\Desktop\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.xml
+d:\Desktop\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.For_Excel_of_Pinguan.resources
+d:\Desktop\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.Resources.resources
+d:\Desktop\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.vbproj.GenerateResource.Cache
+d:\Desktop\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.exe
+d:\Desktop\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.xml
+d:\Desktop\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.pdb
+C:\Users\CHEN DONG\Desktop\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.exe
+C:\Users\CHEN DONG\Desktop\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.xml
+C:\Users\CHEN DONG\Desktop\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.pdb
+C:\Users\CHEN DONG\Desktop\Project\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.exe
+C:\Users\CHEN DONG\Desktop\Project\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.pdb
+C:\Users\CHEN DONG\Desktop\Project\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.xml
+C:\Users\CHEN DONG\Desktop\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.Resources.resources
+C:\Users\CHEN DONG\Desktop\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.vbproj.GenerateResource.Cache
+C:\Users\CHEN DONG\Desktop\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.For_Excel_of_Pinguan_LO.resources
+C:\Users\CHEN DONG\Desktop\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.For_Excel_of_Pinguan_SA.resources
+C:\Users\CHEN DONG\Desktop\Project\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.exe.manifest
+C:\Users\CHEN DONG\Desktop\Project\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.application
+C:\Users\CHEN DONG\Desktop\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.exe.manifest
+C:\Users\CHEN DONG\Desktop\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.application
+C:\Users\CHEN DONG\Desktop\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.Main.resources
+E:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.exe
+E:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.xml
+E:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.pdb
+E:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.For_Excel_of_Pinguan_LO.resources
+E:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.For_Excel_of_Pinguan_SA.resources
+E:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.Main.resources
+E:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.Resources.resources
+E:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.vbproj.GenerateResource.Cache
+E:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.exe.manifest
+E:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.application
+E:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.exe
+E:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.pdb
+E:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.xml
+E:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.exe.manifest
+E:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.application
+d:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.exe
+d:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.xml
+d:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.pdb
+d:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.For_Excel_of_Pinguan_LO.resources
+d:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.For_Excel_of_Pinguan_SA.resources
+d:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.Main.resources
+d:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.Resources.resources
+d:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.vbproj.GenerateResource.Cache
+d:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.exe.manifest
+d:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.application
+d:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.exe
+d:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.pdb
+d:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\bin\Debug\LO_SA_EXCEL_CONVERT.xml
+d:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.exe.manifest
+d:\DESKTOP\Project\油化沙索报表转换程序\Pay_Slip\obj\Debug\LO_SA_EXCEL_CONVERT.application

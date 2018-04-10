@@ -1,0 +1,64 @@
+e:\documents\visual studio 2010\Projects\Inventory_WEB\Inventory_WEB\bin\Inventory_WEB.dll
+e:\documents\visual studio 2010\Projects\Inventory_WEB\Inventory_WEB\bin\Inventory_WEB.pdb
+e:\documents\visual studio 2010\Projects\Inventory_WEB\Inventory_WEB\bin\Inventory_WEB.xml
+e:\documents\visual studio 2010\Projects\Inventory_WEB\Inventory_WEB\obj\Debug\ResolveAssemblyReference.cache
+e:\documents\visual studio 2010\Projects\Inventory_WEB\Inventory_WEB\obj\Debug\Inventory_WEB.Resources.resources
+e:\documents\visual studio 2010\Projects\Inventory_WEB\Inventory_WEB\obj\Debug\ResGen.read.1.tlog
+e:\documents\visual studio 2010\Projects\Inventory_WEB\Inventory_WEB\obj\Debug\ResGen.write.1.tlog
+e:\documents\visual studio 2010\Projects\Inventory_WEB\Inventory_WEB\obj\Debug\Inventory_WEB.dll
+e:\documents\visual studio 2010\Projects\Inventory_WEB\Inventory_WEB\obj\Debug\Inventory_WEB.xml
+e:\documents\visual studio 2010\Projects\Inventory_WEB\Inventory_WEB\obj\Debug\Inventory_WEB.pdb
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB\Inventory_WEB\bin\Inventory_WEB.dll
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB\Inventory_WEB\bin\Inventory_WEB.pdb
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB\Inventory_WEB\bin\Inventory_WEB.xml
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB\Inventory_WEB\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB\Inventory_WEB\obj\Debug\Inventory_WEB.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB\Inventory_WEB\obj\Debug\Inventory_WEB.dll
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB\Inventory_WEB\obj\Debug\Inventory_WEB.xml
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB\Inventory_WEB\obj\Debug\Inventory_WEB.pdb
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB\Inventory_WEB\obj\Debug\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB\Inventory_WEB\obj\Debug\GenerateResource.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\GenerateResource.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.dll
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.xml
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.pdb
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB 20120428\Inventory_WEB\bin\Inventory_WEB.dll
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB 20120428\Inventory_WEB\bin\Inventory_WEB.pdb
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB 20120428\Inventory_WEB\bin\Inventory_WEB.xml
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\ResGen.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\ResGen.write.1.tlog
+D:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\bin\Inventory_WEB.dll
+D:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\bin\Inventory_WEB.pdb
+D:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\bin\Inventory_WEB.xml
+D:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\ResolveAssemblyReference.cache
+D:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.Resources.resources
+D:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\GenerateResource.read.1.tlog
+D:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\ResGen.read.1.tlog
+D:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\GenerateResource.write.1.tlog
+D:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\ResGen.write.1.tlog
+D:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.dll
+D:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.xml
+D:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.pdb
+E:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\bin\Inventory_WEB.dll
+E:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\bin\Inventory_WEB.pdb
+E:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\bin\Inventory_WEB.xml
+E:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.Resources.resources
+E:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.vbproj.GenerateResource.Cache
+E:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.dll
+E:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.xml
+E:\2010项目\Projects\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.pdb
+D:\软件项目\Inventory_WEB 20120428\Inventory_WEB\bin\Inventory_WEB.dll
+D:\软件项目\Inventory_WEB 20120428\Inventory_WEB\bin\Inventory_WEB.pdb
+D:\软件项目\Inventory_WEB 20120428\Inventory_WEB\bin\Inventory_WEB.xml
+D:\软件项目\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\ResolveAssemblyReference.cache
+D:\软件项目\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.Resources.resources
+D:\软件项目\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\GenerateResource.read.1.tlog
+D:\软件项目\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\ResGen.read.1.tlog
+D:\软件项目\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\GenerateResource.write.1.tlog
+D:\软件项目\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\ResGen.write.1.tlog
+D:\软件项目\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.dll
+D:\软件项目\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.xml
+D:\软件项目\Inventory_WEB 20120428\Inventory_WEB\obj\Debug\Inventory_WEB.pdb

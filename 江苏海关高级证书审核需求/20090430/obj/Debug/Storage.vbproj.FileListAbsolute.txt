@@ -1,0 +1,124 @@
+D:\Documents\Visual Studio 2005\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.exe.config
+D:\Documents\Visual Studio 2005\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.exe
+D:\Documents\Visual Studio 2005\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.xml
+D:\Documents\Visual Studio 2005\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.pdb
+D:\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.exe.config
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.exe
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.xml
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.pdb
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\ResolveAssemblyReference.cache
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.Can_view.resources
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.Mdi.resources
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.Resources.resources
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_KUCUN.resources
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_LIHUODAN.resources
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_WULIAOKU.resources
+D:\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.exe.manifest
+D:\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.application
+D:\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.exe
+D:\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.pdb
+D:\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.xml
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.exe.manifest
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.application
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.LoginForm1.resources
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.PRINT.resources
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_DIAOBODAN.resources
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.ForCharlie.resources
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_ZONE.resources
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_HUICANG.resources
+D:\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_WULIUGONGSI.resources
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.exe.config
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.exe
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.xml
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.pdb
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.ForCharlie.resources
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.LoginForm1.resources
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.Mdi.resources
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.PRINT.resources
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_HUICANG.resources
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_WULIUGONGSI.resources
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_ZONE.resources
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.Resources.resources
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_DIAOBODAN.resources
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_KUCUN.resources
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_LIHUODAN.resources
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_WULIAOKU.resources
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\Storage.vbprojResolveAssemblyReference.cache
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.Bonded.resources
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\Storage.vbproj.GenerateResource.Cache
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.exe.manifest
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.application
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.exe
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.pdb
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.xml
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.exe.manifest
+D:\软件项目\2005项目\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.application
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.exe.config
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.exe
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.xml
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.pdb
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.exe.manifest
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.application
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.exe
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.pdb
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\bin\Debug\20111012保税罐.xml
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\Storage.vbprojResolveAssemblyReference.cache
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.Bonded.resources
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.ForCharlie.resources
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.LoginForm1.resources
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.Mdi.resources
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.PRINT.resources
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_HUICANG.resources
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_WULIUGONGSI.resources
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_ZONE.resources
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.Resources.resources
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_DIAOBODAN.resources
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_KUCUN.resources
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_LIHUODAN.resources
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\_Somesoft.XBZPD_WULIAOKU.resources
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\Storage.vbproj.GenerateResource.Cache
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.exe.manifest
+D:\软件项目 in Alienware\2005项目\Projects\20090430\20090430\20090430\obj\Debug\20111012保税罐.application
+D:\---------------------+++++++++++++++++++++软件项目\20090430\20090430\20090430\bin\Debug\20111012保税罐.exe.config
+D:\---------------------+++++++++++++++++++++软件项目\20090430\20090430\20090430\obj\Debug\20111012保税罐.exe
+D:\---------------------+++++++++++++++++++++软件项目\20090430\20090430\20090430\obj\Debug\20111012保税罐.xml
+D:\---------------------+++++++++++++++++++++软件项目\20090430\20090430\20090430\obj\Debug\20111012保税罐.pdb
+D:\Project\20090430\20090430\20090430\bin\Debug\20111012保税罐.exe.config
+D:\Project\20090430\20090430\20090430\obj\Debug\20111012保税罐.exe
+D:\Project\20090430\20090430\20090430\obj\Debug\20111012保税罐.xml
+D:\Project\20090430\20090430\20090430\obj\Debug\20111012保税罐.pdb
+D:\Project\Storage\Storage\20090430\bin\Debug\20111012保税罐.exe.config
+D:\Project\Storage\Storage\20090430\obj\Debug\20111012保税罐.exe
+D:\Project\Storage\Storage\20090430\obj\Debug\20111012保税罐.xml
+D:\Project\Storage\Storage\20090430\obj\Debug\20111012保税罐.pdb
+D:\Project\FULL REPORT\20090430\bin\Debug\20111012保税罐.exe.config
+D:\Project\FULL REPORT\20090430\obj\Debug\20111012保税罐.exe
+D:\Project\FULL REPORT\20090430\obj\Debug\20111012保税罐.xml
+D:\Project\FULL REPORT\20090430\obj\Debug\20111012保税罐.pdb
+D:\Project\FULL REPORT\20090430\bin\Debug\20111012保税罐.exe.manifest
+D:\Project\FULL REPORT\20090430\bin\Debug\20111012保税罐.application
+D:\Project\FULL REPORT\20090430\bin\Debug\20111012保税罐.exe
+D:\Project\FULL REPORT\20090430\bin\Debug\20111012保税罐.pdb
+D:\Project\FULL REPORT\20090430\bin\Debug\20111012保税罐.xml
+D:\Project\FULL REPORT\20090430\obj\Debug\Storage.vbprojResolveAssemblyReference.cache
+D:\Project\FULL REPORT\20090430\obj\Debug\_Somesoft.Bonded.resources
+D:\Project\FULL REPORT\20090430\obj\Debug\_Somesoft.ForCharlie.resources
+D:\Project\FULL REPORT\20090430\obj\Debug\_Somesoft.LoginForm1.resources
+D:\Project\FULL REPORT\20090430\obj\Debug\_Somesoft.Mdi.resources
+D:\Project\FULL REPORT\20090430\obj\Debug\_Somesoft.PRINT.resources
+D:\Project\FULL REPORT\20090430\obj\Debug\_Somesoft.XBZPD_HUICANG.resources
+D:\Project\FULL REPORT\20090430\obj\Debug\_Somesoft.XBZPD_WULIUGONGSI.resources
+D:\Project\FULL REPORT\20090430\obj\Debug\_Somesoft.XBZPD_ZONE.resources
+D:\Project\FULL REPORT\20090430\obj\Debug\_Somesoft.Resources.resources
+D:\Project\FULL REPORT\20090430\obj\Debug\_Somesoft.XBZPD_DIAOBODAN.resources
+D:\Project\FULL REPORT\20090430\obj\Debug\_Somesoft.XBZPD_KUCUN.resources
+D:\Project\FULL REPORT\20090430\obj\Debug\_Somesoft.XBZPD_LIHUODAN.resources
+D:\Project\FULL REPORT\20090430\obj\Debug\_Somesoft.XBZPD_WULIAOKU.resources
+D:\Project\FULL REPORT\20090430\obj\Debug\Storage.vbproj.GenerateResource.Cache
+D:\Project\FULL REPORT\20090430\obj\Debug\20111012保税罐.exe.manifest
+D:\Project\FULL REPORT\20090430\obj\Debug\20111012保税罐.application
+d:\Desktop\江苏海关高级证书审核需求\20090430\bin\Debug\20111012保税罐.exe.config
+d:\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\20111012保税罐.exe
+d:\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\20111012保税罐.xml
+d:\Desktop\江苏海关高级证书审核需求\20090430\obj\Debug\20111012保税罐.pdb
+d:\Desktop\江苏海关高级证书审核需求\20090430\bin\Debug\江苏海关高级证书审核需求.exe.config

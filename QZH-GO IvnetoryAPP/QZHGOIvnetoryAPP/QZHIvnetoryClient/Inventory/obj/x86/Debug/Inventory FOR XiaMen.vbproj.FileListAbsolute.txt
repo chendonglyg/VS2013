@@ -1,0 +1,77 @@
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.exe.config
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.exe
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.xml
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.pdb
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory FOR XiaMen.vbprojResolveAssemblyReference.cache
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.Calculate.resources
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.GQPD_L.resources
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.GQPD.resources
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.LoginForm1.resources
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.MDIMain.resources
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.Resources.resources
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.Print.resources
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.PrintSomething.resources
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.SA.resources
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory FOR XiaMen.vbproj.GenerateResource.Cache
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.exe.manifest
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.application
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.exe
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.pdb
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.xml
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.TrustInfo.xml
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.exe.manifest
+d:\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.application
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.exe.config
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.exe
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.xml
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.pdb
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.exe.manifest
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.application
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.exe
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.pdb
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.xml
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory FOR XiaMen.vbprojResolveAssemblyReference.cache
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.Calculate.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.LoginForm1.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.MDIMain.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.Resources.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.Print.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.SA.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory FOR XiaMen.vbproj.GenerateResource.Cache
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.TrustInfo.xml
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.exe.manifest
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.application
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.QZ_Fix.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.QZ_Inventory.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.XM_Fix.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.XM_Inventory.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.XM_PrintSomething.resources
+d:\DESKTOP\Project\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.exe.config
+d:\DESKTOP\Project\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.exe
+d:\DESKTOP\Project\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.xml
+d:\DESKTOP\Project\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.pdb
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.exe.config
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.exe
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.xml
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.pdb
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.exe.manifest
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.application
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.exe
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.pdb
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.xml
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory FOR XiaMen.vbprojResolveAssemblyReference.cache
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.Calculate.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.QZ_Fix.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.QZ_Inventory.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.XM_Fix.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.XM_Inventory.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.LoginForm1.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.MDIMain.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.Resources.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.Print.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.XM_PrintSomething.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory.SA.resources
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\Inventory FOR XiaMen.vbproj.GenerateResource.Cache
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.TrustInfo.xml
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.exe.manifest
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.application

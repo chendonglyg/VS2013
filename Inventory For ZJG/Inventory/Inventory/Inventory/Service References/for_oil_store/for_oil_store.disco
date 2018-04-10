@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://218.92.115.4:20822/for_oil_store.asmx?wsdl" docRef="http://218.92.115.4:20822/for_oil_store.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://218.92.115.4:20822/for_oil_store.asmx" xmlns:q1="http://tempuri.org/" binding="q1:For_Oil_StoreSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://218.92.115.4:20822/for_oil_store.asmx" xmlns:q2="http://tempuri.org/" binding="q2:For_Oil_StoreSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

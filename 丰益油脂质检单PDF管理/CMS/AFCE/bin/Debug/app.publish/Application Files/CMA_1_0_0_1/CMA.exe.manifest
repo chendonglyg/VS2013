@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CMA.exe" version="1.0.0.1" publicKeyToken="ef7f0aaec0fc67aa" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CMA" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="CMA.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC 清单选项
+             如果想要更改 Windows 用户帐户控制级别，请使用
+             以下节点之一替换 requestedExecutionLevel 节点。n
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            指定 requestedExecutionLevel 元素将禁用文件和注册表虚拟化。
+            如果你的应用程序需要此虚拟化来实现向后兼容性，则删除此
+            元素。
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Data.Entity" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AxInterop.HWPOSTILLib.dll" size="61440">
+      <assemblyIdentity name="AxInterop.HWPOSTILLib" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>JSK+gm2KORKXABk/wWhjLCn2kDk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CMA.exe" size="580096">
+      <assemblyIdentity name="CMA" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>BbIFLNjnFOLTQpbGRhzkzKDAvkc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Interop.HWPOSTILLib.dll" size="65536">
+      <assemblyIdentity name="Interop.HWPOSTILLib" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>tEgmCs8NXhVpE6EXAUh6O+CkryY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CMA.exe.config" size="1795">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Jmr3el+TA9z6qSW7DJjg7B8Iqqw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- 设计此应用程序与其一起工作且已针对此应用程序进行测试的
+           Windows 版本的列表。取消评论适当的元素，Windows 将
+           自动选择最兼容的环境。 -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=CDX1CARBON\CHEN DONG" issuerKeyHash="b55bcf0c66ebce41ef8857c7e516c626114c8cd5" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>7dDZujC+eOdCVqc3RAKptbk6n/E=</DigestValue></Reference></SignedInfo><SignatureValue>IK4a1g5Jy+iXKfBRrDSxOcLfDm8TJ5+5/y9m5ZKxdUiZHeddFy8DGyb44NFSfn2DeBrWGJPQyWCWvAloK/RPw5vQruelUwA4Jixy9LdTcxUA/HvV1T9GZ07VehzNob3rq3K+pm7pzGo9/l52OFaHwRizk39UFrCaqgIsOW6Z0zM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>pfx44Nc6T7L0JlDECHvjYAzgymB5PtzRBh5S6dB94j/NFwVfa+oV3Zabh2h98DvOTPHDTf+jC/pDqsISaHb9uiZYVslyayacUy294CD66LLF1yPmQROvZ7ToqCdL03HZ+znUnKa5m9UppUCJpH8KloHdm7xKNm29foxCKo0h3c0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f19f3ab9b5a9024437a75642e778be30bad9d0ed" Description="" Url=""><as:assemblyIdentity name="CMA.exe" version="1.0.0.1" publicKeyToken="ef7f0aaec0fc67aa" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CDX1CARBON\CHEN DONG</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>gMCcmWp+kU8DF63vg/yJO2AO/xY=</DigestValue></Reference></SignedInfo><SignatureValue>pJpYTxAK4ysE6DPBkEn2vtZIv1IFNpdzG9KDkiFBWXVk2zUQSpHzqx1M/wHAcMDT2ZtgC99f4mbUKezVh9oZ5NsIJdmhJVJJ6cp/qU6Z+0ZOOpe6JdA86BanmNrewxC6GO3+LsULDeyT7YUuX19sE36H/fdveFwbUkW1ajCqnLc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>pfx44Nc6T7L0JlDECHvjYAzgymB5PtzRBh5S6dB94j/NFwVfa+oV3Zabh2h98DvOTPHDTf+jC/pDqsISaHb9uiZYVslyayacUy294CD66LLF1yPmQROvZ7ToqCdL03HZ+znUnKa5m9UppUCJpH8KloHdm7xKNm29foxCKo0h3c0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQdhkUrXDe1phOytevJ/8Q3jANBgkqhkiG9w0BAQUFADAzMTEwLwYDVQQDHigAQwBEAFgAMQBDAEEAUgBCAE8ATgBcAEMASABFAE4AIABEAE8ATgBHMB4XDTE3MDgyMTA0NTMxNVoXDTE4MDgyMTEwNTMxNVowMzExMC8GA1UEAx4oAEMARABYADEAQwBBAFIAQgBPAE4AXABDAEgARQBOACAARABPAE4ARzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEApfx44Nc6T7L0JlDECHvjYAzgymB5PtzRBh5S6dB94j/NFwVfa+oV3Zabh2h98DvOTPHDTf+jC/pDqsISaHb9uiZYVslyayacUy294CD66LLF1yPmQROvZ7ToqCdL03HZ+znUnKa5m9UppUCJpH8KloHdm7xKNm29foxCKo0h3c0CAwEAATANBgkqhkiG9w0BAQUFAAOBgQAbI+ZzWUKeb5QQ1xFu45wmF25SGY0wwLXnD4fVMrQVKfQm9MCqK4lxmMDHxUFLzvafxpxl68nc5+gDQ1EoYNl9DuDlJkl/p0fUKJpx+DDRc8LkDiF/rIjqH1zyT5rYhpodo/rJRf4VCgtlwZrPGSP7N1tYQunQ+mj+J2ymlIzHPw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

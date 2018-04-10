@@ -1,0 +1,147 @@
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Debug\Balance.exe
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Debug\Balance.pdb
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Debug\Balance.xml
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\ResolveAssemblyReference.cache
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Resources.resources
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.vbproj.GenerateResource.Cache
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.exe
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.xml
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.pdb
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.LoginForm1.resources
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.MDIParent1.resources
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.ReportView.resources
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.MainB.resources
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.StoreHouse.resources
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.MainA.resources
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Report_Total.resources
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.MoveStore.resources
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.baojianhao.rpt
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.bangdan.rpt
+z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.baojianhaoweihu.resources
+I:\Balance\Balance\obj\Debug\Balance.exe
+I:\Balance\Balance\obj\Debug\Balance.xml
+I:\Balance\Balance\obj\Debug\Balance.pdb
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Debug\Balance.exe.config
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Form1.resources
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.fahuodanweihuoming.rpt
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.huomingfahuodanwei.rpt
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.huomingshouhuodanwei.rpt
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.huowufenleitongji.rpt
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Test Sum Function.rpt
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.USERMANAGE.resources
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.linshiku.rpt
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Report_Total_Export.resources
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.zhubiao_export.rpt
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.SendMessage.resources
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.useronline.resources
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.fordel.resources
+Z:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.tarelist.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\bin\Debug\Balance.exe.config
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.exe
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.xml
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.pdb
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\bin\Debug\Balance.exe
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\bin\Debug\Balance.pdb
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\bin\Debug\Balance.xml
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.baojianhao.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.bangdan.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.fahuodanweihuoming.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.huomingfahuodanwei.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.huomingshouhuodanwei.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.huowufenleitongji.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.linshiku.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.Test Sum Function.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.zhubiao_export.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.Form1.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.LoginForm1.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.MainA.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.MainB.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.MDIParent1.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.MoveStore.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.Resources.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.Report_Total.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.baojianhaoweihu.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.ReportView.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.SendMessage.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.tarelist.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.StoreHouse.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.useronline.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.USERMANAGE.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.Report_Total_Export.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.fordel.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Debug\Balance.vbproj.GenerateResource.Cache
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\bin\Release\Balance.exe.config
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\bin\Release\Balance.exe
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\bin\Release\Balance.pdb
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\bin\Release\Balance.xml
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.baojianhao.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.bangdan.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.fahuodanweihuoming.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.huomingfahuodanwei.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.huomingshouhuodanwei.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.huowufenleitongji.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.linshiku.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.Test Sum Function.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.zhubiao_export.rpt
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.Form1.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.LoginForm1.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.MainA.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.MainB.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.MDIParent1.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.MoveStore.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.Resources.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.Report_Total.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.baojianhaoweihu.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.ReportView.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.SendMessage.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.tarelist.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.StoreHouse.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.useronline.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.USERMANAGE.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.Report_Total_Export.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.fordel.resources
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.vbproj.GenerateResource.Cache
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.exe
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.xml
+C:\Users\Administrator.ZGC-20110428JTH\Desktop\Balance\Balance\obj\Release\Balance.pdb
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Debug\Balance.exe.config
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.exe
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.xml
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.pdb
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Debug\Balance.exe
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Debug\Balance.pdb
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Debug\Balance.xml
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.baojianhao.rpt
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.bangdan.rpt
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.fahuodanweihuoming.rpt
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.huomingfahuodanwei.rpt
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.huomingshouhuodanwei.rpt
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.huowufenleitongji.rpt
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.linshiku.rpt
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Test Sum Function.rpt
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.zhubiao_export.rpt
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Form1.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.LoginForm1.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.MainA.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.MainB.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.MDIParent1.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.MoveStore.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Resources.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Report_Total.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.baojianhaoweihu.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.ReportView.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.SendMessage.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.tarelist.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.StoreHouse.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.useronline.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.USERMANAGE.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Report_Total_Export.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.fordel.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Release\Balance.exe
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Release\Balance.xml
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Release\Balance.pdb
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Release\Balance.exe.config

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="Auth_User">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="username" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="code" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Auth_UserResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Auth_UserResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Load_TruckList">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="truck_no" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="code" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Load_TruckListResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Load_TruckListResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+                  <s:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Change_Truck">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="truck_no_old" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="truck_no_new" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tel_no" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="self" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="kehumingcheng" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pinming" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="shuliang" type="s:int" />
+            <s:element minOccurs="0" maxOccurs="1" name="code" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Change_TruckResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Change_TruckResult" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="Auth_UserSoapIn">
+    <wsdl:part name="parameters" element="tns:Auth_User" />
+  </wsdl:message>
+  <wsdl:message name="Auth_UserSoapOut">
+    <wsdl:part name="parameters" element="tns:Auth_UserResponse" />
+  </wsdl:message>
+  <wsdl:message name="Load_TruckListSoapIn">
+    <wsdl:part name="parameters" element="tns:Load_TruckList" />
+  </wsdl:message>
+  <wsdl:message name="Load_TruckListSoapOut">
+    <wsdl:part name="parameters" element="tns:Load_TruckListResponse" />
+  </wsdl:message>
+  <wsdl:message name="Change_TruckSoapIn">
+    <wsdl:part name="parameters" element="tns:Change_Truck" />
+  </wsdl:message>
+  <wsdl:message name="Change_TruckSoapOut">
+    <wsdl:part name="parameters" element="tns:Change_TruckResponse" />
+  </wsdl:message>
+  <wsdl:portType name="_0KMSoap">
+    <wsdl:operation name="Auth_User">
+      <wsdl:input message="tns:Auth_UserSoapIn" />
+      <wsdl:output message="tns:Auth_UserSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Load_TruckList">
+      <wsdl:input message="tns:Load_TruckListSoapIn" />
+      <wsdl:output message="tns:Load_TruckListSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Change_Truck">
+      <wsdl:input message="tns:Change_TruckSoapIn" />
+      <wsdl:output message="tns:Change_TruckSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="_0KMSoap" type="tns:_0KMSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Auth_User">
+      <soap:operation soapAction="http://tempuri.org/Auth_User" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Load_TruckList">
+      <soap:operation soapAction="http://tempuri.org/Load_TruckList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Change_Truck">
+      <soap:operation soapAction="http://tempuri.org/Change_Truck" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="_0KMSoap12" type="tns:_0KMSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Auth_User">
+      <soap12:operation soapAction="http://tempuri.org/Auth_User" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Load_TruckList">
+      <soap12:operation soapAction="http://tempuri.org/Load_TruckList" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Change_Truck">
+      <soap12:operation soapAction="http://tempuri.org/Change_Truck" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="_0KM">
+    <wsdl:port name="_0KMSoap" binding="tns:_0KMSoap">
+      <soap:address location="http://218.92.115.4:20820/0KM.asmx" />
+    </wsdl:port>
+    <wsdl:port name="_0KMSoap12" binding="tns:_0KMSoap12">
+      <soap12:address location="http://218.92.115.4:20820/0KM.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

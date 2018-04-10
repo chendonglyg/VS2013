@@ -1,0 +1,213 @@
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\bin\Debug\Inventory.exe
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\bin\Debug\Inventory.pdb
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\bin\Debug\Inventory.xml
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD.resources
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD.resources
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.KCPD.resources
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.MDIMain.resources
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Resources.resources
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\GenerateResource.read.1.tlog
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\GenerateResource.write.1.tlog
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.xml
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.DPTCPD.resources
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.WLBM.resources
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Calculate.resources
+e:\documents\visual studio 2010\Projects\Inventory\Inventory\bin\Debug\Inventory.exe.config
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\bin\Debug\Inventory.exe.config
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.xml
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\bin\Debug\Inventory.exe
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\bin\Debug\Inventory.pdb
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\bin\Debug\Inventory.xml
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Calculate.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.DPTCPD.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.KCPD.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.MDIMain.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.WLBM.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.LoginForm1.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Users.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Mission.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\ResGen.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\ResGen.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Print.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.PrintSomething.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.ImportKCDW.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Para.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Parameter.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Parameter_CY.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.canshu_xiaobaozhuang.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.XBZCK.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD_L.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Importcan.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.FLPD.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.FLPD_CODE.resources
+D:\Documents\Visual Studio 2010\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD_rongzhong.resources
+D:\2010项目\Projects\Inventory\Inventory\bin\Debug\Inventory.exe.config
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.xml
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Calculate.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.canshu_xiaobaozhuang.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD_rongzhong.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.FLPD.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.FLPD_CODE.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD_L.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Importcan.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Para.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.DPTCPD.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.ImportKCDW.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.KCPD.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.LoginForm1.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.MDIMain.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Resources.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.WLBM.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Print.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.PrintSomething.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Users.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Mission.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.XBZCK.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\ResGen.read.1.tlog
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\ResGen.write.1.tlog
+D:\2010项目\Projects\Inventory\Inventory\bin\Debug\Inventory.exe
+D:\2010项目\Projects\Inventory\Inventory\bin\Debug\Inventory.pdb
+D:\2010项目\Projects\Inventory\Inventory\bin\Debug\Inventory.xml
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Mission_EDIT.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.midu.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.JUSTCODE.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.midu_import.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.SA.resources
+D:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.XBZ_ZONE.resources
+E:\2010项目\Projects\Inventory\Inventory\bin\Debug\Inventory.exe.config
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.xml
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+E:\2010项目\Projects\Inventory\Inventory\bin\Debug\Inventory.exe
+E:\2010项目\Projects\Inventory\Inventory\bin\Debug\Inventory.pdb
+E:\2010项目\Projects\Inventory\Inventory\bin\Debug\Inventory.xml
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.vbprojResolveAssemblyReference.cache
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Calculate.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.canshu_xiaobaozhuang.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD_rongzhong.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.FLPD.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.FLPD_CODE.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD_L.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Importcan.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.JUSTCODE.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.midu.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.midu_import.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Para.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.DPTCPD.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.ImportKCDW.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.KCPD.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.LoginForm1.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.MDIMain.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Resources.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.WLBM.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Mission_EDIT.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Print.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.PrintSomething.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.SA.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Users.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.Mission.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.XBZCK.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.XBZ_ZONE.resources
+E:\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.vbproj.GenerateResource.Cache
+D:\软件项目\2010项目\Projects\Inventory\Inventory\bin\Debug\Inventory.exe.config
+D:\软件项目\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+D:\软件项目\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.xml
+D:\软件项目\2010项目\Projects\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\bin\Debug\Inventory.exe.config
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.exe
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.xml
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.pdb
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\bin\Debug\Inventory.exe
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\bin\Debug\Inventory.pdb
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\bin\Debug\Inventory.xml
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.vbprojResolveAssemblyReference.cache
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.Calculate.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.canshu_xiaobaozhuang.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.DDTCPD_rongzhong.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.FLPD.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.FLPD_CODE.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD_L.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.Importcan.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.JUSTCODE.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.midu.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.midu_import.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.Para.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.DPTCPD.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.GQPD.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.ImportKCDW.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.KCPD.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.LoginForm1.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.MDIMain.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.Resources.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.WLBM.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.Mission_EDIT.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.Print.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.PrintSomething.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.SA.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.Users.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.Mission.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.XBZCK.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.XBZ_ZONE.resources
+D:\---------------------+++++++++++++++++++++软件项目\Inventory\Inventory\obj\x86\Debug\Inventory.vbproj.GenerateResource.Cache
+D:\---------------------+++++++++++++++++++++软件项目\Inventory For LYG-GO\Inventory\bin\Debug\Inventory.exe.config
+D:\---------------------+++++++++++++++++++++软件项目\Inventory For LYG-GO\Inventory\obj\x86\Debug\Inventory.exe
+D:\---------------------+++++++++++++++++++++软件项目\Inventory For LYG-GO\Inventory\obj\x86\Debug\Inventory.xml
+D:\---------------------+++++++++++++++++++++软件项目\Inventory For LYG-GO\Inventory\obj\x86\Debug\Inventory.pdb
+D:\Project\Inventory For LYG-LO\Inventory\bin\Debug\Inventory.exe.config
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.exe
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.xml
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.pdb
+D:\Project\Inventory For LYG-LO\Inventory\bin\Debug\Inventory.exe
+D:\Project\Inventory For LYG-LO\Inventory\bin\Debug\Inventory.pdb
+D:\Project\Inventory For LYG-LO\Inventory\bin\Debug\Inventory.xml
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.vbprojResolveAssemblyReference.cache
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.Calculate.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.canshu_xiaobaozhuang.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.DDTCPD.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.DDTCPD_rongzhong.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.FLPD.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.FLPD_CODE.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.GQPD_L.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.Importcan.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.JUSTCODE.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.midu.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.midu_import.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.Para.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.DPTCPD.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.GQPD.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.ImportKCDW.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.KCPD.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.LoginForm1.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.MDIMain.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.Resources.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.WLBM.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.Mission_EDIT.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.Print.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.PrintSomething.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.SA.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.Users.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.Mission.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.XBZCK.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.XBZ_ZONE.resources
+D:\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.vbproj.GenerateResource.Cache
+d:\DESKTOP\Project\Inventory For LYG-LO\Inventory\bin\Debug\Inventory.exe.config
+d:\DESKTOP\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.exe
+d:\DESKTOP\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.xml
+d:\DESKTOP\Project\Inventory For LYG-LO\Inventory\obj\x86\Debug\Inventory.pdb

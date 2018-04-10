@@ -1,0 +1,18 @@
+D:\Project\WEB_SERVICES_VB\bin\Inventory_WEB 20140910.dll.config
+D:\Project\WEB_SERVICES_VB\bin\Inventory_WEB 20140910.dll
+D:\Project\WEB_SERVICES_VB\bin\Inventory_WEB 20140910.pdb
+D:\Project\WEB_SERVICES_VB\bin\Inventory_WEB 20140910.xml
+D:\Project\WEB_SERVICES_VB\obj\Debug\Inventory_WEB.Resources.resources
+D:\Project\WEB_SERVICES_VB\obj\Debug\WEB_SERVICES_VB.vbproj.GenerateResource.Cache
+D:\Project\WEB_SERVICES_VB\obj\Debug\Inventory_WEB 20140910.dll
+D:\Project\WEB_SERVICES_VB\obj\Debug\Inventory_WEB 20140910.xml
+D:\Project\WEB_SERVICES_VB\obj\Debug\Inventory_WEB 20140910.pdb
+D:\DESKTOP\Project\WEB_SERVICES_VB\bin\Inventory_WEB 20140910.dll.config
+D:\DESKTOP\Project\WEB_SERVICES_VB\bin\Inventory_WEB 20140910.dll
+D:\DESKTOP\Project\WEB_SERVICES_VB\bin\Inventory_WEB 20140910.pdb
+D:\DESKTOP\Project\WEB_SERVICES_VB\bin\Inventory_WEB 20140910.xml
+D:\DESKTOP\Project\WEB_SERVICES_VB\obj\Debug\Inventory_WEB.Resources.resources
+D:\DESKTOP\Project\WEB_SERVICES_VB\obj\Debug\WEB_SERVICES_VB.vbproj.GenerateResource.Cache
+D:\DESKTOP\Project\WEB_SERVICES_VB\obj\Debug\Inventory_WEB 20140910.dll
+D:\DESKTOP\Project\WEB_SERVICES_VB\obj\Debug\Inventory_WEB 20140910.xml
+D:\DESKTOP\Project\WEB_SERVICES_VB\obj\Debug\Inventory_WEB 20140910.pdb

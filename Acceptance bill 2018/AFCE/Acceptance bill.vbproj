@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="15.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2C437E61-B178-435D-B35A-ADC61EA13334}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>OA.JSON</StartupObject>
+    <RootNamespace>OA</RootNamespace>
+    <AssemblyName>Acceptance bill</AssemblyName>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Acceptance bill.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Acceptance bill.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>EEF11ECD0CB9D562F67C1DC5286E0A0E4C70505F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>OA_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.HWPOSTILLib">
+      <HintPath>..\..\..\.net-form-aiptest\aiptest\aiptest\bin\Debug\AxInterop.HWPOSTILLib.dll</HintPath>
+    </Reference>
+    <Reference Include="cvrdll, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\CVR100\cvrdll.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.HWPOSTILLib">
+      <HintPath>..\..\..\.net-form-aiptest\aiptest\aiptest\bin\Debug\Interop.HWPOSTILLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CVR100A.vb" />
+    <Compile Include="RunGif.Designer.vb">
+      <DependentUpon>RunGif.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RunGif.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bill1.Designer.vb">
+      <DependentUpon>Bill1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bill1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bill2.Designer.vb">
+      <DependentUpon>Bill2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bill2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JsonTest.Designer.vb">
+      <DependentUpon>JsonTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="JsonTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bill4.Designer.vb">
+      <DependentUpon>Bill4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bill4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bill3.Designer.vb">
+      <DependentUpon>Bill3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bill3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.vb">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CVR100.Designer.vb">
+      <DependentUpon>CVR100.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CVR100.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="RunGif.resx">
+      <DependentUpon>RunGif.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Bill1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Bill2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JsonTest.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>JsonTest.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill4.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Bill4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bill3.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Bill3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CVR100.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CVR100.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="OA_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Resources\Osx23.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slayman3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\find.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kobra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Osx03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein30.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toolbar09.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein57.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeinH05.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kobra1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein17.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kobra2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="QuartzTypeLib">
+      <Guid>{56A868B0-0AD4-11CE-B03A-0020AF0BA770}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

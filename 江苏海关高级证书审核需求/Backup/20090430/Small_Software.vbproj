@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{18780B81-7A92-4186-B880-1AE2AD335E4A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>_Somesoft.My.MyApplication</StartupObject>
+    <RootNamespace>_Somesoft</RootNamespace>
+    <AssemblyName>20111012保税罐</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <ManifestCertificateThumbprint>5D942B78D56C248653E0317DEAA021D95B098A93</ManifestCertificateThumbprint>
+    <ManifestKeyFile>20090430_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\Desktop\ALL OUTPUT FILES\20090525\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>20111012保税罐.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>20111012保税罐.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=12.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=12.0.1100.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=12.0.1100.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=12.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=12.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=12.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Can_input.Designer.vb">
+      <DependentUpon>Can_input.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Can_input.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Can_view.Designer.vb">
+      <DependentUpon>Can_view.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Can_view.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Car1.Designer.vb">
+      <DependentUpon>Car1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Car1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Car2.Designer.vb">
+      <DependentUpon>Car2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Car2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Car3.Designer.vb">
+      <DependentUpon>Car3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Car3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport3.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Find.Designer.vb">
+      <DependentUpon>Find.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Find.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="packageDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>packageDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Person.Designer.vb">
+      <DependentUpon>Person.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Person.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Input.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Input.Designer.vb">
+      <DependentUpon>Input.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.vb">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Car4.Designer.vb">
+      <DependentUpon>Car4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Car4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestFrom.Designer.vb">
+      <DependentUpon>TestFrom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TestFrom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Can_input.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Can_input.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Can_view.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Can_view.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Car1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Car1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Car2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Car2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Car3.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Car3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport3.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Find.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Find.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.zh-CHS.resx">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Person.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Person.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Input.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Input.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Car4.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Car4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestFrom.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TestFrom.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="20090430_TemporaryKey.pfx" />
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="packageDataSet.xsc">
+      <DependentUpon>packageDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packageDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>packageDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packageDataSet.xss">
+      <DependentUpon>packageDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siol3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siol2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siol1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siol4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siol5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siol6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\方向标.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\常用系统电脑图标下载24.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\128_咖啡.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\系统工具桌面图标下载10.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\车辆.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\轿车.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\128_咖啡1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chinaz21.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chinaz14.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\常用系统电脑图标下载9.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3924545A-F8E2-475A-B1A4-05175BC41E50}" />
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kobra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Osx42.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein28.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\DataSources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

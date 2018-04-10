@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="HelloWorld">
+        <s:complexType />
+      </s:element>
+      <s:element name="HelloWorldResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="HelloWorldResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="sendMessageMulti">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ds">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+            <s:element minOccurs="0" maxOccurs="1" name="sendPassword" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="sendMessageMultiResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="sendOneMessage">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="receiveNumble" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sendContent" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sendUser" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sendPassword" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="sendOneMessageResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="sendInReadyToSend">
+        <s:complexType />
+      </s:element>
+      <s:element name="sendInReadyToSendResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="getDateTime">
+        <s:complexType />
+      </s:element>
+      <s:element name="getDateTimeResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getDateTimeResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="string" nillable="true" type="s:string" />
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="HelloWorldSoapIn">
+    <wsdl:part name="parameters" element="tns:HelloWorld" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldSoapOut">
+    <wsdl:part name="parameters" element="tns:HelloWorldResponse" />
+  </wsdl:message>
+  <wsdl:message name="sendMessageMultiSoapIn">
+    <wsdl:part name="parameters" element="tns:sendMessageMulti" />
+  </wsdl:message>
+  <wsdl:message name="sendMessageMultiSoapOut">
+    <wsdl:part name="parameters" element="tns:sendMessageMultiResponse" />
+  </wsdl:message>
+  <wsdl:message name="sendOneMessageSoapIn">
+    <wsdl:part name="parameters" element="tns:sendOneMessage" />
+  </wsdl:message>
+  <wsdl:message name="sendOneMessageSoapOut">
+    <wsdl:part name="parameters" element="tns:sendOneMessageResponse" />
+  </wsdl:message>
+  <wsdl:message name="sendInReadyToSendSoapIn">
+    <wsdl:part name="parameters" element="tns:sendInReadyToSend" />
+  </wsdl:message>
+  <wsdl:message name="sendInReadyToSendSoapOut">
+    <wsdl:part name="parameters" element="tns:sendInReadyToSendResponse" />
+  </wsdl:message>
+  <wsdl:message name="getDateTimeSoapIn">
+    <wsdl:part name="parameters" element="tns:getDateTime" />
+  </wsdl:message>
+  <wsdl:message name="getDateTimeSoapOut">
+    <wsdl:part name="parameters" element="tns:getDateTimeResponse" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldHttpGetIn" />
+  <wsdl:message name="HelloWorldHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="sendOneMessageHttpGetIn">
+    <wsdl:part name="receiveNumble" type="s:string" />
+    <wsdl:part name="sendContent" type="s:string" />
+    <wsdl:part name="sendUser" type="s:string" />
+    <wsdl:part name="sendPassword" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="sendOneMessageHttpGetOut" />
+  <wsdl:message name="sendInReadyToSendHttpGetIn" />
+  <wsdl:message name="sendInReadyToSendHttpGetOut" />
+  <wsdl:message name="getDateTimeHttpGetIn" />
+  <wsdl:message name="getDateTimeHttpGetOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="HelloWorldHttpPostIn" />
+  <wsdl:message name="HelloWorldHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:message name="sendOneMessageHttpPostIn">
+    <wsdl:part name="receiveNumble" type="s:string" />
+    <wsdl:part name="sendContent" type="s:string" />
+    <wsdl:part name="sendUser" type="s:string" />
+    <wsdl:part name="sendPassword" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="sendOneMessageHttpPostOut" />
+  <wsdl:message name="sendInReadyToSendHttpPostIn" />
+  <wsdl:message name="sendInReadyToSendHttpPostOut" />
+  <wsdl:message name="getDateTimeHttpPostIn" />
+  <wsdl:message name="getDateTimeHttpPostOut">
+    <wsdl:part name="Body" element="tns:string" />
+  </wsdl:message>
+  <wsdl:portType name="ICTEnterprisesSoap">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldSoapIn" />
+      <wsdl:output message="tns:HelloWorldSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="sendMessageMulti">
+      <wsdl:input message="tns:sendMessageMultiSoapIn" />
+      <wsdl:output message="tns:sendMessageMultiSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="sendOneMessage">
+      <wsdl:input message="tns:sendOneMessageSoapIn" />
+      <wsdl:output message="tns:sendOneMessageSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="sendInReadyToSend">
+      <wsdl:input message="tns:sendInReadyToSendSoapIn" />
+      <wsdl:output message="tns:sendInReadyToSendSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getDateTime">
+      <wsdl:input message="tns:getDateTimeSoapIn" />
+      <wsdl:output message="tns:getDateTimeSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="ICTEnterprisesHttpGet">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldHttpGetIn" />
+      <wsdl:output message="tns:HelloWorldHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="sendOneMessage">
+      <wsdl:input message="tns:sendOneMessageHttpGetIn" />
+      <wsdl:output message="tns:sendOneMessageHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="sendInReadyToSend">
+      <wsdl:input message="tns:sendInReadyToSendHttpGetIn" />
+      <wsdl:output message="tns:sendInReadyToSendHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getDateTime">
+      <wsdl:input message="tns:getDateTimeHttpGetIn" />
+      <wsdl:output message="tns:getDateTimeHttpGetOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="ICTEnterprisesHttpPost">
+    <wsdl:operation name="HelloWorld">
+      <wsdl:input message="tns:HelloWorldHttpPostIn" />
+      <wsdl:output message="tns:HelloWorldHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="sendOneMessage">
+      <wsdl:input message="tns:sendOneMessageHttpPostIn" />
+      <wsdl:output message="tns:sendOneMessageHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="sendInReadyToSend">
+      <wsdl:input message="tns:sendInReadyToSendHttpPostIn" />
+      <wsdl:output message="tns:sendInReadyToSendHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getDateTime">
+      <wsdl:input message="tns:getDateTimeHttpPostIn" />
+      <wsdl:output message="tns:getDateTimeHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ICTEnterprisesSoap" type="tns:ICTEnterprisesSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sendMessageMulti">
+      <soap:operation soapAction="http://tempuri.org/sendMessageMulti" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sendOneMessage">
+      <soap:operation soapAction="http://tempuri.org/sendOneMessage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sendInReadyToSend">
+      <soap:operation soapAction="http://tempuri.org/sendInReadyToSend" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDateTime">
+      <soap:operation soapAction="http://tempuri.org/getDateTime" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ICTEnterprisesSoap12" type="tns:ICTEnterprisesSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="HelloWorld">
+      <soap12:operation soapAction="http://tempuri.org/HelloWorld" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sendMessageMulti">
+      <soap12:operation soapAction="http://tempuri.org/sendMessageMulti" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sendOneMessage">
+      <soap12:operation soapAction="http://tempuri.org/sendOneMessage" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sendInReadyToSend">
+      <soap12:operation soapAction="http://tempuri.org/sendInReadyToSend" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getDateTime">
+      <soap12:operation soapAction="http://tempuri.org/getDateTime" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ICTEnterprisesHttpGet" type="tns:ICTEnterprisesHttpGet">
+    <http:binding verb="GET" />
+    <wsdl:operation name="HelloWorld">
+      <http:operation location="/HelloWorld" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sendOneMessage">
+      <http:operation location="/sendOneMessage" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output />
+    </wsdl:operation>
+    <wsdl:operation name="sendInReadyToSend">
+      <http:operation location="/sendInReadyToSend" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output />
+    </wsdl:operation>
+    <wsdl:operation name="getDateTime">
+      <http:operation location="/getDateTime" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ICTEnterprisesHttpPost" type="tns:ICTEnterprisesHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="HelloWorld">
+      <http:operation location="/HelloWorld" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sendOneMessage">
+      <http:operation location="/sendOneMessage" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output />
+    </wsdl:operation>
+    <wsdl:operation name="sendInReadyToSend">
+      <http:operation location="/sendInReadyToSend" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output />
+    </wsdl:operation>
+    <wsdl:operation name="getDateTime">
+      <http:operation location="/getDateTime" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ICTEnterprises">
+    <wsdl:port name="ICTEnterprisesSoap" binding="tns:ICTEnterprisesSoap">
+      <soap:address location="http://222.189.4.146:8098/ICTEnterprises.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ICTEnterprisesSoap12" binding="tns:ICTEnterprisesSoap12">
+      <soap12:address location="http://222.189.4.146:8098/ICTEnterprises.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ICTEnterprisesHttpGet" binding="tns:ICTEnterprisesHttpGet">
+      <http:address location="http://222.189.4.146:8098/ICTEnterprises.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ICTEnterprisesHttpPost" binding="tns:ICTEnterprisesHttpPost">
+      <http:address location="http://222.189.4.146:8098/ICTEnterprises.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

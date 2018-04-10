@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="VB" CodeBehind="TEST.asmx.vb" Class="Inventory_WEB.Service1" %>

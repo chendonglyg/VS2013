@@ -1,0 +1,21 @@
+USE [Package]
+
+
+GO
+
+
+
+	
+delete CIQ_Receipt where 报关单号='230120161016014599'
+delete CIQ_Receipt where 合同号=''
+
+delete CIQ_Unload where 报关单号=''
+delete CIQ_Unload where 合同号=''
+
+delete CIQ_Production where 报关单号=''
+delete CIQ_Production where 合同号=''
+
+delete CIQ_Trade where 报关单号=''
+delete CIQ_Trade where 原料合同号=''
+
+GO

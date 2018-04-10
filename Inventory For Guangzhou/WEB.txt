@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<configuration>
+	<appSettings/>
+	<connectionStrings/>
+	<system.web>
+		<!-- 
+            Visual Basic 选项:
+            若设置 strict="true"，将禁止所有会导致
+            数据丢失的数据类型转换。
+            若设置 explicit="true"，将强制声明所有变量。
+        -->
+		<compilation debug="true" strict="false" explicit="true" targetFramework="4.0">
+		</compilation>
+		<!--
+      通过 <authentication> 节可以配置
+      安全身份验证模式，ASP.NET 
+      使用该模式来识别来访用户身份。 
+    -->
+		<authentication mode="Windows"/>
+		<!--
+       如果在执行请求的过程中出现未处理的错误
+       则通过 <customErrors> 节
+       可以配置相应的处理步骤。具体而言，
+       开发人员通过该节可配置要显示的 html 错误页，
+       以代替错误堆栈跟踪。
+
+       <customErrors mode="RemoteOnly" defaultRedirect="GenericErrorPage.htm">
+         <error statusCode="403" redirect="NoAccess.htm" />
+         <error statusCode="404" redirect="FileNotFound.htm" />
+       </customErrors>
+    -->
+		<pages controlRenderingCompatibilityVersion="3.5" clientIDMode="AutoID">
+			<namespaces>
+				<clear/>
+				<add namespace="System"/>
+				<add namespace="System.Collections"/>
+				<add namespace="System.Collections.Generic"/>
+				<add namespace="System.Collections.Specialized"/>
+				<add namespace="System.Configuration"/>
+				<add namespace="System.Text"/>
+				<add namespace="System.Text.RegularExpressions"/>
+				<add namespace="System.Linq"/>
+				<add namespace="System.Xml.Linq"/>
+				<add namespace="System.Web"/>
+				<add namespace="System.Web.Caching"/>
+				<add namespace="System.Web.SessionState"/>
+				<add namespace="System.Web.Security"/>
+				<add namespace="System.Web.Profile"/>
+				<add namespace="System.Web.UI"/>
+				<add namespace="System.Web.UI.WebControls"/>
+				<add namespace="System.Web.UI.WebControls.WebParts"/>
+				<add namespace="System.Web.UI.HtmlControls"/>
+			</namespaces>
+		</pages>
+	</system.web>
+	<!-- 
+        system.webServer 节是在 Internet Information Services 7.0 下运行 ASP.NET AJAX
+        所必需的。对早期版本的 IIS 来说则不需要此节。
+    -->
+</configuration>

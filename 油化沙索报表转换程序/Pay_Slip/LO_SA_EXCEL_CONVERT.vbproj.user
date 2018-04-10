@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\10.229.17.10\d%24\公司网站\SoftUpdate\LO_SA_REPORT CONVERT\|C:\Users\CHEN DONG\Desktop\Project\油化沙索报表转换程序\Click_Once\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://222.189.4.146:8099/LO_SA_REPORT CONVERT/|http://218.92.115.4:8099/LO_SA_REPORT CONVERT/|http://218.92.115.4:8099/LO_SA_REPORT CONVERT/LO_SA_REPORT CONVERT/|http://218.92.115.4:8099//</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>zh-CN</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

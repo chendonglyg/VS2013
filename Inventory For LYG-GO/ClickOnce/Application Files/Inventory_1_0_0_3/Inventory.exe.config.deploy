@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="Inventory.My.MySettings.InventoryConnectionString" connectionString="Data Source=10.229.17.10;Initial Catalog=Inventory;Persist Security Info=True;User ID=sa;Password=&quot;chen dong&quot;" providerName="System.Data.SqlClient"/>
+    </connectionStrings>
+    <system.diagnostics>
+        <sources>
+            <!-- 本节定义 My.Application.Log 的登录配置-->
+            <source name="DefaultSource" switchName="DefaultSwitch">
+                <listeners>
+                    <add name="FileLog"/>
+                    <!-- 取消注释以下一节可写入应用程序事件日志-->
+                    <!--<add name="EventLog"/>-->
+                </listeners>
+            </source>
+        </sources>
+        <switches>
+            <add name="DefaultSwitch" value="Information"/>
+        </switches>
+        <sharedListeners>
+            <add name="FileLog" type="Microsoft.VisualBasic.Logging.FileLogTraceListener, Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" initializeData="FileLogWriter"/>
+            <!-- 取消注释以下一节并用应用程序名替换 APPLICATION_NAME 可写入应用程序事件日志-->
+            <!--<add name="EventLog" type="System.Diagnostics.EventLogTraceListener" initializeData="APPLICATION_NAME"/> -->
+        </sharedListeners>
+    </system.diagnostics>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="Service1Soap" />
+                <binding name="Service2Soap" />
+                <binding name="Service3Soap" />
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://222.189.4.146:20822/Service3.asmx"
+                binding="basicHttpBinding" bindingConfiguration="Service3Soap"
+                contract="S3.Service3Soap" name="Service3Soap" />
+            <endpoint address="http://222.189.4.146:20822/Service1.asmx"
+                binding="basicHttpBinding" bindingConfiguration="Service1Soap"
+                contract="S1.Service1Soap" name="Service1Soap" />
+            <endpoint address="http://222.189.4.146:20822/Service2.asmx"
+                binding="basicHttpBinding" bindingConfiguration="Service2Soap"
+                contract="S2.Service2Soap" name="Service2Soap" />
+        </client>
+    </system.serviceModel>
+<startup><supportedRuntime version="v2.0.50727"/></startup></configuration>

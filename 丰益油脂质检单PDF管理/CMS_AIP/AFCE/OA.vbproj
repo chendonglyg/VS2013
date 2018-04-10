@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="15.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2C437E61-B178-435D-B35A-ADC61EA13334}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sub Main</StartupObject>
+    <RootNamespace>AFCE</RootNamespace>
+    <AssemblyName>OA</AssemblyName>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>OA.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>OA.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.HWPOSTILLib">
+      <HintPath>..\..\..\.net-form-aiptest\aiptest\aiptest\bin\Debug\AxInterop.HWPOSTILLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.HWPOSTILLib">
+      <HintPath>..\..\..\.net-form-aiptest\aiptest\aiptest\bin\Debug\Interop.HWPOSTILLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Seal_A.Designer.vb">
+      <DependentUpon>Seal_A.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Seal_A.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seal_B.Designer.vb">
+      <DependentUpon>Seal_B.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Seal_B.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutSourcing_B.Designer.vb">
+      <DependentUpon>OutSourcing_B.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OutSourcing_B.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OutSourcing_A.Designer.vb">
+      <DependentUpon>OutSourcing_A.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OutSourcing_A.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEMP1.Designer.vb">
+      <DependentUpon>TEMP1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEMP1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEMP.Designer.vb">
+      <DependentUpon>TEMP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEMP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEMP3.Designer.vb">
+      <DependentUpon>TEMP3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEMP3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.Designer.vb">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEMP2.Designer.vb">
+      <DependentUpon>TEMP2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEMP2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEMP4.Designer.vb">
+      <DependentUpon>TEMP4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEMP4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TEMP5.Designer.vb">
+      <DependentUpon>TEMP5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEMP5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Seal_A.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Seal_A.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seal_B.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Seal_B.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutSourcing_B.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OutSourcing_B.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OutSourcing_A.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>OutSourcing_A.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEMP1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TEMP1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEMP.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TEMP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEMP3.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TEMP3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEMP2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TEMP2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEMP4.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TEMP4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEMP5.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TEMP5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Osx23.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slayman3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\find.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kobra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Osx03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein30.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toolbar09.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein57.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeinH05.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kobra1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein17.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kobra2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

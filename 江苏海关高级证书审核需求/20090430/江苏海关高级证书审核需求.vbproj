@@ -1,0 +1,612 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{18780B81-7A92-4186-B880-1AE2AD335E4A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sub Main</StartupObject>
+    <RootNamespace>_Somesoft</RootNamespace>
+    <AssemblyName>江苏海关高级证书审核需求</AssemblyName>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <ManifestCertificateThumbprint>7EE22B2ECB9E4532D635AD5706D1C7883BFF058B</ManifestCertificateThumbprint>
+    <ManifestKeyFile>江苏海关高级证书审核需求_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>\\10.229.17.10\d%24\公司网站\SoftUpdate\CIQ\</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>http://222.189.4.146:8099/CIQ/</InstallUrl>
+    <ProductName>CIQ</ProductName>
+    <PublisherName>CHEN DONG</PublisherName>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>Default.htm</WebPage>
+    <ApplicationRevision>43</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>江苏海关高级证书审核需求.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>江苏海关高级证书审核需求.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\系统工具桌面图标下载10.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="江苏海关高级证书审核需求\Bonded Tank.Designer.vb">
+      <DependentUpon>Bonded Tank.vb</DependentUpon>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\Bonded Tank.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\4_CIQ_Production.Designer.vb">
+      <DependentUpon>4_CIQ_Production.vb</DependentUpon>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\4_CIQ_Production.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\5_CIQ_Trade.Designer.vb">
+      <DependentUpon>5_CIQ_Trade.vb</DependentUpon>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\5_CIQ_Trade.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\6_CIQ_Import.Designer.vb">
+      <DependentUpon>6_CIQ_Import.vb</DependentUpon>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\6_CIQ_Import.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\7_CIQ_View.Designer.vb">
+      <DependentUpon>7_CIQ_View.vb</DependentUpon>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\7_CIQ_View.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\MDI.Designer.vb">
+      <DependentUpon>MDI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\MDI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\Module1.vb" />
+    <Compile Include="江苏海关高级证书审核需求\PACKAGE.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PACKAGE.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\PACKAGE.vb">
+      <DependentUpon>PACKAGE.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\PRINT.Designer.vb">
+      <DependentUpon>PRINT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\PRINT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\3_CIQ_Unload.Designer.vb">
+      <DependentUpon>3_CIQ_Unload.vb</DependentUpon>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\3_CIQ_Unload.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\1_CIQ_Purchase.Designer.vb">
+      <DependentUpon>1_CIQ_Purchase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\1_CIQ_Purchase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\2_CIQ_Receipt.Designer.vb">
+      <DependentUpon>2_CIQ_Receipt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\2_CIQ_Receipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\SENDSOMETHING.Designer.vb">
+      <DependentUpon>SENDSOMETHING.vb</DependentUpon>
+    </Compile>
+    <Compile Include="江苏海关高级证书审核需求\SENDSOMETHING.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="江苏海关高级证书审核需求\4_CIQ_Production.resx">
+      <DependentUpon>4_CIQ_Production.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="江苏海关高级证书审核需求\5_CIQ_Trade.resx">
+      <DependentUpon>5_CIQ_Trade.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="江苏海关高级证书审核需求\7_CIQ_View.resx">
+      <DependentUpon>7_CIQ_View.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="江苏海关高级证书审核需求\Bonded Tank.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Bonded Tank.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="江苏海关高级证书审核需求\CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="江苏海关高级证书审核需求\6_CIQ_Import.resx">
+      <DependentUpon>6_CIQ_Import.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="江苏海关高级证书审核需求\LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="江苏海关高级证书审核需求\MDI.resx">
+      <DependentUpon>MDI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="江苏海关高级证书审核需求\PRINT.resx">
+      <DependentUpon>PRINT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="江苏海关高级证书审核需求\3_CIQ_Unload.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>3_CIQ_Unload.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="江苏海关高级证书审核需求\1_CIQ_Purchase.resx">
+      <DependentUpon>1_CIQ_Purchase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="江苏海关高级证书审核需求\2_CIQ_Receipt.resx">
+      <DependentUpon>2_CIQ_Receipt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="江苏海关高级证书审核需求\SENDSOMETHING.resx">
+      <DependentUpon>SENDSOMETHING.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="江苏海关高级证书审核需求\app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="江苏海关高级证书审核需求_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="江苏海关高级证书审核需求\PACKAGE.xsc">
+      <DependentUpon>PACKAGE.xsd</DependentUpon>
+    </None>
+    <None Include="江苏海关高级证书审核需求\PACKAGE.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PACKAGE.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="江苏海关高级证书审核需求\PACKAGE.xss">
+      <DependentUpon>PACKAGE.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\siol3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siol2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siol1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siol4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siol5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\siol6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\方向标.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\常用系统电脑图标下载24.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\128_咖啡.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\系统工具桌面图标下载10.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\车辆.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\轿车.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\128_咖啡1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chinaz21.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chinaz14.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\常用系统电脑图标下载9.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3924545A-F8E2-475A-B1A4-05175BC41E50}" />
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kobra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Osx42.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein28.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\DataSources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\仓区.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\货物图片.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="ADODB">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.CrystalReports.Engine">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ClientDoc">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommLayer">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommonControls">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommonObjectModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.Controllers">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CubeDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.DataDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.DataSetConversion">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ObjectFactory">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.Prompting">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ReportDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.XmlSerialize">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportSource">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Shared">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Windows.Forms">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="FlashControlV71">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="log4net">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.ProcessingObjectModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="ShockwaveFlashObjects">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="stdole">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

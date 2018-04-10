@@ -1,0 +1,28 @@
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\Inventory_WEB\bin\Inventory_WEB.dll.config
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\Inventory_WEB\bin\Inventory_WEB.dll
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\Inventory_WEB\bin\Inventory_WEB.pdb
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\Inventory_WEB\bin\Inventory_WEB.xml
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\Inventory_WEB\obj\Debug\Inventory_WEB.Resources.resources
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\Inventory_WEB\obj\Debug\TZGO_InventoryWeb.vbproj.GenerateResource.Cache
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\Inventory_WEB\obj\Debug\Inventory_WEB.dll
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\Inventory_WEB\obj\Debug\Inventory_WEB.xml
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\Inventory_WEB\obj\Debug\Inventory_WEB.pdb
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\Inventory_WEB\obj\Debug\TZGO_InventoryWeb.vbprojResolveAssemblyReference.cache
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\bin\Inventory_WEB.dll.config
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\bin\Inventory_WEB.dll
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\bin\Inventory_WEB.pdb
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\bin\Inventory_WEB.xml
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\obj\Debug\Inventory_WEB.Resources.resources
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\obj\Debug\TZGO_InventoryWeb.vbproj.GenerateResource.Cache
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\obj\Debug\Inventory_WEB.dll
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\obj\Debug\Inventory_WEB.xml
+C:\Users\CHEN DONG\Desktop\Inventory For TZ-GO\InventoryWebForTZ-GO\obj\Debug\Inventory_WEB.pdb
+d:\DESKTOP\Project\Inventory For TZ-GO\InventoryWebForTZ-GO\bin\Inventory_WEB.dll.config
+d:\DESKTOP\Project\Inventory For TZ-GO\InventoryWebForTZ-GO\bin\Inventory_WEB.dll
+d:\DESKTOP\Project\Inventory For TZ-GO\InventoryWebForTZ-GO\bin\Inventory_WEB.pdb
+d:\DESKTOP\Project\Inventory For TZ-GO\InventoryWebForTZ-GO\bin\Inventory_WEB.xml
+d:\DESKTOP\Project\Inventory For TZ-GO\InventoryWebForTZ-GO\obj\Debug\Inventory_WEB.Resources.resources
+d:\DESKTOP\Project\Inventory For TZ-GO\InventoryWebForTZ-GO\obj\Debug\TZGO_InventoryWeb.vbproj.GenerateResource.Cache
+d:\DESKTOP\Project\Inventory For TZ-GO\InventoryWebForTZ-GO\obj\Debug\Inventory_WEB.dll
+d:\DESKTOP\Project\Inventory For TZ-GO\InventoryWebForTZ-GO\obj\Debug\Inventory_WEB.xml
+d:\DESKTOP\Project\Inventory For TZ-GO\InventoryWebForTZ-GO\obj\Debug\Inventory_WEB.pdb

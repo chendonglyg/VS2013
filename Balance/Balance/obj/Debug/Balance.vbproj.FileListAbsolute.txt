@@ -1,0 +1,323 @@
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Debug\Balance.exe.config
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.exe
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.xml
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.pdb
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Debug\Balance.exe
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Debug\Balance.pdb
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Debug\Balance.xml
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Form1.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.LoginForm1.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.MainA.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.MainB.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.MDIParent1.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.MoveStore.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Resources.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Report_Total.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.baojianhaoweihu.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.ReportView.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.SendMessage.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.tarelist.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.StoreHouse.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.useronline.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.USERMANAGE.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Report_Total_Export.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.fordel.resources
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\ResGen.read.1.tlog
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\ResGen.write.1.tlog
+E:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Toledo20110415.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Debug\Balance.exe.config
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.exe
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.xml
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.pdb
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Form1.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.LoginForm1.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.MainA.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.MainB.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.MDIParent1.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.MoveStore.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Resources.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Report_Total.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.baojianhaoweihu.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.ReportView.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.SendMessage.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.tarelist.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.StoreHouse.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Toledo20110415.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.useronline.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.USERMANAGE.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.Report_Total_Export.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\Balance.fordel.resources
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\ResGen.read.1.tlog
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\obj\Debug\ResGen.write.1.tlog
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Debug\Balance.exe
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Debug\Balance.pdb
+D:\Documents\Visual Studio 2005\Projects\Balance\Balance\bin\Debug\Balance.xml
+D:\2005项目\Projects\Balance\Balance\bin\Debug\Balance.exe.config
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.exe
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.xml
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.pdb
+D:\2005项目\Projects\Balance\Balance\bin\Debug\Balance.exe
+D:\2005项目\Projects\Balance\Balance\bin\Debug\Balance.pdb
+D:\2005项目\Projects\Balance\Balance\bin\Debug\Balance.xml
+D:\2005项目\Projects\Balance\Balance\obj\Debug\ResolveAssemblyReference.cache
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Form1.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.LoginForm1.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MainA.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MainB.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MDIParent1.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MoveStore.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Resources.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Report_Total.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.baojianhaoweihu.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.ReportView.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.SendMessage.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.tarelist.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.StoreHouse.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Toledo20110415.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.useronline.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.USERMANAGE.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Report_Total_Export.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.fordel.resources
+D:\2005项目\Projects\Balance\Balance\obj\Debug\ResGen.read.1.tlog
+D:\2005项目\Projects\Balance\Balance\obj\Debug\ResGen.write.1.tlog
+E:\2005项目\Projects\Balance\Balance\bin\Debug\Balance.exe.config
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.exe
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.xml
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.pdb
+E:\2005项目\Projects\Balance\Balance\bin\Debug\Balance.exe
+E:\2005项目\Projects\Balance\Balance\bin\Debug\Balance.pdb
+E:\2005项目\Projects\Balance\Balance\bin\Debug\Balance.xml
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.vbprojResolveAssemblyReference.cache
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Form1.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.LoginForm1.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MainA.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MainB.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MDIParent1.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MoveStore.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Resources.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Report_Total.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.baojianhaoweihu.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.ReportView.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.SendMessage.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.tarelist.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.StoreHouse.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Toledo20110415.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.useronline.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.USERMANAGE.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Report_Total_Export.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.fordel.resources
+E:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.vbproj.GenerateResource.Cache
+C:\2005项目\Projects\Balance\Balance\bin\Debug\Balance.exe.config
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.exe
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.xml
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.pdb
+C:\2005项目\Projects\Balance\Balance\bin\Debug\Balance.exe
+C:\2005项目\Projects\Balance\Balance\bin\Debug\Balance.pdb
+C:\2005项目\Projects\Balance\Balance\bin\Debug\Balance.xml
+C:\2005项目\Projects\Balance\Balance\obj\Debug\ResolveAssemblyReference.cache
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Form1.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.LoginForm1.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MainA.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MainB.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MDIParent1.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MoveStore.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Resources.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Report_Total.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.baojianhaoweihu.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.ReportView.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.SendMessage.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.tarelist.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.StoreHouse.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Toledo20110415.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.useronline.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.USERMANAGE.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Report_Total_Export.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.fordel.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\ResGen.read.1.tlog
+C:\2005项目\Projects\Balance\Balance\obj\Debug\ResGen.write.1.tlog
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.SETBUND.resources
+C:\2005项目\Projects\Balance\Balance\obj\Debug\Balance.FirstLogin.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\bin\Debug\Balance.exe.config
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.exe
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.xml
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.pdb
+D:\软件项目\2005项目\Projects\Balance\Balance\bin\Debug\Balance.exe
+D:\软件项目\2005项目\Projects\Balance\Balance\bin\Debug\Balance.pdb
+D:\软件项目\2005项目\Projects\Balance\Balance\bin\Debug\Balance.xml
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.FirstLogin.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Form1.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.LoginForm1.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MainA.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MainB.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MDIParent1.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MoveStore.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Resources.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Report_Total.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.baojianhaoweihu.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.ReportView.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.SendMessage.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.SETBUND.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.tarelist.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.StoreHouse.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Toledo20110415.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.useronline.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.USERMANAGE.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Report_Total_Export.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.fordel.resources
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.vbprojResolveAssemblyReference.cache
+D:\软件项目\2005项目\Projects\Balance\Balance\obj\Debug\Balance.vbproj.GenerateResource.Cache
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\bin\Debug\Balance.exe.config
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.exe
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.xml
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.pdb
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\bin\Debug\Balance.exe
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\bin\Debug\Balance.pdb
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\bin\Debug\Balance.xml
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.vbprojResolveAssemblyReference.cache
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.FirstLogin.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Form1.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.LoginForm1.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MainA.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MainB.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MDIParent1.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.MoveStore.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Resources.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Report_Total.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.baojianhaoweihu.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.ReportView.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.SendMessage.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.SETBUND.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.tarelist.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.StoreHouse.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Toledo20110415.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.useronline.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.USERMANAGE.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.Report_Total_Export.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.fordel.resources
+D:\软件项目 in Alienware\2005项目\Projects\Balance\Balance\obj\Debug\Balance.vbproj.GenerateResource.Cache
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\bin\Debug\Balance.exe.config
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.exe
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.xml
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.pdb
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\bin\Debug\Balance.exe
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\bin\Debug\Balance.pdb
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\bin\Debug\Balance.xml
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.vbprojResolveAssemblyReference.cache
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.FirstLogin.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.Form1.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.LoginForm1.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.MainA.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.MainB.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.MDIParent1.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.MoveStore.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.Resources.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.Report_Total.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.baojianhaoweihu.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.ReportView.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.SendMessage.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.SETBUND.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.tarelist.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.StoreHouse.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.Toledo20110415.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.useronline.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.USERMANAGE.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.Report_Total_Export.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.fordel.resources
+D:\---------------------+++++++++++++++++++++软件项目\Balance\Balance\obj\Debug\Balance.vbproj.GenerateResource.Cache
+D:\Project\Balance\Balance\bin\Debug\Balance.exe.config
+D:\Project\Balance\Balance\obj\Debug\Balance.exe
+D:\Project\Balance\Balance\obj\Debug\Balance.xml
+D:\Project\Balance\Balance\obj\Debug\Balance.pdb
+D:\Project\Balance\Balance\bin\Debug\Balance.exe
+D:\Project\Balance\Balance\bin\Debug\Balance.pdb
+D:\Project\Balance\Balance\bin\Debug\Balance.xml
+D:\Project\Balance\Balance\obj\Debug\Balance.vbprojResolveAssemblyReference.cache
+D:\Project\Balance\Balance\obj\Debug\Balance.FirstLogin.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.Form1.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.LoginForm1.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.MainA.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.MainB.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.MDIParent1.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.MoveStore.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.Resources.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.Report_Total.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.baojianhaoweihu.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.ReportView.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.SendMessage.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.SETBUND.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.tarelist.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.StoreHouse.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.Toledo20110415.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.useronline.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.USERMANAGE.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.Report_Total_Export.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.fordel.resources
+D:\Project\Balance\Balance\obj\Debug\Balance.vbproj.GenerateResource.Cache
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\bin\Debug\Balance.exe.config
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.exe
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.xml
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.pdb
+d:\DESKTOP\Project\Balance\Balance\bin\Debug\Balance.exe.config
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.exe
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.xml
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.pdb
+d:\DESKTOP\Project\Balance\Balance\bin\Debug\Balance.exe
+d:\DESKTOP\Project\Balance\Balance\bin\Debug\Balance.pdb
+d:\DESKTOP\Project\Balance\Balance\bin\Debug\Balance.xml
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.vbprojResolveAssemblyReference.cache
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.FirstLogin.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.Form1.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.LoginForm1.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.MainA.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.MainB.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.MDIParent1.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.MoveStore.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.Resources.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.Report_Total.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.baojianhaoweihu.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.ReportView.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.SendMessage.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.SETBUND.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.tarelist.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.StoreHouse.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.Toledo20110415.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.useronline.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.USERMANAGE.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.Report_Total_Export.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.fordel.resources
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.vbproj.GenerateResource.Cache
+d:\DESKTOP\Project\Balance\Balance\bin\Debug\Balance.exe.manifest
+d:\DESKTOP\Project\Balance\Balance\bin\Debug\Balance.application
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.exe.manifest
+d:\DESKTOP\Project\Balance\Balance\obj\Debug\Balance.application
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.vbprojResolveAssemblyReference.cache
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.FirstLogin.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.Form1.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.LoginForm1.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.MainA.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.MainB.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.MDIParent1.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.MoveStore.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.Resources.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.Report_Total.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.baojianhaoweihu.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.ReportView.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.SendMessage.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.SETBUND.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.tarelist.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.StoreHouse.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.Toledo20110415.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.useronline.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.USERMANAGE.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.Report_Total_Export.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.fordel.resources
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.vbproj.GenerateResource.Cache
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\bin\Debug\Balance.exe.manifest
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\bin\Debug\Balance.application
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\bin\Debug\Balance.exe
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\bin\Debug\Balance.pdb
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\bin\Debug\Balance.xml
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.exe.manifest
+C:\Users\CHEN DONG\Desktop\Project\Balance\Balance\obj\Debug\Balance.application

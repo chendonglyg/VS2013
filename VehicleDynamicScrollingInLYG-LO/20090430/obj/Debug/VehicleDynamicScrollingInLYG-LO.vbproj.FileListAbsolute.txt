@@ -1,0 +1,159 @@
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.exe.config
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.exe.manifest
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.application
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.exe
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.pdb
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.xml
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.A2.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.A3.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.A4.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.CONTROL.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.wuliu.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.JUST_FOR_TEST.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.Trade_Report.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.A1.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.港务局测试一卡通专用.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.ForCharlie.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.MAOYI.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.PARKING.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.LoginForm1.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.Mdi.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.PRINT.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.Resources.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.SENDSOMETHING.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.TEST_READ_SAVE.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.TestJinZhongSQLDataBase.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.TestJinZhongSQLDataBaseAllData.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.View_it.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.vbproj.GenerateResource.Cache
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.TrustInfo.xml
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.exe.manifest
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.application
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.exe
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.xml
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.pdb
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.exe.config
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.exe
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.xml
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.pdb
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.exe.manifest
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.application
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.exe
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.pdb
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.xml
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.vbprojResolveAssemblyReference.cache
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.A2.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.A3.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.A4.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.CONTROL.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.wuliu.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.JUST_FOR_TEST.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.Trade_Report.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.A1.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.港务局测试一卡通专用.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.ForCharlie.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.MAOYI.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.PARKING.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.LoginForm1.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.Mdi.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.PRINT.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.Resources.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.SENDSOMETHING.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.TEST_READ_SAVE.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.TestJinZhongSQLDataBase.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.TestJinZhongSQLDataBaseAllData.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.View_it.resources
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.vbproj.GenerateResource.Cache
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.TrustInfo.xml
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.exe.manifest
+C:\Users\CHEN DONG\Desktop\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.application
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.exe.config
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.exe
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.xml
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.pdb
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.exe.manifest
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.application
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.exe
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.pdb
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.xml
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.vbprojResolveAssemblyReference.cache
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.A2.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.A3.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.A4.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.CONTROL.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.wuliu.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.JUST_FOR_TEST.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.Trade_Report.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.A1.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.港务局测试一卡通专用.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.ForCharlie.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.MAOYI.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.PARKING.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.LoginForm1.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.Mdi.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.PRINT.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.Resources.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.SENDSOMETHING.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.TEST_READ_SAVE.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.TestJinZhongSQLDataBase.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.TestJinZhongSQLDataBaseAllData.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.TestWindowsMediaPlay.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.View_it.resources
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.vbproj.GenerateResource.Cache
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.TrustInfo.xml
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.exe.manifest
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.application
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\Interop.APlayer3Lib.dll
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\Interop.WMPLib.dll
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\AxInterop.APlayer3Lib.dll
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\Interop.APlayer3Lib.dll
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\Interop.WMPLib.dll
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\AxInterop.APlayer3Lib.dll
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\CHEN DONG\Desktop\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.vbproj.ResolveComReference.cache
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.exe.config
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\Interop.APlayer3Lib.dll
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\Interop.WMPLib.dll
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\AxInterop.APlayer3Lib.dll
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\AxInterop.WMPLib.dll
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.vbproj.ResolveComReference.cache
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.exe
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.xml
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.pdb
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.exe.manifest
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.application
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.exe
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.pdb
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.xml
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\Interop.APlayer3Lib.dll
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\Interop.WMPLib.dll
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\AxInterop.APlayer3Lib.dll
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\AxInterop.WMPLib.dll
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.vbprojResolveAssemblyReference.cache
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.A2.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.A3.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.A4.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.CONTROL.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.wuliu.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.JUST_FOR_TEST.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.Trade_Report.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.A1.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.港务局测试一卡通专用.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.ForCharlie.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.MAOYI.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.PARKING.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.LoginForm1.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.Mdi.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.PRINT.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.Resources.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.SENDSOMETHING.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.TEST_READ_SAVE.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.TestJinZhongSQLDataBase.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.TestJinZhongSQLDataBaseAllData.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.TestWindowsMediaPlay.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\_Somesoft.View_it.resources
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.vbproj.GenerateResource.Cache
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.TrustInfo.xml
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.exe.manifest
+D:\DESKTOP\Project\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\VehicleDynamicScrollingInLYG-LO.application

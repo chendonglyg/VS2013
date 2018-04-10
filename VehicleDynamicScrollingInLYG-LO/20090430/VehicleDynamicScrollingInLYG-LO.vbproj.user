@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\10.229.17.10\d%24\公司网站\SoftUpdate\VehicleDynamicScrollingInLYG-LO\|\\10.229.17.10\d%24\公司网站\SoftUpdate\VehicleQueueManagement\|C:\Users\CHEN DONG\Desktop\MY_0KM_UPDATE\|D:\DESKTOP\MY_0KM_UPDATE\|C:\DESKTOP\MY_0KM_UPDATE\</PublishUrlHistory>
+    <InstallUrlHistory>http://222.189.4.146:8099/VehicleDynamicScrollingInLYG-LO/|http://222.189.4.146:8099/VehicleQueueManagement/|http://10.229.17.10:8099/VehicleQueueManagement/10.229.17.10/|http://10.229.17.10/VehicleQueueManagement/10.229.17.10/|http://10.229.17.10/VehicleQueueManagement/</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>http://218.92.115.4:8099/VehicleQueueManagement/|http://localhost:82/|http://localhost/车队排队管理/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>http://218.92.115.4:8099/VehicleQueueManagement/CR32.msi|http://218.92.115.4:8099/VehicleQueueManagement/CRRuntime_32bit_13_0_16.msi|http://localhost:82/CRRuntime_32bit_13_0_16.msi|http://localhost:82/</BootstrapperUrlHistory>
+    <FallbackCulture>zh-CN</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ReferencePath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\;C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\C:\Program Files\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet</ReferencePath>
+    <ErrorReportUrlHistory />
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

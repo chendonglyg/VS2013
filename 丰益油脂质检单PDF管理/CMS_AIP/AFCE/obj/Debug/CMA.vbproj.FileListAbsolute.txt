@@ -1,0 +1,57 @@
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\bin\Debug\CMA.exe.config
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.exe
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.xml
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.pdb
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.vbprojResolveAssemblyReference.cache
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.COA_1.resources
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.Seal_B.resources
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.COA_2.resources
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.TEMP1.resources
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.TEMP.resources
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.MDIParent1.resources
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.TEMP2.resources
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.LoginForm1.resources
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.Resources.resources
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.vbproj.GenerateResource.Cache
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\bin\Debug\CMA.exe
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\bin\Debug\CMA.pdb
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\bin\Debug\CMA.xml
+d:\DESKTOP\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.COA_3.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\bin\Debug\CMA.exe.config
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.exe
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.xml
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.pdb
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\bin\Debug\CMA.exe
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\bin\Debug\CMA.pdb
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\bin\Debug\CMA.xml
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.vbprojResolveAssemblyReference.cache
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.COA_1.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.Seal_B.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.COA_3.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.COA_2.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.TEMP1.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.TEMP.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.MDIParent1.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.TEMP2.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.LoginForm1.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.Resources.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS\AFCE\obj\Debug\CMA.vbproj.GenerateResource.Cache
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\bin\Debug\CMA.exe.config
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\obj\Debug\CMA.exe
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\obj\Debug\CMA.xml
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\obj\Debug\CMA.pdb
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\bin\Debug\CMA.exe
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\bin\Debug\CMA.pdb
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\bin\Debug\CMA.xml
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\obj\Debug\CMA.vbprojResolveAssemblyReference.cache
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\obj\Debug\CMA.COA_1.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\obj\Debug\CMA.Seal_B.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\obj\Debug\CMA.COA_3.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\obj\Debug\CMA.COA_2.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\obj\Debug\CMA.TEMP1.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\obj\Debug\CMA.TEMP.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\obj\Debug\CMA.MDIParent1.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\obj\Debug\CMA.TEMP2.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\obj\Debug\CMA.LoginForm1.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\obj\Debug\CMA.Resources.resources
+C:\Users\CHEN DONG\Desktop\丰益油脂质检单PDF管理\CMS_AIP\AFCE\obj\Debug\CMA.vbproj.GenerateResource.Cache

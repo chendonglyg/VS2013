@@ -1,0 +1,173 @@
+D:\Project\0KM\20090430\bin\Debug\车队排队管理.exe.config
+D:\Project\0KM\20090430\obj\Debug\车辆排队系统.vbprojResolveAssemblyReference.cache
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.Trade_Report.resources
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.View_it.resources
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.ForCharlie.resources
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.LoginForm1.resources
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.Mdi.resources
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.PRINT.resources
+D:\Project\0KM\20090430\obj\Debug\车辆排队系统.vbproj.GenerateResource.Cache
+D:\Project\0KM\20090430\bin\Debug\车队排队管理.exe.manifest
+D:\Project\0KM\20090430\bin\Debug\车队排队管理.application
+D:\Project\0KM\20090430\bin\Debug\车队排队管理.exe
+D:\Project\0KM\20090430\bin\Debug\车队排队管理.pdb
+D:\Project\0KM\20090430\bin\Debug\车队排队管理.xml
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.Resources.resources
+D:\Project\0KM\20090430\obj\Debug\车队排队管理.exe.manifest
+D:\Project\0KM\20090430\obj\Debug\车队排队管理.application
+D:\Project\0KM\20090430\obj\Debug\车队排队管理.exe
+D:\Project\0KM\20090430\obj\Debug\车队排队管理.xml
+D:\Project\0KM\20090430\obj\Debug\车队排队管理.pdb
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.TEST_READ_SAVE.resources
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.CONTROL.resources
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.MAOYI.resources
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.PARKING.resources
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.SENDSOMETHING.resources
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.wuliu.resources
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.A2.resources
+D:\Project\0KM\20090430\obj\Debug\车队排队管理.TrustInfo.xml
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\bin\Debug\车队排队管理.exe.config
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\车队排队管理.exe
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\车队排队管理.xml
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\车队排队管理.pdb
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\bin\Debug\车队排队管理.exe.manifest
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\bin\Debug\车队排队管理.application
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\bin\Debug\车队排队管理.exe
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\bin\Debug\车队排队管理.pdb
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\bin\Debug\车队排队管理.xml
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\车辆排队系统.vbprojResolveAssemblyReference.cache
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\_Somesoft.A2.resources
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\_Somesoft.CONTROL.resources
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\_Somesoft.wuliu.resources
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\_Somesoft.JUST_FOR_TEST.resources
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\_Somesoft.TEST_READ_SAVE.resources
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\_Somesoft.Trade_Report.resources
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\_Somesoft.View_it.resources
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\_Somesoft.ForCharlie.resources
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\_Somesoft.MAOYI.resources
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\_Somesoft.PARKING.resources
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\_Somesoft.LoginForm1.resources
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\_Somesoft.Mdi.resources
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\_Somesoft.PRINT.resources
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\_Somesoft.Resources.resources
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\_Somesoft.SENDSOMETHING.resources
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\车辆排队系统.vbproj.GenerateResource.Cache
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\车队排队管理.TrustInfo.xml
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\车队排队管理.exe.manifest
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\车队排队管理.application
+C:\Users\Opaltrade\Desktop\0KM\0KM\20090430\obj\Debug\_Somesoft.A1.resources
+D:\Project\0KM\0KM\20090430\bin\Debug\车队排队管理.exe.config
+D:\Project\0KM\0KM\20090430\obj\Debug\车队排队管理.exe
+D:\Project\0KM\0KM\20090430\obj\Debug\车队排队管理.xml
+D:\Project\0KM\0KM\20090430\obj\Debug\车队排队管理.pdb
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.JUST_FOR_TEST.resources
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.A1.resources
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.A3.resources
+D:\Project\0KM\20090430\obj\Debug\_Somesoft.A4.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\bin\Debug\车队排队管理.exe.config
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\车队排队管理.exe
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\车队排队管理.xml
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\车队排队管理.pdb
+C:\Users\CHEN DONG\Desktop\0KM\20090430\bin\Debug\车队排队管理.exe.manifest
+C:\Users\CHEN DONG\Desktop\0KM\20090430\bin\Debug\车队排队管理.application
+C:\Users\CHEN DONG\Desktop\0KM\20090430\bin\Debug\车队排队管理.exe
+C:\Users\CHEN DONG\Desktop\0KM\20090430\bin\Debug\车队排队管理.pdb
+C:\Users\CHEN DONG\Desktop\0KM\20090430\bin\Debug\车队排队管理.xml
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.A2.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.A3.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.A4.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.CONTROL.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.wuliu.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.JUST_FOR_TEST.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.TEST_READ_SAVE.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.Trade_Report.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.View_it.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.A1.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.ForCharlie.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.MAOYI.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.PARKING.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.LoginForm1.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.Mdi.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.PRINT.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.Resources.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.SENDSOMETHING.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\车辆排队系统.vbproj.GenerateResource.Cache
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\车队排队管理.TrustInfo.xml
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\车队排队管理.exe.manifest
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\车队排队管理.application
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.港务局测试一卡通专用.resources
+E:\DESKTOP\0KM\20090430\bin\Debug\车队排队管理.exe.config
+E:\DESKTOP\0KM\20090430\obj\Debug\车队排队管理.exe
+E:\DESKTOP\0KM\20090430\obj\Debug\车队排队管理.xml
+E:\DESKTOP\0KM\20090430\obj\Debug\车队排队管理.pdb
+E:\DESKTOP\0KM\20090430\bin\Debug\车队排队管理.exe.manifest
+E:\DESKTOP\0KM\20090430\bin\Debug\车队排队管理.application
+E:\DESKTOP\0KM\20090430\bin\Debug\车队排队管理.exe
+E:\DESKTOP\0KM\20090430\bin\Debug\车队排队管理.pdb
+E:\DESKTOP\0KM\20090430\bin\Debug\车队排队管理.xml
+E:\DESKTOP\0KM\20090430\obj\Debug\车辆排队系统.vbprojResolveAssemblyReference.cache
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.A2.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.A3.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.A4.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.CONTROL.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.wuliu.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.JUST_FOR_TEST.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.TEST_READ_SAVE.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.Trade_Report.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.View_it.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.A1.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.港务局测试一卡通专用.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.ForCharlie.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.MAOYI.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.PARKING.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.LoginForm1.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.Mdi.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.PRINT.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.Resources.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.SENDSOMETHING.resources
+E:\DESKTOP\0KM\20090430\obj\Debug\车辆排队系统.vbproj.GenerateResource.Cache
+E:\DESKTOP\0KM\20090430\obj\Debug\车队排队管理.TrustInfo.xml
+E:\DESKTOP\0KM\20090430\obj\Debug\车队排队管理.exe.manifest
+E:\DESKTOP\0KM\20090430\obj\Debug\车队排队管理.application
+d:\DESKTOP\0KM\20090430\bin\Debug\车队排队管理.exe.config
+d:\DESKTOP\0KM\20090430\obj\Debug\车队排队管理.exe
+d:\DESKTOP\0KM\20090430\obj\Debug\车队排队管理.xml
+d:\DESKTOP\0KM\20090430\obj\Debug\车队排队管理.pdb
+d:\DESKTOP\0KM\20090430\bin\Debug\车队排队管理.exe.manifest
+d:\DESKTOP\0KM\20090430\bin\Debug\车队排队管理.application
+d:\DESKTOP\0KM\20090430\bin\Debug\车队排队管理.exe
+d:\DESKTOP\0KM\20090430\bin\Debug\车队排队管理.pdb
+d:\DESKTOP\0KM\20090430\bin\Debug\车队排队管理.xml
+d:\DESKTOP\0KM\20090430\obj\Debug\车辆排队系统.vbprojResolveAssemblyReference.cache
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.A2.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.A3.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.A4.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.CONTROL.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.wuliu.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.JUST_FOR_TEST.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.TEST_READ_SAVE.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.Trade_Report.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.View_it.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.A1.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.港务局测试一卡通专用.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.ForCharlie.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.MAOYI.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.PARKING.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.LoginForm1.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.Mdi.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.PRINT.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.Resources.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.SENDSOMETHING.resources
+d:\DESKTOP\0KM\20090430\obj\Debug\车辆排队系统.vbproj.GenerateResource.Cache
+d:\DESKTOP\0KM\20090430\obj\Debug\车队排队管理.TrustInfo.xml
+d:\DESKTOP\0KM\20090430\obj\Debug\车队排队管理.exe.manifest
+d:\DESKTOP\0KM\20090430\obj\Debug\车队排队管理.application
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\车辆排队系统.vbprojResolveAssemblyReference.cache
+d:\DESKTOP\0KM\20090430\obj\Debug\_Somesoft.TestJinZhongSQLDataBase.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.TestJinZhongSQLDataBase.resources
+C:\Users\CHEN DONG\Desktop\0KM\20090430\obj\Debug\_Somesoft.TestJinZhongSQLDataBaseAllData.resources
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\车队排队管理.exe.config
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\车队排队管理.exe
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\车队排队管理.xml
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\obj\Debug\车队排队管理.pdb
+C:\Users\CHEN DONG\VehicleDynamicScrollingInLYG-LO\20090430\bin\Debug\VehicleDynamicScrollingInLYG-LO.exe.config

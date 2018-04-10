@@ -1,0 +1,695 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B6FC5A79-B063-4348-BB04-E3BC16537DA2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sub Main</StartupObject>
+    <RootNamespace>Inventory</RootNamespace>
+    <AssemblyName>Inventory</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Inventory.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Inventory.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.vb" />
+    <Compile Include="Calculate.Designer.vb">
+      <DependentUpon>Calculate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Calculate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="canshu_xiaobaozhuang.Designer.vb">
+      <DependentUpon>canshu_xiaobaozhuang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="canshu_xiaobaozhuang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport3.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport4.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport5.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport5.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport51.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport51.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport52.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport52.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport6.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport6.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DDTCPD.Designer.vb">
+      <DependentUpon>DDTCPD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DDTCPD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DDTCPD_rongzhong.Designer.vb">
+      <DependentUpon>DDTCPD_rongzhong.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DDTCPD_rongzhong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FLPD.Designer.vb">
+      <DependentUpon>FLPD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FLPD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FLPD_CODE.Designer.vb">
+      <DependentUpon>FLPD_CODE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FLPD_CODE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GQPD_L.Designer.vb">
+      <DependentUpon>GQPD_L.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GQPD_L.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Importcan.Designer.vb">
+      <DependentUpon>Importcan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Importcan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JUSTCODE.Designer.vb">
+      <DependentUpon>JUSTCODE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="JUSTCODE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="midu.Designer.vb">
+      <DependentUpon>midu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="midu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="midu_import.Designer.vb">
+      <DependentUpon>midu_import.vb</DependentUpon>
+    </Compile>
+    <Compile Include="midu_import.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Parameters.Designer.vb">
+      <DependentUpon>Parameters.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Parameters.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DPTCPD.Designer.vb">
+      <DependentUpon>DPTCPD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DPTCPD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GQPD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GQPD.Designer.vb">
+      <DependentUpon>GQPD.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportKCDW.Designer.vb">
+      <DependentUpon>ImportKCDW.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ImportKCDW.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KCPD.Designer.vb">
+      <DependentUpon>KCPD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KCPD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIMain.Designer.vb">
+      <DependentUpon>MDIMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ImportWLBM.Designer.vb">
+      <DependentUpon>ImportWLBM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ImportWLBM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mission_Edit.Designer.vb">
+      <DependentUpon>Mission_Edit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mission_Edit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Print.Designer.vb">
+      <DependentUpon>Print.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Print.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintSomething.Designer.vb">
+      <DependentUpon>PrintSomething.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintSomething.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Resources\DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Resources\DataSet1.vb">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SA.Designer.vb">
+      <DependentUpon>SA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service References\S3\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\ServiceReference1\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\webserver\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Users.Designer.vb">
+      <DependentUpon>Users.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Users.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mission.Designer.vb">
+      <DependentUpon>Mission.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mission.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XBZCK.Designer.vb">
+      <DependentUpon>XBZCK.vb</DependentUpon>
+    </Compile>
+    <Compile Include="XBZCK.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XBZ_ZONE.Designer.vb">
+      <DependentUpon>XBZ_ZONE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="XBZ_ZONE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Calculate.resx">
+      <DependentUpon>Calculate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="canshu_xiaobaozhuang.resx">
+      <DependentUpon>canshu_xiaobaozhuang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport3.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport4.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport4.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport5.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport5.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport51.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport51.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport52.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport52.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport6.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport6.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DDTCPD.resx">
+      <DependentUpon>DDTCPD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DDTCPD_rongzhong.resx">
+      <DependentUpon>DDTCPD_rongzhong.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FLPD.resx">
+      <DependentUpon>FLPD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FLPD_CODE.resx">
+      <DependentUpon>FLPD_CODE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GQPD_L.resx">
+      <DependentUpon>GQPD_L.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Importcan.resx">
+      <DependentUpon>Importcan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JUSTCODE.resx">
+      <DependentUpon>JUSTCODE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="midu.resx">
+      <DependentUpon>midu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="midu_import.resx">
+      <DependentUpon>midu_import.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Parameters.resx">
+      <DependentUpon>Parameters.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DPTCPD.resx">
+      <DependentUpon>DPTCPD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GQPD.resx">
+      <DependentUpon>GQPD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportKCDW.resx">
+      <DependentUpon>ImportKCDW.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KCPD.resx">
+      <DependentUpon>KCPD.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIMain.resx">
+      <DependentUpon>MDIMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportWLBM.resx">
+      <DependentUpon>ImportWLBM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mission_Edit.resx">
+      <DependentUpon>Mission_Edit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Print.resx">
+      <DependentUpon>Print.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintSomething.resx">
+      <DependentUpon>PrintSomething.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SA.resx">
+      <DependentUpon>SA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users.resx">
+      <DependentUpon>Users.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mission.resx">
+      <DependentUpon>Mission.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XBZCK.resx">
+      <DependentUpon>XBZCK.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XBZ_ZONE.resx">
+      <DependentUpon>XBZ_ZONE.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\System.Data.DataSet.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Resources\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Resources\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Hein16.jpg" />
+    <None Include="Resources\Hein22.jpg" />
+    <None Include="Resources\Hein29.jpg" />
+    <None Include="Resources\HeinH15.jpg" />
+    <None Include="Resources\Woaf31.jpg" />
+    <None Include="Service References\S3\Service3.wsdl" />
+    <None Include="Service References\ServiceReference1\Service21.wsdl" />
+    <None Include="Service References\webserver\Service1.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\S3\" />
+    <WCFMetadataStorage Include="Service References\ServiceReference1\" />
+    <WCFMetadataStorage Include="Service References\webserver\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\webserver\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\webserver\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\webserver\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kobra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein004.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slayman3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Woa13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein015.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Toolbar11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\find.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HeinH14.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MiXthepiX Favorites logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\webserver\Service1.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\psb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Osx42.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3D GEARS GEAR7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein016.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein15.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein029.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hein28.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smooth_metal_png work-group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bq_040.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceReference1\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceReference1\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceReference1\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\ServiceReference1\Service21.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6498319_094623725148_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\油品密度维护.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\油品更改提醒.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\用户管理设置.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\物料编码导入.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\库场跺位导入.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\库场参数维护.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\开发区仓库品种导入.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\罐区任务导入.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\罐区错误数据校正.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\辅料代码维护.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\大豆筒仓容重维护.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Snap3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HDK4_B{3CWIZR6MJZ}]CWST.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\物料编码.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\罐区任务导入格式说明图.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\S3\Service3.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\S3\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\S3\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\S3\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,825 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{18780B81-7A92-4186-B880-1AE2AD335E4A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>_Somesoft.TestJinZhongSQLDataBase</StartupObject>
+    <RootNamespace>_Somesoft</RootNamespace>
+    <AssemblyName>VehicleDynamicScrollingInLYG-LO</AssemblyName>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <ManifestCertificateThumbprint>C9DBB970E33AA5976EE81F4AFB6AC45F2BD4AD05</ManifestCertificateThumbprint>
+    <ManifestKeyFile>车辆排队系统_1_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>\\10.229.17.10\d%24\公司网站\SoftUpdate\VehicleDynamicScrollingInLYG-LO\</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Background</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>http://222.189.4.146:8099/VehicleDynamicScrollingInLYG-LO/</InstallUrl>
+    <UpdateUrl>http://218.92.115.4:8099/VehicleQueueManagement/</UpdateUrl>
+    <PublisherName>ChenDong</PublisherName>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>Default.htm</WebPage>
+    <ApplicationRevision>934</ApplicationRevision>
+    <ApplicationVersion>2.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsUrl>http://218.92.115.4:8099/VehicleQueueManagement/CR32.msi</BootstrapperComponentsUrl>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>VehicleDynamicScrollingInLYG-LO.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>VehicleDynamicScrollingInLYG-LO.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar.Keyboard, Version=12.5.0.2, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2, Version=12.5.0.2, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="0公里排队\A2.Designer.vb">
+      <DependentUpon>A2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\A2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0公里排队\A3.Designer.vb">
+      <DependentUpon>A3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\A3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0公里排队\A4.Designer.vb">
+      <DependentUpon>A4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\A4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0公里排队\C.Designer.vb">
+      <DependentUpon>C.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\C.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0公里排队\D.Designer.vb">
+      <DependentUpon>D.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\D.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0公里排队\JUST FOR TEST.Designer.vb">
+      <DependentUpon>JUST FOR TEST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\JUST FOR TEST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0公里排队\Trade Report.Designer.vb">
+      <DependentUpon>Trade Report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\Trade Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0公里排队\A1.Designer.vb">
+      <DependentUpon>A1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\A1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0公里排队\港务局测试一卡通专用.Designer.vb">
+      <DependentUpon>港务局测试一卡通专用.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\港务局测试一卡通专用.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\PRINTLIST.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PRINTLIST.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ForCharlie.Designer.vb">
+      <DependentUpon>ForCharlie.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ForCharlie.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0公里排队\A.Designer.vb">
+      <DependentUpon>A.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\A.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0公里排队\B.Designer.vb">
+      <DependentUpon>B.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\B.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0公里排队\LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\LoginForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0公里排队\MDI.Designer.vb">
+      <DependentUpon>MDI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\MDI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="0公里排队\Module1.vb" />
+    <Compile Include="0公里排队\PACKAGE.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PACKAGE.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\PACKAGE.vb">
+      <DependentUpon>PACKAGE.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\PRINT.Designer.vb">
+      <DependentUpon>PRINT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\PRINT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Resources.vb" />
+    <Compile Include="0公里排队\SENDSOMETHING.Designer.vb">
+      <DependentUpon>SENDSOMETHING.vb</DependentUpon>
+    </Compile>
+    <Compile Include="0公里排队\SENDSOMETHING.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Service References\lygport_inside\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\lygport_outside\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\sendmessage\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\sendmessage1710\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="TEST PICTUREBOX SAVE READ.designer.vb">
+      <DependentUpon>TEST PICTUREBOX SAVE READ.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TEST PICTUREBOX SAVE READ.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestJinZhongSQLDataBase.designer.vb">
+      <DependentUpon>TestJinZhongSQLDataBase.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TestJinZhongSQLDataBase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestJinZhongSQLDataBaseAllData.Designer.vb">
+      <DependentUpon>TestJinZhongSQLDataBaseAllData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TestJinZhongSQLDataBaseAllData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestWindowsMediaPlay.Designer.vb">
+      <DependentUpon>TestWindowsMediaPlay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TestWindowsMediaPlay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View it.designer.vb">
+      <DependentUpon>View it.vb</DependentUpon>
+    </Compile>
+    <Compile Include="View it.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="0公里排队\A2.resx">
+      <DependentUpon>A2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\A3.resx">
+      <DependentUpon>A3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\A4.resx">
+      <DependentUpon>A4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\C.resx">
+      <DependentUpon>C.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\D.resx">
+      <DependentUpon>D.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\JUST FOR TEST.resx">
+      <DependentUpon>JUST FOR TEST.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\Trade Report.resx">
+      <DependentUpon>Trade Report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\A1.resx">
+      <DependentUpon>A1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\PRINTLIST.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PRINTLIST.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\港务局测试一卡通专用.resx">
+      <DependentUpon>港务局测试一卡通专用.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForCharlie.resx">
+      <DependentUpon>ForCharlie.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\A.resx">
+      <DependentUpon>A.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\B.resx">
+      <DependentUpon>B.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\MDI.resx">
+      <DependentUpon>MDI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\PRINT.resx">
+      <DependentUpon>PRINT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="0公里排队\SENDSOMETHING.resx">
+      <DependentUpon>SENDSOMETHING.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TEST PICTUREBOX SAVE READ.resx">
+      <DependentUpon>TEST PICTUREBOX SAVE READ.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestJinZhongSQLDataBase.resx">
+      <DependentUpon>TestJinZhongSQLDataBase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestJinZhongSQLDataBaseAllData.resx">
+      <DependentUpon>TestJinZhongSQLDataBaseAllData.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestWindowsMediaPlay.resx">
+      <DependentUpon>TestWindowsMediaPlay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View it.resx">
+      <DependentUpon>View it.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\System.Data.DataTable.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Service References\lygport_inside\YhService1.wsdl" />
+    <None Include="Service References\lygport_outside\YhService.wsdl" />
+    <None Include="Service References\sendmessage\ICTEnterprises1.wsdl" />
+    <None Include="Service References\sendmessage\ICTEnterprises2.wsdl" />
+    <None Include="Service References\sendmessage1710\ICTEnterprises.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="0公里排队\PACKAGE.xsc">
+      <DependentUpon>PACKAGE.xsd</DependentUpon>
+    </None>
+    <None Include="0公里排队\PACKAGE.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PACKAGE.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="0公里排队\PACKAGE.xss">
+      <DependentUpon>PACKAGE.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3924545A-F8E2-475A-B1A4-05175BC41E50}" />
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="ADODB">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.CrystalReports.Engine">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ClientDoc">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommLayer">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommonControls">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CommonObjectModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.Controllers">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.CubeDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.DataDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.DataSetConversion">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ObjectFactory">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.Prompting">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.ReportDefModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportAppServer.XmlSerialize">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.ReportSource">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Shared">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="CrystalDecisions.Windows.Forms">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevComponents.DotNetBar.Keyboard">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="DevComponents.DotNetBar2">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="FlashControlV71">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="log4net">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.Common">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.ProcessingObjectModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.WinForms">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="ShockwaveFlashObjects">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="stdole">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\lygport_inside\" />
+    <WCFMetadataStorage Include="Service References\lygport_outside\" />
+    <WCFMetadataStorage Include="Service References\sendmessage\" />
+    <WCFMetadataStorage Include="Service References\sendmessage1710\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\sendmessage\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\sendmessage\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\sendmessage\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\lygport_outside\YhService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\lygport_outside\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\lygport_outside\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\lygport_outside\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\sendmessage\ICTEnterprises1.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\lygport_inside\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\lygport_inside\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\lygport_inside\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\lygport_inside\YhService1.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\车号按钮.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\粕.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\卸货.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\油脂.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\化工.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\登记.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\登记1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OPEN.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RUN.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\读取资料.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\sendmessage1710\ICTEnterprises.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\sendmessage1710\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\sendmessage1710\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\sendmessage1710\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="APlayer3Lib">
+      <Guid>{97830570-35FE-4195-83DE-30E79B718713}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAPlayer3Lib">
+      <Guid>{97830570-35FE-4195-83DE-30E79B718713}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

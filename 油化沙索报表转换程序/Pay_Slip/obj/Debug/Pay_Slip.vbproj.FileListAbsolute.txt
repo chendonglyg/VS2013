@@ -1,0 +1,74 @@
+D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.exe
+D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.xml
+D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.pdb
+D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip\bin\Debug\Pay_Slip.exe
+D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip\bin\Debug\Pay_Slip.pdb
+D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip\bin\Debug\Pay_Slip.xml
+D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Form1.resources
+D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Resources.resources
+D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Form2.resources
+D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Send_Messages.resources
+D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.TEL_EDIT.resources
+D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip\obj\Debug\ResGen.read.1.tlog
+D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip\obj\Debug\ResGen.write.1.tlog
+D:\Documents\Visual Studio 2005\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Form3.resources
+D:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.exe
+D:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.xml
+D:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.pdb
+D:\2005项目\Projects\Pay_Slip\Pay_Slip\bin\Debug\Pay_Slip.exe
+D:\2005项目\Projects\Pay_Slip\Pay_Slip\bin\Debug\Pay_Slip.pdb
+D:\2005项目\Projects\Pay_Slip\Pay_Slip\bin\Debug\Pay_Slip.xml
+D:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\ResolveAssemblyReference.cache
+D:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Form1.resources
+D:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Form3.resources
+D:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Resources.resources
+D:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Form2.resources
+D:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Send_Messages.resources
+D:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.TEL_EDIT.resources
+D:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\ResGen.read.1.tlog
+D:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\ResGen.write.1.tlog
+E:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.exe
+E:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.xml
+E:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.pdb
+C:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.exe
+C:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.xml
+C:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.pdb
+C:\2005项目\Projects\Pay_Slip\Pay_Slip\bin\Debug\Pay_Slip.exe
+C:\2005项目\Projects\Pay_Slip\Pay_Slip\bin\Debug\Pay_Slip.pdb
+C:\2005项目\Projects\Pay_Slip\Pay_Slip\bin\Debug\Pay_Slip.xml
+C:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\ResolveAssemblyReference.cache
+C:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Form1.resources
+C:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Form3.resources
+C:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Resources.resources
+C:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Form2.resources
+C:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Send_Messages.resources
+C:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.TEL_EDIT.resources
+C:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\ResGen.read.1.tlog
+C:\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\ResGen.write.1.tlog
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.exe
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.xml
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.pdb
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\bin\Debug\Pay_Slip.exe
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\bin\Debug\Pay_Slip.pdb
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\bin\Debug\Pay_Slip.xml
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\ResolveAssemblyReference.cache
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Form1.resources
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Form3.resources
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Resources.resources
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Form2.resources
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Send_Messages.resources
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.TEL_EDIT.resources
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\ResGen.read.1.tlog
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\ResGen.write.1.tlog
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.For_Excel_of_Pinguan.resources
+D:\软件项目\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.Gift.resources
+D:\软件项目 in Alienware\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.exe
+D:\软件项目 in Alienware\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.xml
+D:\软件项目 in Alienware\2005项目\Projects\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.pdb
+D:\Project\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.exe
+D:\Project\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.xml
+D:\Project\Pay_Slip\Pay_Slip\obj\Debug\Pay_Slip.pdb
+d:\Desktop\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.exe
+d:\Desktop\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.xml
+d:\Desktop\油化沙索报表转换程序\Pay_Slip\obj\Debug\Pay_Slip.pdb

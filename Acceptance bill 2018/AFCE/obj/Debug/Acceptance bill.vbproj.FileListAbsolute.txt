@@ -1,0 +1,29 @@
+d:\DESKTOP\PaperlessOA\AFCE\bin\Debug\Acceptance bill.exe.config
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\Interop.QuartzTypeLib.dll
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\Acceptance bill.vbproj.ResolveComReference.cache
+d:\DESKTOP\PaperlessOA\AFCE\bin\Debug\Acceptance bill.exe
+d:\DESKTOP\PaperlessOA\AFCE\bin\Debug\Acceptance bill.pdb
+d:\DESKTOP\PaperlessOA\AFCE\bin\Debug\Acceptance bill.xml
+d:\DESKTOP\PaperlessOA\AFCE\bin\Debug\Newtonsoft.Json.dll
+d:\DESKTOP\PaperlessOA\AFCE\bin\Debug\Newtonsoft.Json.xml
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\Acceptance bill.vbprojResolveAssemblyReference.cache
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\OA.RunGif.resources
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\OA.Bill1.resources
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\OA.Bill2.resources
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\OA.JSON.resources
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\OA.Bill4.resources
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\OA.Bill3.resources
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\OA.MDIParent1.resources
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\OA.CVR100.resources
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\OA.LoginForm1.resources
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\OA.Resources.resources
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\Acceptance bill.vbproj.GenerateResource.Cache
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\Acceptance bill.exe
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\Acceptance bill.xml
+d:\DESKTOP\PaperlessOA\AFCE\obj\Debug\Acceptance bill.pdb
+d:\DESKTOP\Acceptance bill 2018\AFCE\bin\Debug\Acceptance bill.exe.config
+d:\DESKTOP\Acceptance bill 2018\AFCE\obj\Debug\Interop.QuartzTypeLib.dll
+d:\DESKTOP\Acceptance bill 2018\AFCE\obj\Debug\Acceptance bill.vbproj.ResolveComReference.cache
+d:\DESKTOP\Acceptance bill 2018\AFCE\obj\Debug\Acceptance bill.exe
+d:\DESKTOP\Acceptance bill 2018\AFCE\obj\Debug\Acceptance bill.xml
+d:\DESKTOP\Acceptance bill 2018\AFCE\obj\Debug\Acceptance bill.pdb

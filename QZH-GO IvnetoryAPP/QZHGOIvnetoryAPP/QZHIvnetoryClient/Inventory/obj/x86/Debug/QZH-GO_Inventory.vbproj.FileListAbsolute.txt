@@ -1,0 +1,8 @@
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\bin\Debug\厦门工厂盘点.exe.config
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.exe
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.xml
+C:\Users\CHEN DONG\Desktop\益海（厦门）中鹭罐区管理项目\益海（厦门）中鹭罐区管理项目\Inventory For XiaMen\Inventory\obj\x86\Debug\厦门工厂盘点.pdb
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\bin\Debug\厦门工厂盘点.exe.config
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\厦门工厂盘点.exe
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\厦门工厂盘点.xml
+C:\Users\CHEN DONG\Desktop\QZH-GO IvnetoryAPP\QZHGOIvnetoryAPP\QZHIvnetoryClient\Inventory\obj\x86\Debug\厦门工厂盘点.pdb
