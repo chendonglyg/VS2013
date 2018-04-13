@@ -27,6 +27,7 @@ Public Class MainWork
     Dim objdataview As New DataView
     Dim objdataadapter As New SqlClient.SqlDataAdapter
     Dim sendsomething As New SendMessage.CTEnterprisesSoapClient
+    Dim VehicleinPark As New LYGPORT_OUTSIDE.Service1SoapClient
 
     Dim objconnection = New SqlClient.SqlConnection("Data Source= " & Trim("10.229") & "," & Trim("1433") & ";Initial Catalog = package;User ID=" & "" & "; Password=" & "")
 
@@ -153,7 +154,14 @@ Public Class MainWork
         lblValidDate.Text = System.Text.Encoding.GetEncoding("GB2312").GetString(validtermOfStart).Replace("\0", "").Trim() + "-" + System.Text.Encoding.GetEncoding("GB2312").GetString(validtermOfEnd).Replace("\0", "").Trim()
 
 
-        '-----------------------------------------以下可以利用身份证号码进行搜索和打印模式---lblIdCard.Text-------------------------------------
+
+
+        '-----------------------------------------------------------------------------------------------------------------------在搜索前应该验证停车场数据库，确定该车已驶离停车场------
+
+      
+
+
+        '-----------------------------------------以下可以利用身份证号码进行搜索和打印模式---lblIdCard.Text---------------在搜索前应该验证停车场数据库，确定该车已驶离停车场----------------------
 
         objdataadapter = New SqlClient.SqlDataAdapter
         objdataadapter.SelectCommand = New SqlClient.SqlCommand
@@ -169,16 +177,48 @@ Public Class MainWork
 
         objdataset = New DataSet
         objdataadapter.Fill(objdataset, "xdatatable")
-        xdatatable = objdataset.Tables("xdatatable")
+        '------------------------------------------------------------------------首选用身份证抽出truck表中对应车号，然后判断过去3天该车是否在停车场，然后再判断该车是否驶离停车场----
+        Dim a, TempCar As String
+        Dim VehicleParkQuit As New DataTable
 
-        If xdatatable.Rows.Count > 0 Then
-            showmessage.Text = "当前有" & xdatatable.Rows.Count & "笔可打印记录"
-            PictureBox3.Enabled = True
+        TempCar = Trim(objdataset.Tables("xdatatable").Rows(0).ItemArray("车号")) '用身份证抽出truck表中对应车号
+
+        a = VehicleinPark.VehiclePark(VehicleParkQuit, "VehiclePark_yhwebs", TempCar, 3) '看看过去三天在停车场的记录
+
+
+        If VehicleParkQuit.Rows.Count > 0 Then '判断过去72小时是否进出入过，抓作弊和避免系统错误
+
+
+            Dim drOperate As DataRow = VehicleParkQuit.Rows(0)
+            If Len(drOperate("out_time").ToString) > 0 Then '说明车有驶离记录
+                xdatatable = objdataset.Tables("xdatatable")
+                If xdatatable.Rows.Count > 0 Then
+                    showmessage.Text = "当前有" & xdatatable.Rows.Count & "笔可打印记录"
+                    PictureBox3.Enabled = True
+
+                Else
+                    showmessage.Text = "当前无记录可打印"
+                    PictureBox3.Enabled = False
+                End If
+            Else
+                showmessage.Text = "您的车辆目前还在停车场，请驶离！"
+            End If
+
 
         Else
-            showmessage.Text = "当前无记录可打印"
-            PictureBox3.Enabled = False
+            showmessage.Text = "您的车辆过去72小时内未进入过停车场！"
         End If
+
+        '--------------------------------------------------------------------------------------------------------------------------------------
+        'xdatatable = objdataset.Tables("xdatatable")
+        'If xdatatable.Rows.Count > 0 Then
+        '    showmessage.Text = "当前有" & xdatatable.Rows.Count & "笔可打印记录"
+        '    PictureBox3.Enabled = True
+
+        'Else
+        '    showmessage.Text = "当前无记录可打印"
+        '    PictureBox3.Enabled = False
+        'End If
 
 
     End Sub
@@ -320,9 +360,9 @@ Public Class MainWork
 
 
     Private Sub PictureBox2_Click(sender As Object, e As EventArgs) Handles PictureBox2.Click
-        Opencvr100()
-        TimeSum = 0
-        timer1.Enabled = True
+        Opencvr100()  '初始化读卡器
+        TimeSum = 0 '然后计数器置0
+        timer1.Enabled = True '打开计数器
 
 
         ClearTextBox(Me.Controls)

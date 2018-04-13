@@ -315,7 +315,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>Jc7ycEAHtPj9TVNyEEWlGtgWUGE=</dsig:DigestValue>
+        <dsig:DigestValue>qomcXsnUVaLcLhENVs30jSk5yRk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -332,14 +332,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SMDiagnostics.dll" size="73392">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SMDiagnostics.dll" size="73376">
       <assemblyIdentity name="SMDiagnostics" version="4.0.0.0" publicKeyToken="B77A5C561934E089" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>cJZHvsCd5PSz65Uz3vnma2kh+wI=</dsig:DigestValue>
+        <dsig:DigestValue>zNo+51bXB0Bh4GQnYMjICMT6JaY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -356,14 +356,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.ServiceModel.Internals.dll" size="254224">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.ServiceModel.Internals.dll" size="253696">
       <assemblyIdentity name="System.ServiceModel.Internals" version="4.0.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>uRCY3M4u7E7Oldmwzrk6njuqq3g=</dsig:DigestValue>
+        <dsig:DigestValue>tgbczTHhPED/97+tUN6eq7NJLcI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -385,13 +385,13 @@
       <dsig:DigestValue>fEteVhCDPl5hW7N5Uu1ydSrpy6k=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="SelfHelpSystem.pdb" size="212480">
+  <file name="SelfHelpSystem.pdb" size="214528">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>RJkx3KQF+2kmnTbGKaM2eJEZI+g=</dsig:DigestValue>
+      <dsig:DigestValue>CtA5muwkzEJshz2OxCOOi26tf/g=</dsig:DigestValue>
     </hash>
   </file>
   <file name="SelfHelpSystem.xml" size="3172">
@@ -400,7 +400,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>lVsV052Eog76N0rw3Na060JfZ9Q=</dsig:DigestValue>
+      <dsig:DigestValue>3ATBDxE1bu42niSyZt6jZV0LS6A=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">

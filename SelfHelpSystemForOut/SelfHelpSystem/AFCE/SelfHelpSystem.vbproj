@@ -165,6 +165,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Compile>
+    <Compile Include="Service References\LYGPORT_OUTSIDE\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
     <Compile Include="Service References\SendMessage\Reference.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -210,6 +215,7 @@
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
     </None>
+    <None Include="My Project\DataSources\System.Data.DataTable.datasource" />
     <None Include="My Project\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <CustomToolNamespace>My</CustomToolNamespace>
@@ -217,6 +223,7 @@
     </None>
     <None Include="SelfHelpSystem_TemporaryKey.pfx" />
     <None Include="Service References\LDAPVerification\LDAPVerification.wsdl" />
+    <None Include="Service References\LYGPORT_OUTSIDE\YhService.wsdl" />
     <None Include="Service References\SendMessage\ICTEnterprises.wsdl" />
   </ItemGroup>
   <ItemGroup>
@@ -250,6 +257,7 @@
   </ItemGroup>
   <ItemGroup>
     <WCFMetadataStorage Include="Service References\LDAPVerification\" />
+    <WCFMetadataStorage Include="Service References\LYGPORT_OUTSIDE\" />
     <WCFMetadataStorage Include="Service References\SendMessage\" />
   </ItemGroup>
   <ItemGroup>
@@ -653,6 +661,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Service References\SendMessage\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\LYGPORT_OUTSIDE\YhService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\LYGPORT_OUTSIDE\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\LYGPORT_OUTSIDE\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\LYGPORT_OUTSIDE\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.vb</LastGenOutput>
     </None>

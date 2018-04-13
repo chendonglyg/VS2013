@@ -40,3 +40,8 @@ d:\DESKTOP\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.exe.manifest
 d:\DESKTOP\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.application
 d:\DESKTOP\SelfHelpSystem\AFCE\bin\Debug\Interop.QuartzTypeLib.dll
 d:\DESKTOP\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.vbprojResolveAssemblyReference.cache
+D:\GitHub\VS2013\SelfHelpSystem\AFCE\bin\Debug\SelfHelpSystem.exe.config
+D:\GitHub\VS2013\SelfHelpSystem\AFCE\obj\Debug\Interop.QuartzTypeLib.dll
+D:\GitHub\VS2013\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.vbproj.ResolveComReference.cache
+D:\GitHub\VS2013\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.xml
+D:\GitHub\VS2013\SelfHelpSystem\AFCE\obj\Debug\SelfHelpSystem.pdb

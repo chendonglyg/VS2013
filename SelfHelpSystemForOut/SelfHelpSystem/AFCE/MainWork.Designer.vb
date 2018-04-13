@@ -303,7 +303,7 @@ Partial Class MainWork
         'PictureBox2
         '
         Me.PictureBox2.BackColor = System.Drawing.Color.Transparent
-        Me.PictureBox2.Location = New System.Drawing.Point(650, 362)
+        Me.PictureBox2.Location = New System.Drawing.Point(645, 365)
         Me.PictureBox2.Name = "PictureBox2"
         Me.PictureBox2.Size = New System.Drawing.Size(346, 83)
         Me.PictureBox2.TabIndex = 32
